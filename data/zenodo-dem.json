@@ -12800,5 +12800,23 @@
 "url": "https://zenodo.org/records/23428582/files/T03N0162%20%E9%87%91%E8%89%B2%E7%8E%8B%E7%B6%93%20Kinh%20Kim%20S%E1%BA%AFc%20V%C6%B0%C6%A1ng%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
 }
 ]
+},
+"23446106": {
+"tieu_de": "T03N0163 妙色王因緣經 Kinh Diệu Sắc Vương Nhân Duyên (01 quyển)",
+"ngay": "2026-10-18",
+"doi_chung": "10.5281/zenodo.23446105",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03n0163_001 - file âm.docx",
+"kb": 889,
+"url": "https://zenodo.org/records/23446106/files/T03n0163_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T03N0163 妙色王因緣經 Kinh Diệu Sắc Vương Nhân Duyên (01 quyển).pdf",
+"kb": 787,
+"url": "https://zenodo.org/records/23446106/files/T03N0163%20%E5%A6%99%E8%89%B2%E7%8E%8B%E5%9B%A0%E7%B7%A3%E7%B6%93%20Kinh%20Di%E1%BB%87u%20S%E1%BA%AFc%20V%C6%B0%C6%A1ng%20Nh%C3%A2n%20Duy%C3%AAn%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
 }
 }
