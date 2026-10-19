@@ -1,7 +1,7 @@
 {
  "tong": {
-  "cap_nhat": "2026-10-19T09:03+07:00",
-  "so_muc": 25,
+  "cap_nhat": "2026-10-19T09:32+07:00",
+  "so_muc": 26,
   "bang_chu": [
    "A",
    "Ă",
@@ -33,7 +33,8 @@
    "X",
    "Y"
   ],
-  "blog": "https://giainghiatuvung.blogspot.com"
+  "blog": "https://giainghiatuvung.blogspot.com",
+  "dau_moc": "2026-10-18T19:21:45.867-07:00"
  },
  "muc": [
   {
@@ -301,6 +302,20 @@
    "goc": "https://giainghiatuvung.blogspot.com/2026/07/yet-tra-bo-at-na-quy.html",
    "tep": "bai/2026-07-yet-tra-bo-at-na-quy.html",
    "tim": "羯吒布怛那鬼 yet tra bo dat na quy 羯吒布怛那，梵語 kata putana。 yet tra bo dat na, tieng sanskrit la kata putana 又作迦吒富單那鬼、迦吒布單那鬼。 con goi la ca tra phu don na quy, ca tra bo don na quy. 意譯作奇臭鬼、極醜鬼。 dich nghia ‘ky xu quy’ (quy hoi la thuong), ‘cuc xu quy’ (quy cuc ky xau xi) 古印度認為剎帝利種若有劣行時，則死後成為此種鬼形，住於下界，受餓鬼之苦。 nguoi an do co dai cho rang nguoi thuoc chung toc sat loi khi con song ma lam viec xau xa, thi sau khi chet se hoa thanh loai quy nay, song o canh gioi thap kem, chiu noi kho cua loai nga quy. 羯吒（梵 kata），為屍體、火葬場之意，故或指住於葬地之鬼神。 yet tra (tieng sanskrit la kata) nghia la tu thi, hoac noi hoa tang; vi the danh tu nay chi cho loai quy"
+  },
+  {
+   "tieu_de": "羯荼國 - YẾT TRÀ QUỐC (cũng đọc Yết-đồ)",
+   "han": "羯荼國",
+   "hv": "YẾT TRÀ QUỐC (cũng đọc Yết-đồ)",
+   "chu": "Y",
+   "nhan": [
+    "Y"
+   ],
+   "ngay": "2026-10-18",
+   "tom_tat": "羯荼，梵名 Kaccha。 Yết-trà, tiếng Phạn: Kaccha 位於蘇門答臘北端。即今之庫塔拉查（Khota-raja）。 Nằm ở cực bắc đảo Sumatra, tức là Khố-tháp-lạp-tra (Khota-raja) ngày nay. 根本說一切有部百一羯磨卷五之…",
+   "goc": "https://giainghiatuvung.blogspot.com/2026/10/yet-tra-quoc-cung-oc-yet-o.html",
+   "tep": "bai/2026-10-yet-tra-quoc-cung-oc-yet-o.html",
+   "tim": "羯荼國 yet tra quoc (cung doc yet do) 羯荼，梵名 kaccha。 yet tra, tieng phan: kaccha 位於蘇門答臘北端。即今之庫塔拉查（khota raja）。 nam o cuc bac dao sumatra, tuc la kho thap lap tra (khota raja) ngay nay. 根本說一切有部百一羯磨卷五之義淨註（大二四‧四七七下）： loi chu giai cua ngai nghia tinh trong can ban thuyet nhut thiet huu bo bach nhut yet ma quyen 05 (dai chanh tang tap 24, trang 477c) chep: 「從斯兩月汎舶東南到羯荼國，此屬佛逝。舶到之時，當正二月，若向師子洲西南進舶，傳有七百驛。」 “tu day [ben cang tai an do] di thuyen ve huong dong nam 02 thang thi den duoc nuoc yet tra; nuoc nay thuoc phat the. luc thuyen den noi, nham thang gieng, thang 02. neu di thuyen ve huong tay nam den su tu chau thi tuong truyen duong xa"
   },
   {
    "tieu_de": "咽中津液上味相 - YẾT TRUNG TÂN DỊCH THƯỢNG VỊ TƯỚNG",
