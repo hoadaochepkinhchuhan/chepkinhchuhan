@@ -2,7 +2,7 @@ name: Cập nhật và đăng website
 
 on:
   schedule:
-    # 03:13 sáng thứ Hai giờ Việt Nam (20:13 Chủ nhật giờ UTC)
+    # 03:13 sáng mỗi ngày giờ Việt Nam (20:13 giờ UTC hôm trước)
     - cron: "13 20 * * *"
   # nút "Run workflow" để chạy tay bất cứ lúc nào
   workflow_dispatch:
@@ -28,6 +28,8 @@ jobs:
       url: ${{ steps.dang.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # luôn lấy bản mới nhất, kể cả khi lần chạy này phải xếp hàng chờ
 
       - uses: actions/setup-python@v5
         with:
@@ -35,6 +37,9 @@ jobs:
 
       - name: Kéo bài từ blog và tra Zenodo
         run: python scripts/cap_nhat.py
+
+      - name: Sao lưu blog Giải Nghĩa Từ Vựng
+        run: python scripts/tu_vung.py
 
       - name: Lưu dữ liệu mới vào kho
         run: |
