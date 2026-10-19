@@ -1,10 +1,10 @@
 {
  "tong": {
-  "cap_nhat": "2026-10-19T05:24+07:00",
-  "so_bai": 531,
-  "so_kinh": 501,
-  "so_quyen": 1671,
-  "so_doi": 495,
+  "cap_nhat": "2026-10-19T09:01+07:00",
+  "so_bai": 532,
+  "so_kinh": 502,
+  "so_quyen": 1672,
+  "so_doi": 496,
   "blog_ok": true
  },
  "muc": [
@@ -2931,6 +2931,25 @@
    "tep": "bai/2026-10-t03n0163-kinh-dieu-sac-vuong-nhan-duyen.html",
    "files": 2,
    "tim": "t03n0163 妙色王因緣經 kinh dieu sac vuong nhan duyen (01 quyen) bo bon duyen",
+   "nhom": "T"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "T03N0164 師子素馱娑王斷肉經 Kinh Sư Tử Tố Đà Sa Vương Đoạn Nhục (01 quyển)",
+   "ma": "T03n0164",
+   "han": "師子素馱娑王斷肉經",
+   "hv": "Kinh Sư Tử Tố Đà Sa Vương Đoạn Nhục",
+   "quyen": 1,
+   "bo": [
+    "Bộ Bổn Duyên"
+   ],
+   "ngay": "2026-10-19",
+   "doi": "10.5281/zenodo.23461512",
+   "tai_ve": "https://drive.google.com/drive/folders/11sLlCoD_bRxkuG80bBUsEdg2vKO3GkU8?usp=drive_link",
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/10/t03n0164-kinh-su-tu-to-sa-vuong-oan.html",
+   "tep": "bai/2026-10-t03n0164-kinh-su-tu-to-sa-vuong-oan.html",
+   "files": 2,
+   "tim": "t03n0164 師子素馱娑王斷肉經 kinh su tu to da sa vuong doan nhuc (01 quyen) bo bon duyen",
    "nhom": "T"
   },
   {
