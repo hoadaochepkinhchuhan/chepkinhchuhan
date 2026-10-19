@@ -2,7 +2,9 @@ name: Cập nhật và đăng website
 
 on:
   schedule:
-    # 03:13 sáng mỗi ngày giờ Việt Nam (20:13 giờ UTC hôm trước)
+    # Kiểm tra nhanh mỗi 5 phút: blog có bài mới hoặc bài sửa thì cập nhật ngay
+    - cron: "*/5 * * * *"
+    # Cập nhật đầy đủ mỗi ngày lúc 03:13 sáng giờ Việt Nam (20:13 giờ UTC hôm trước), kể cả tìm trên Zenodo
     - cron: "13 20 * * *"
   # nút "Run workflow" để chạy tay bất cứ lúc nào
   workflow_dispatch:
@@ -15,14 +17,36 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: cap-nhat
-  cancel-in-progress: false
-
 jobs:
+  kiem-tra:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      co_moi: ${{ steps.xem.outputs.co_moi }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout: |
+            /scripts/kiem_tra.py
+            /data/muc-luc.json
+            /tu-vung/data/tu-vung.json
+          sparse-checkout-cone-mode: false
+
+      - id: xem
+        name: Xem hai blog có gì mới không
+        env:
+          LUON_CHAY: ${{ github.event_name != 'schedule' || github.event.schedule == '13 20 * * *' }}
+        run: python3 scripts/kiem_tra.py
+
   cap-nhat:
+    needs: kiem-tra
+    if: needs.kiem-tra.outputs.co_moi == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    concurrency:
+      group: cap-nhat
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.dang.outputs.page_url }}
