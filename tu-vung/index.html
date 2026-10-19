@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Giải Nghĩa Từ Vựng · Chép Kinh Chữ Hán</title>
+<meta name="description" content="Giải nghĩa từ vựng Phật học: nguyên văn chữ Hán đối chiếu tiếng Việt, tra theo âm Hán Việt, chữ Hán hoặc tên Phạn, Pāli. Bản dự phòng của blog 詞彙釋義 Giải Nghĩa Từ Vựng.">
+<link rel="stylesheet" href="../assets/kieu.css">
+<script src="../assets/do-luong.js"></script>
+</head>
+<body>
+<header class="dau-trang">
+  <a class="ten-site" href="../index.html"><span lang="zh-Hant">冩漢字佛經</span> Chép Kinh Chữ Hán</a>
+  <nav><a href="../muc-luc.html">Mục lục</a><a href="index.html" aria-current="page">Từ vựng</a></nav>
+</header>
+
+<main>
+  <section class="bia bia-tu-vung">
+    <p class="de-ky" lang="zh-Hant" aria-hidden="true"><span>詞</span><span>彙</span><span>釋</span><span>義</span></p>
+    <div class="tieu-de-bia">
+      <h1>Giải Nghĩa Từ Vựng</h1>
+      <p class="gioi-thieu">Giải nghĩa từ vựng Phật học, nguyên văn chữ Hán đối chiếu tiếng Việt, xếp theo âm Hán Việt.</p>
+    </div>
+    <form class="o-tim" role="search" onsubmit="return false">
+      <label class="an" for="q">Tìm từ</label>
+      <input id="q" type="search" placeholder="Âm Hán Việt, chữ Hán, hoặc tên Phạn, Pāli" autocomplete="off">
+    </form>
+    <p class="so-lieu" id="so-lieu"></p>
+  </section>
+
+  <div class="muc-luc tu-vung">
+    <nav class="bang-chu" id="bang-chu" aria-label="Tra theo chữ cái"></nav>
+    <p class="ket-qua" id="ket-qua" aria-live="polite"></p>
+    <div id="danh-sach"></div>
+  </div>
+</main>
+
+<footer class="chan-trang">
+  <p>Bản dự phòng của blog <a href="https://giainghiatuvung.blogspot.com/" rel="noopener"><span lang="zh-Hant">詞彙釋義</span> Giải Nghĩa Từ Vựng</a>. Trang tự cập nhật mỗi ngày từ blog gốc; nếu blog gốc gặp sự cố, các mục đã lưu vẫn còn nguyên ở đây.</p>
+  <p id="cap-nhat"></p>
+</footer>
+
+<script src="data/tu-vung.js"></script>
+<script src="../assets/chung.js"></script>
+<script>
+(function () {
+  "use strict";
+  var C = window.CKCH, D = window.TU_VUNG;
+  var hop = document.getElementById("danh-sach"), oKetQua = document.getElementById("ket-qua");
+  if (!D) {
+    oKetQua.textContent = "Chưa có dữ liệu. Bản sao lưu sẽ có sau lần cập nhật kế tiếp.";
+    return;
+  }
+  var t = D.tong;
+  document.getElementById("so-lieu").innerHTML = "<strong>" + C.so(t.so_muc) + "</strong> mục từ.";
+  document.getElementById("cap-nhat").textContent =
+    "Cập nhật lần cuối " + C.ngayVN(t.cap_nhat) + " lúc " + t.cap_nhat.slice(11, 16) + " (giờ Việt Nam).";
+
+  // ---- dựng danh sách theo chữ cái, một lần
+  var nhom = {}, thuTu = [], dong = [];
+  D.muc.forEach(function (d) {
+    var n = nhom[d.chu];
+    if (!n) {
+      var sec = C.el("section", "nhom");
+      sec.id = "chu-" + d.chu;
+      sec.appendChild(C.el("h2", null, d.chu));
+      hop.appendChild(sec);
+      n = nhom[d.chu] = { el: sec, dong: [] };
+      thuTu.push(d.chu);
+    }
+    var a = C.el("a", "tu");
+    a.href = d.tep;
+    var dau = C.el("span", "dau");
+    if (d.han) { var h = C.el("span", "han", d.han); h.lang = "zh-Hant"; dau.appendChild(h); }
+    dau.appendChild(C.el("span", "hv", d.hv));
+    a.appendChild(dau);
+    if (d.tom_tat) a.appendChild(C.el("span", "tom-tat", d.tom_tat));
+    if (d.khong_con_tren_blog) a.appendChild(C.el("span", "ghi-chu", "Không còn trên blog gốc"));
+    n.el.appendChild(a);
+    var m = { d: d, el: a };
+    n.dong.push(m); dong.push(m);
+  });
+
+  // ---- thanh chữ cái: chữ có mục thì bấm được, chữ chưa có thì mờ
+  var bang = document.getElementById("bang-chu"), nutChu = {};
+  (t.bang_chu || []).concat(thuTu.filter(function (c) { return (t.bang_chu || []).indexOf(c) === -1; }))
+    .forEach(function (chu) {
+      var e;
+      if (nhom[chu]) { e = C.el("a", null, chu); e.href = "#chu-" + chu; }
+      else { e = C.el("span", "trong-chu", chu); e.setAttribute("aria-hidden", "true"); }
+      nutChu[chu] = e; bang.appendChild(e);
+    });
+
+  // ---- tìm
+  var oTim = document.getElementById("q");
+  function chuan(s) { return C.khongDau(s).replace(/-/g, " ").replace(/\s+/g, " ").trim(); }
+  function loc() {
+    var tu = chuan(oTim.value).split(" ").filter(Boolean), hien = 0;
+    dong.forEach(function (m) {
+      var ok = tu.every(function (w) { return m.d.tim.indexOf(w) !== -1; });
+      m.el.hidden = !ok; if (ok) hien++;
+    });
+    thuTu.forEach(function (chu) {
+      var an = nhom[chu].dong.every(function (m) { return m.el.hidden; });
+      nhom[chu].el.hidden = an;
+      if (nutChu[chu]) nutChu[chu].classList.toggle("mo", an);
+    });
+    oKetQua.textContent = tu.length
+      ? (hien ? "Tìm thấy " + C.so(hien) + " mục." : "Không có mục nào khớp. Thử gõ âm Hán Việt không dấu, ví dụ: yet ma.")
+      : "";
+    try {
+      var qs = oTim.value.trim() ? "?q=" + encodeURIComponent(oTim.value.trim()) : location.pathname;
+      clearTimeout(loc.hen);
+      loc.hen = setTimeout(function () { history.replaceState(null, "", qs + location.hash); }, 1500);
+    } catch (e) {}
+  }
+  oTim.value = new URLSearchParams(location.search).get("q") || "";
+  var hen;
+  oTim.addEventListener("input", function () { clearTimeout(hen); hen = setTimeout(loc, 120); });
+  loc();
+  if (location.hash && document.getElementById(location.hash.slice(1))) {
+    document.getElementById(location.hash.slice(1)).scrollIntoView();
+  }
+})();
+</script>
+</body>
+</html>

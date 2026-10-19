@@ -431,7 +431,7 @@ MAU_BAI = """<!doctype html>
 <body class="trang-bai">
 <header class="dau-trang">
   <a class="ten-site" href="../index.html"><span lang="zh-Hant">冩漢字佛經</span> Chép Kinh Chữ Hán</a>
-  <nav><a href="../muc-luc.html">Mục lục</a></nav>
+  <nav><a href="../muc-luc.html">Mục lục</a><a href="../tu-vung/index.html">Từ vựng</a></nav>
 </header>
 <main class="bai">
   <p class="duong-dan"><a href="../muc-luc.html">Mục lục</a>{bo_html}</p>

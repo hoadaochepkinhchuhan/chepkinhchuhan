@@ -91,6 +91,18 @@ Mục nào đã có bài blog thì không lấy thêm từ Zenodo hay `dang-bai.
 
 Website tự xếp bộ theo mã tạng (T0001–0151 vào Bộ A Hàm, T0220–0261 vào Bộ Bát Nhã…, X… vào Vạn Tục Tạng, không có mã thì vào Danh mục khác). Tiêu đề trên Zenodo nên giữ dạng giống blog, ví dụ `T30N1566 般若燈論釋 Bát Nhã Đăng Luận Thích (15 quyển)`, để website tách được mã, tên và số quyển.
 
+## Giải Nghĩa Từ Vựng
+
+Website còn giữ bản dự phòng của blog **詞彙釋義 Giải Nghĩa Từ Vựng** ([giainghiatuvung.blogspot.com](https://giainghiatuvung.blogspot.com/)), ở mục **Từ vựng** trên thanh đầu trang (thư mục `tu-vung/`).
+
+- Mỗi sáng, cùng lần cập nhật với Chép Kinh, script `scripts/tu_vung.py` kéo toàn bộ bài từ blog, lưu nội dung và ảnh, sinh trang cho từng mục.
+- Trang tra cứu xếp theo chữ cái âm Hán Việt (A, B, C… Y). Tìm được bằng âm Hán Việt có dấu hoặc không dấu, chữ Hán, hoặc tên Phạn, Pāli nằm ở đầu bài.
+- Mỗi trang mục từ có nút **Mục trước / Mục sau** theo thứ tự chữ cái.
+- Chữ cái của mỗi mục lấy theo **nhãn** trên blog (A, Y…). Bài nào chưa gắn nhãn thì lấy chữ đầu của âm Hán Việt.
+- Tiêu đề trên blog nên giữ dạng `chữ Hán - ÂM HÁN VIỆT` (có dấu gạch ngang giữa hai phần) để website tách đúng.
+- Link từ bài này sang bài khác trong blog, hoặc sang bài bên blog Chép Kinh, được đổi thành link tới bản lưu.
+- Blog không vào được thì phần này giữ nguyên bản đã lưu, không làm hỏng lần đăng website.
+
 ## Gắn tên miền riêng (tùy chọn)
 
 Nếu sau này mua tên miền (ví dụ `chepkinhchuhan.org`): **Settings → Pages → Custom domain**, nhập tên miền, rồi làm theo hướng dẫn của GitHub để thêm bản ghi DNS ở nơi mua tên miền. Đổi tên miền không ảnh hưởng gì tới dữ liệu.
