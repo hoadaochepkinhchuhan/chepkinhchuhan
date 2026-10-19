@@ -124,10 +124,15 @@ class Nguon:
         return tai(url, nhi_phan=True)
 
 
+DAU_MOC: dict[str, str] = {}   # thời điểm blog đổi gần nhất, theo feed (dùng cho kiểm tra nhanh)
+
+
 def keo_feed(nguon: Nguon, loai: str) -> list[dict]:
     tat_ca, bat_dau, buoc = [], 1, 150
     while True:
         trang = nguon.feed(loai, bat_dau, buoc).get("feed", {})
+        if bat_dau == 1:
+            DAU_MOC[loai] = (trang.get("updated") or {}).get("$t", "")
         muc = trang.get("entry", [])
         if not muc:
             break
@@ -637,7 +642,9 @@ def xu_ly(nguon: Nguon):
 
     # Mục cũ trong bản lưu: bài blog lần này không thấy (blog lỗi hoặc bài bị gỡ) vẫn giữ lại
     cu = THU_MUC_DATA / "muc-luc.json"
-    muc_cu = json.loads(cu.read_text("utf-8")).get("muc", []) if cu.exists() else []
+    goi_cu = json.loads(cu.read_text("utf-8")) if cu.exists() else {}
+    muc_cu = goi_cu.get("muc", [])
+    dau_moc_cu = (goi_cu.get("tong") or {}).get("dau_moc")
     tep_moi = {d["tep"] for d in danh_sach}
     giu_blog = [d for d in muc_cu if d.get("loai") in ("bai", "trang")
                 and d["tep"] not in tep_moi and (GOC / d["tep"]).exists()]
@@ -745,6 +752,7 @@ def xu_ly(nguon: Nguon):
         "so_quyen": sum(d["quyen"] or 0 for d in danh_sach if la_kinh(d)),
         "so_doi": sum(1 for d in danh_sach if d["doi"]),
         "blog_ok": blog_ok,
+        "dau_moc": DAU_MOC.get("posts") if blog_ok else dau_moc_cu,
     }
     goi = {"tong": tong, "muc": danh_sach}
     (THU_MUC_DATA / "muc-luc.json").write_text(

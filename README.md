@@ -4,7 +4,7 @@ Bản dự phòng của blog [hoadaochepkinhchuhan.blogspot.com](https://hoadaoc
 
 Website: **https://hoadaochepkinhchuhan.github.io/chepkinhchuhan/**
 
-Mỗi sáng lúc 3:13 (giờ Việt Nam), GitHub tự kéo bài mới từ blog, tìm bản ghi mới của Hoa Đạo trên Zenodo, lưu lại bài viết và ảnh bìa, rồi đăng lại website. Không cần cập nhật tay.
+Cứ 5 phút GitHub xem hai blog có bài mới hoặc bài sửa không; có thì kéo về, lưu bài viết và ảnh, rồi đăng lại website. Mỗi sáng lúc 3:13 (giờ Việt Nam) còn chạy một lần đầy đủ, kể cả tìm bản ghi mới của Hoa Đạo trên Zenodo. Không cần cập nhật tay.
 
 ## Website gồm những gì
 
@@ -69,7 +69,9 @@ Làm tương tự với file rỗng `.nojekyll` (tạo file tên `.nojekyll`, đ
 
 ## Sau khi cài xong
 
-**Không cần làm gì thêm.** Mỗi sáng website tự cập nhật. Muốn cập nhật ngay sau khi đăng bài mới: tab **Actions** → **Run workflow**.
+**Không cần làm gì thêm.** Đăng bài trên blog thì thường sau khoảng 5–15 phút website có bài (GitHub có thể chạy trễ hơn lịch lúc máy chủ đông). Muốn chắc chắn có ngay: tab **Actions** → **Run workflow**, khoảng 2–3 phút.
+
+Trong tab **Actions** sẽ thấy rất nhiều lần chạy, cứ 5 phút một lần. Phần lớn chỉ mất vài giây vì không có gì mới (bước "cap-nhat" hiện màu xám là bị bỏ qua, không phải lỗi).
 
 **Khi nhận email báo lỗi từ GitHub:** thường là blog gốc hoặc Zenodo tạm thời không phản hồi. Đợi một lúc rồi bấm **Re-run jobs**. Nếu blog gốc thật sự mất, website vẫn giữ nguyên bản cuối cùng.
 
@@ -95,7 +97,7 @@ Website tự xếp bộ theo mã tạng (T0001–0151 vào Bộ A Hàm, T0220–
 
 Website còn giữ bản dự phòng của blog **詞彙釋義 Giải Nghĩa Từ Vựng** ([giainghiatuvung.blogspot.com](https://giainghiatuvung.blogspot.com/)), ở mục **Từ vựng** trên thanh đầu trang (thư mục `tu-vung/`).
 
-- Mỗi sáng, cùng lần cập nhật với Chép Kinh, script `scripts/tu_vung.py` kéo toàn bộ bài từ blog, lưu nội dung và ảnh, sinh trang cho từng mục.
+- Cùng lần cập nhật với Chép Kinh (có bài mới thì sau vài phút, và mỗi sáng một lần đầy đủ), script `scripts/tu_vung.py` kéo toàn bộ bài từ blog, lưu nội dung và ảnh, sinh trang cho từng mục.
 - Trang tra cứu xếp theo chữ cái âm Hán Việt (A, B, C… Y). Tìm được bằng âm Hán Việt có dấu hoặc không dấu, chữ Hán, hoặc tên Phạn, Pāli nằm ở đầu bài.
 - Mỗi trang mục từ có nút **Mục trước / Mục sau** theo thứ tự chữ cái.
 - Chữ cái của mỗi mục lấy theo **nhãn** trên blog (A, Y…). Bài nào chưa gắn nhãn thì lấy chữ đầu của âm Hán Việt.

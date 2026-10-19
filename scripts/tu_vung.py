@@ -234,7 +234,7 @@ def xu_ly(nguon: Nguon):
 
     goi = {
         "tong": {"cap_nhat": bay_gio.isoformat(timespec="minutes"), "so_muc": len(tat_ca),
-                 "bang_chu": BANG_CHU, "blog": BLOG},
+                 "bang_chu": BANG_CHU, "blog": BLOG, "dau_moc": c.DAU_MOC.get("posts")},
         "muc": tat_ca,
     }
     tep_data.write_text(json.dumps(goi, ensure_ascii=False, indent=1), "utf-8")
