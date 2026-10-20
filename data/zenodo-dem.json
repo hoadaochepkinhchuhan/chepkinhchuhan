@@ -12836,5 +12836,23 @@
 "url": "https://zenodo.org/records/23461512/files/T03N0164%20%E5%B8%AB%E5%AD%90%E7%B4%A0%E9%A6%B1%E5%A8%91%E7%8E%8B%E6%96%B7%E8%82%89%E7%B6%93%20Kinh%20S%C6%B0%20T%E1%BB%AD%20T%E1%BB%91%20%C4%90%C3%A0%20Sa%20V%C6%B0%C6%A1ng%20%C4%90o%E1%BA%A1n%20Nh%E1%BB%A5c%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
 }
 ]
+},
+"23486839": {
+"tieu_de": "T03N0166 月光菩薩經 Kinh Nguyệt Quang Bồ Tát (01 quyển)",
+"ngay": "2026-10-20",
+"doi_chung": "10.5281/zenodo.23486838",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03N0166 月光菩薩經 Kinh Nguyệt Quang Bồ Tát (01 quyển).pdf",
+"kb": 888,
+"url": "https://zenodo.org/records/23486839/files/T03N0166%20%E6%9C%88%E5%85%89%E8%8F%A9%E8%96%A9%E7%B6%93%20Kinh%20Nguy%E1%BB%87t%20Quang%20B%E1%BB%93%20T%C3%A1t%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T03n0166_001 - file âm.docx",
+"kb": 917,
+"url": "https://zenodo.org/records/23486839/files/T03n0166_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
 }
 }
