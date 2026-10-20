@@ -12854,5 +12854,33 @@
 "url": "https://zenodo.org/records/23486839/files/T03n0166_001%20-%20file%20%C3%A2m.docx?download=1"
 }
 ]
+},
+"23487974": {
+"tieu_de": "Hướng dẫn đính âm theo phương pháp VBA",
+"ngay": "2026-10-20",
+"doi_chung": "10.5281/zenodo.23487973",
+"giay_phep": "cc-by-4.0",
+"files": [
+{
+"ten": "Hướng dẫn phương pháp đính âm.pdf",
+"kb": 941,
+"url": "https://zenodo.org/records/23487974/files/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20%C4%91%C3%ADnh%20%C3%A2m.pdf?download=1"
+},
+{
+"ten": "[Hoa Đạo] Code VBA.txt",
+"kb": 4,
+"url": "https://zenodo.org/records/23487974/files/%5BHoa%20%C4%90%E1%BA%A1o%5D%20Code%20VBA.txt?download=1"
+},
+{
+"ten": "[Hoa Đạo] Danh mục từ (có pinyin).txt",
+"kb": 131,
+"url": "https://zenodo.org/records/23487974/files/%5BHoa%20%C4%90%E1%BA%A1o%5D%20Danh%20m%E1%BB%A5c%20t%E1%BB%AB%20%28c%C3%B3%20pinyin%29.txt?download=1"
+},
+{
+"ten": "[Hoa Đạo] Danh mục từ (không pinyin).txt",
+"kb": 75,
+"url": "https://zenodo.org/records/23487974/files/%5BHoa%20%C4%90%E1%BA%A1o%5D%20Danh%20m%E1%BB%A5c%20t%E1%BB%AB%20%28kh%C3%B4ng%20pinyin%29.txt?download=1"
+}
+]
 }
 }

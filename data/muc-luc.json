@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-10-20T07:54+07:00",
-  "so_bai": 533,
+  "cap_nhat": "2026-10-20T10:21+07:00",
+  "so_bai": 534,
   "so_kinh": 503,
   "so_quyen": 1673,
-  "so_doi": 497,
+  "so_doi": 498,
   "blog_ok": true,
-  "dau_moc": "2026-10-20T07:45:39.260+07:00"
+  "dau_moc": "2026-10-20T09:55:57.647+07:00"
  },
  "muc": [
   {
@@ -10129,6 +10129,25 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2025/11/danh-muc-tai-file-chep-kinh-chu-han.html",
    "tep": "bai/2025-11-danh-muc-tai-file-chep-kinh-chu-han.html",
    "tim": "danh muc dai chanh tang danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "HƯỚNG DẪN ĐÍNH ÂM HÁN VIỆT TRÊN KINH VĂN HÁN CỔ BẰNG PHƯƠNG PHÁP VBA",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Giới thiệu"
+   ],
+   "ngay": "2026-10-20",
+   "doi": "10.5281/zenodo.23487974",
+   "tai_ve": "https://drive.google.com/drive/folders/1ti_dRIM-pgdbO3q3GzpaNugUN82f3N4G?usp=sharing",
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/10/huong-dan-inh-am-han-viet-tren-kinh-van.html",
+   "tep": "bai/2026-10-huong-dan-inh-am-han-viet-tren-kinh-van.html",
+   "files": 4,
+   "tim": "huong dan dinh am han viet tren kinh van han co bang phuong phap vba gioi thieu",
    "nhom": "khac"
   }
  ]
