@@ -12859,7 +12859,7 @@
 "tieu_de": "Hướng dẫn đính âm theo phương pháp VBA",
 "ngay": "2026-10-20",
 "doi_chung": "10.5281/zenodo.23487973",
-"giay_phep": "cc-by-4.0",
+"giay_phep": "cc-by-sa-4.0",
 "files": [
 {
 "ten": "Hướng dẫn phương pháp đính âm.pdf",
@@ -12880,6 +12880,179 @@
 "ten": "[Hoa Đạo] Danh mục từ (không pinyin).txt",
 "kb": 75,
 "url": "https://zenodo.org/records/23487974/files/%5BHoa%20%C4%90%E1%BA%A1o%5D%20Danh%20m%E1%BB%A5c%20t%E1%BB%AB%20%28kh%C3%B4ng%20pinyin%29.txt?download=1"
+},
+{
+"ten": "Lưu ý.png",
+"kb": 161,
+"url": "https://zenodo.org/records/23487974/files/L%C6%B0u%20%C3%BD.png?download=1"
+}
+]
+},
+"23490352": {
+"tieu_de": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (16 quyển)",
+"ngay": "2026-10-20",
+"doi_chung": "10.5281/zenodo.23490351",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 08).pdf",
+"kb": 1713,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2008%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 02).pdf",
+"kb": 1483,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2002%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 11).pdf",
+"kb": 1474,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2011%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 03).pdf",
+"kb": 1652,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2003%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 09).pdf",
+"kb": 1559,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2009%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 06).pdf",
+"kb": 1685,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2006%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 07).pdf",
+"kb": 1439,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2007%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 15).pdf",
+"kb": 1684,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2015%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 13).pdf",
+"kb": 1495,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2013%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 04).pdf",
+"kb": 1616,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2004%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 12).pdf",
+"kb": 1563,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2012%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 14).pdf",
+"kb": 1464,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2014%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 16).pdf",
+"kb": 1507,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2016%29.pdf?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 10).pdf",
+"kb": 1191,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2010%29.pdf?download=1"
+},
+{
+"ten": "T0100_006.docx",
+"kb": 1155,
+"url": "https://zenodo.org/records/23490352/files/T0100_006.docx?download=1"
+},
+{
+"ten": "T0100_011.docx",
+"kb": 1103,
+"url": "https://zenodo.org/records/23490352/files/T0100_011.docx?download=1"
+},
+{
+"ten": "T0100_001.docx",
+"kb": 1129,
+"url": "https://zenodo.org/records/23490352/files/T0100_001.docx?download=1"
+},
+{
+"ten": "T0100_014.docx",
+"kb": 1097,
+"url": "https://zenodo.org/records/23490352/files/T0100_014.docx?download=1"
+},
+{
+"ten": "T0100_002.docx",
+"kb": 1079,
+"url": "https://zenodo.org/records/23490352/files/T0100_002.docx?download=1"
+},
+{
+"ten": "T0100_003.docx",
+"kb": 1125,
+"url": "https://zenodo.org/records/23490352/files/T0100_003.docx?download=1"
+},
+{
+"ten": "T0100_008.docx",
+"kb": 1183,
+"url": "https://zenodo.org/records/23490352/files/T0100_008.docx?download=1"
+},
+{
+"ten": "T0100_010.docx",
+"kb": 1029,
+"url": "https://zenodo.org/records/23490352/files/T0100_010.docx?download=1"
+},
+{
+"ten": "T0100_015.docx",
+"kb": 1167,
+"url": "https://zenodo.org/records/23490352/files/T0100_015.docx?download=1"
+},
+{
+"ten": "T0100_007.docx",
+"kb": 1085,
+"url": "https://zenodo.org/records/23490352/files/T0100_007.docx?download=1"
+},
+{
+"ten": "T0100_009.docx",
+"kb": 1127,
+"url": "https://zenodo.org/records/23490352/files/T0100_009.docx?download=1"
+},
+{
+"ten": "T0100_004.docx",
+"kb": 1115,
+"url": "https://zenodo.org/records/23490352/files/T0100_004.docx?download=1"
+},
+{
+"ten": "T0100_005.docx",
+"kb": 1150,
+"url": "https://zenodo.org/records/23490352/files/T0100_005.docx?download=1"
+},
+{
+"ten": "T0100_013.docx",
+"kb": 1098,
+"url": "https://zenodo.org/records/23490352/files/T0100_013.docx?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 05).pdf",
+"kb": 1768,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2005%29.pdf?download=1"
+},
+{
+"ten": "T0100_016.docx",
+"kb": 1109,
+"url": "https://zenodo.org/records/23490352/files/T0100_016.docx?download=1"
+},
+{
+"ten": "T0100_012.docx",
+"kb": 1133,
+"url": "https://zenodo.org/records/23490352/files/T0100_012.docx?download=1"
+},
+{
+"ten": "T02N0100 別譯雜阿含經 Biệt Dịch Tạp A Hàm Kinh (Quyển 01).pdf",
+"kb": 1576,
+"url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2001%29.pdf?download=1"
 }
 ]
 }
