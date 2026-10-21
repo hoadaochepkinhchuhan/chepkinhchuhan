@@ -13055,5 +13055,23 @@
 "url": "https://zenodo.org/records/23490352/files/T02N0100%20%E5%88%A5%E8%AD%AF%E9%9B%9C%E9%98%BF%E5%90%AB%E7%B6%93%20Bi%E1%BB%87t%20D%E1%BB%8Bch%20T%E1%BA%A1p%20A%20H%C3%A0m%20Kinh%20%28Quy%E1%BB%83n%2001%29.pdf?download=1"
 }
 ]
+},
+"23521934": {
+"tieu_de": "T03N0167 太子慕魄經 Kinh Thái Tử Mộ Phách (01 quyển)",
+"ngay": "2026-10-21",
+"doi_chung": "10.5281/zenodo.23521933",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03n0167_001 - file âm.docx",
+"kb": 916,
+"url": "https://zenodo.org/records/23521934/files/T03n0167_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T03N0167 太子慕魄經 Kinh Thái Tử Mộ Phách (01 quyển).pdf",
+"kb": 977,
+"url": "https://zenodo.org/records/23521934/files/T03N0167%20%E5%A4%AA%E5%AD%90%E6%85%95%E9%AD%84%E7%B6%93%20Kinh%20Th%C3%A1i%20T%E1%BB%AD%20M%E1%BB%99%20Ph%C3%A1ch%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
 }
 }
