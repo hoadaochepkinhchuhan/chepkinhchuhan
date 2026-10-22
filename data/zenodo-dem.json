@@ -13091,5 +13091,23 @@
 "url": "https://zenodo.org/records/23536031/files/T03n0168_001%20-%20file%20%C3%A2m.docx?download=1"
 }
 ]
+},
+"23552542": {
+"tieu_de": "T03N0169 月明菩薩經 Kinh Nguyệt Minh Bồ Tát (01 quyển)",
+"ngay": "2026-10-22",
+"doi_chung": "10.5281/zenodo.23552541",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03N0169 月明菩薩經 Kinh Nguyệt Minh Bồ Tát (01 quyển).pdf",
+"kb": 781,
+"url": "https://zenodo.org/records/23552542/files/T03N0169%20%E6%9C%88%E6%98%8E%E8%8F%A9%E8%96%A9%E7%B6%93%20Kinh%20Nguy%E1%BB%87t%20Minh%20B%E1%BB%93%20T%C3%A1t%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T03n0169_001 - file âm.docx",
+"kb": 888,
+"url": "https://zenodo.org/records/23552542/files/T03n0169_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
 }
 }

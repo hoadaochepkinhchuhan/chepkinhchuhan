@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-10-22T06:16+07:00",
-  "so_bai": 537,
-  "so_kinh": 506,
-  "so_quyen": 1691,
-  "so_doi": 501,
+  "cap_nhat": "2026-10-22T11:13+07:00",
+  "so_bai": 538,
+  "so_kinh": 507,
+  "so_quyen": 1692,
+  "so_doi": 502,
   "blog_ok": true,
-  "dau_moc": "2026-10-21T21:01:57.236+07:00"
+  "dau_moc": "2026-10-22T11:12:01.796+07:00"
  },
  "muc": [
   {
@@ -3027,6 +3027,25 @@
    "tep": "bai/2026-10-t03n0168-kinh-thai-tu-mo-phach-01-quyen.html",
    "files": 2,
    "tim": "t03n0168 太子慕魄經 kinh thai tu mo phach (01 quyen) bo bon duyen",
+   "nhom": "T"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "T03N0169 月明菩薩經 Kinh Nguyệt Minh Bồ Tát (01 quyển)",
+   "ma": "T03n0169",
+   "han": "月明菩薩經",
+   "hv": "Kinh Nguyệt Minh Bồ Tát",
+   "quyen": 1,
+   "bo": [
+    "Bộ Bổn Duyên"
+   ],
+   "ngay": "2026-10-22",
+   "doi": "10.5281/zenodo.23552542",
+   "tai_ve": "https://drive.google.com/drive/folders/11sLlCoD_bRxkuG80bBUsEdg2vKO3GkU8?usp=drive_link",
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/10/t03n0169-kinh-nguyet-minh-bo-tat-01.html",
+   "tep": "bai/2026-10-t03n0169-kinh-nguyet-minh-bo-tat-01.html",
+   "files": 2,
+   "tim": "t03n0169 月明菩薩經 kinh nguyet minh bo tat (01 quyen) bo bon duyen",
    "nhom": "T"
   },
   {
