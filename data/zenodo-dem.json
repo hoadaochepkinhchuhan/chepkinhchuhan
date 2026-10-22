@@ -13127,5 +13127,41 @@
 "url": "https://zenodo.org/records/23556129/files/T03n0170_001%20-%20file%20%C3%A2m.docx?download=1"
 }
 ]
+},
+"23556726": {
+"tieu_de": "T03N0172 菩薩投身飴餓虎起塔因緣經 Kinh Bồ Tát Đầu Thân Di Ngạ Hổ Khởi Tháp Nhân Duyên (01 quyển)",
+"ngay": "2026-10-22",
+"doi_chung": "10.5281/zenodo.23556725",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03N0172 菩薩投身飴餓虎起塔因緣經 (file âm).pdf",
+"kb": 1395,
+"url": "https://zenodo.org/records/23556726/files/T03N0172%20%E8%8F%A9%E8%96%A9%E6%8A%95%E8%BA%AB%E9%A3%B4%E9%A4%93%E8%99%8E%E8%B5%B7%E5%A1%94%E5%9B%A0%E7%B7%A3%E7%B6%93%20%28file%20%C3%A2m%29.pdf?download=1"
+},
+{
+"ten": "T03n0172_001 - file âm.docx",
+"kb": 1002,
+"url": "https://zenodo.org/records/23556726/files/T03n0172_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
+},
+"23556500": {
+"tieu_de": "T03N0171 太子須大拏經 Kinh Thái Tử Tu Đại Noa (01 quyển)",
+"ngay": "2026-10-22",
+"doi_chung": "10.5281/zenodo.23556499",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03N0171 太子須大拏經 Kinh Thái Tử Tu Đại Noa (01 quyển).pdf",
+"kb": 1532,
+"url": "https://zenodo.org/records/23556500/files/T03N0171%20%E5%A4%AA%E5%AD%90%E9%A0%88%E5%A4%A7%E6%8B%8F%E7%B6%93%20Kinh%20Th%C3%A1i%20T%E1%BB%AD%20Tu%20%C4%90%E1%BA%A1i%20Noa%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T03n0171_001 - file âm.docx",
+"kb": 1074,
+"url": "https://zenodo.org/records/23556500/files/T03n0171_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
 }
 }
