@@ -13163,5 +13163,23 @@
 "url": "https://zenodo.org/records/23556500/files/T03n0171_001%20-%20file%20%C3%A2m.docx?download=1"
 }
 ]
+},
+"23607588": {
+"tieu_de": "T03N0174 菩薩睒子經 Kinh Bồ Tát Thiểm Tử (01 quyển)",
+"ngay": "2026-10-24",
+"doi_chung": "10.5281/zenodo.23607587",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03n0174_001 - file âm.docx",
+"kb": 923,
+"url": "https://zenodo.org/records/23607588/files/T03n0174_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T03N0174 菩薩睒子經 Kinh Bồ Tát Thiểm Tử (01 quyển).pdf",
+"kb": 932,
+"url": "https://zenodo.org/records/23607588/files/T03N0174%20%E8%8F%A9%E8%96%A9%E7%9D%92%E5%AD%90%E7%B6%93%20Kinh%20B%E1%BB%93%20T%C3%A1t%20Thi%E1%BB%83m%20T%E1%BB%AD%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
 }
 }

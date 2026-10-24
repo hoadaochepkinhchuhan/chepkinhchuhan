@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-10-24T06:07+07:00",
-  "so_bai": 541,
-  "so_kinh": 510,
-  "so_quyen": 1695,
-  "so_doi": 505,
+  "cap_nhat": "2026-10-24T08:24+07:00",
+  "so_bai": 542,
+  "so_kinh": 511,
+  "so_quyen": 1696,
+  "so_doi": 506,
   "blog_ok": true,
-  "dau_moc": "2026-10-23T16:04:14.000+07:00"
+  "dau_moc": "2026-10-24T08:22:53.101+07:00"
  },
  "muc": [
   {
@@ -3103,6 +3103,25 @@
    "tep": "bai/2026-10-t03n0172-kinh-bo-tat-au-than-di-nga-ho.html",
    "files": 2,
    "tim": "t03n0172 菩薩投身飴餓虎起塔因緣經 kinh bo tat dau than di nga ho khoi thap nhan duyen (01 quyen) bo bon duyen",
+   "nhom": "T"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "T03N0174 菩薩睒子經 Kinh Bồ Tát Thiểm Tử (01 quyển)",
+   "ma": "T03n0174",
+   "han": "菩薩睒子經",
+   "hv": "Kinh Bồ Tát Thiểm Tử",
+   "quyen": 1,
+   "bo": [
+    "Bộ Bổn Duyên"
+   ],
+   "ngay": "2026-10-24",
+   "doi": "10.5281/zenodo.23607588",
+   "tai_ve": "https://drive.google.com/drive/folders/11sLlCoD_bRxkuG80bBUsEdg2vKO3GkU8?usp=drive_link",
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/10/t03n0174-kinh-bo-tat-thiem-tu-01-quyen.html",
+   "tep": "bai/2026-10-t03n0174-kinh-bo-tat-thiem-tu-01-quyen.html",
+   "files": 2,
+   "tim": "t03n0174 菩薩睒子經 kinh bo tat thiem tu (01 quyen) bo bon duyen",
    "nhom": "T"
   },
   {
