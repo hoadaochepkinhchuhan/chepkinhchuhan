@@ -13209,5 +13209,23 @@
 "url": "https://zenodo.org/records/23611744/files/T2813_002.docx?download=1"
 }
 ]
+},
+"23618604": {
+"tieu_de": "T03N0175a 睒子經 Kinh Thiểm Tử (01 quyển)",
+"ngay": "2026-10-24",
+"doi_chung": "10.5281/zenodo.23618603",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03n0175a_001 - file âm.docx",
+"kb": 916,
+"url": "https://zenodo.org/records/23618604/files/T03n0175a_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T03N0175a 睒子經 Kinh Thiểm Tử (01 quyển).pdf",
+"kb": 832,
+"url": "https://zenodo.org/records/23618604/files/T03N0175a%20%E7%9D%92%E5%AD%90%E7%B6%93%20Kinh%20Thi%E1%BB%83m%20T%E1%BB%AD%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
 }
 }

@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-10-24T16:30+07:00",
-  "so_bai": 543,
-  "so_kinh": 512,
-  "so_quyen": 1698,
-  "so_doi": 507,
+  "cap_nhat": "2026-10-24T20:04+07:00",
+  "so_bai": 544,
+  "so_kinh": 513,
+  "so_quyen": 1699,
+  "so_doi": 508,
   "blog_ok": true,
-  "dau_moc": "2026-10-24T14:08:56.088+07:00"
+  "dau_moc": "2026-10-24T20:03:41.516+07:00"
  },
  "muc": [
   {
@@ -3122,6 +3122,25 @@
    "tep": "bai/2026-10-t03n0174-kinh-bo-tat-thiem-tu-01-quyen.html",
    "files": 2,
    "tim": "t03n0174 菩薩睒子經 kinh bo tat thiem tu (01 quyen) bo bon duyen",
+   "nhom": "T"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "T03N0175a 睒子經 Kinh Thiểm Tử (01 quyển)",
+   "ma": "T03n0175a",
+   "han": "睒子經",
+   "hv": "Kinh Thiểm Tử",
+   "quyen": 1,
+   "bo": [
+    "Bộ Bổn Duyên"
+   ],
+   "ngay": "2026-10-24",
+   "doi": "10.5281/zenodo.23618604",
+   "tai_ve": "https://drive.google.com/drive/folders/11sLlCoD_bRxkuG80bBUsEdg2vKO3GkU8?usp=drive_link",
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/10/t03n0175a-kinh-thiem-tu-01-quyen.html",
+   "tep": "bai/2026-10-t03n0175a-kinh-thiem-tu-01-quyen.html",
+   "files": 2,
+   "tim": "t03n0175a 睒子經 kinh thiem tu (01 quyen) bo bon duyen",
    "nhom": "T"
   },
   {
