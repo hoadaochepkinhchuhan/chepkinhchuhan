@@ -13317,5 +13317,33 @@
 "url": "https://zenodo.org/records/23633644/files/T03n0177_001%20-%20file%20%C3%A2m.docx?download=1"
 }
 ]
+},
+"23643860": {
+"tieu_de": "T03N0153 菩薩本緣經 Kinh Bồ Tát Bổn Duyên (03 quyển)",
+"ngay": "2026-10-25",
+"doi_chung": "10.5281/zenodo.23643859",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T0153_002.docx",
+"kb": 1089,
+"url": "https://zenodo.org/records/23643860/files/T0153_002.docx?download=1"
+},
+{
+"ten": "T0153_003.docx",
+"kb": 1064,
+"url": "https://zenodo.org/records/23643860/files/T0153_003.docx?download=1"
+},
+{
+"ten": "T03N0153 菩薩本緣經 Kinh Bồ Tát Bổn Duyên (03 quyển).pdf",
+"kb": 3055,
+"url": "https://zenodo.org/records/23643860/files/T03N0153%20%E8%8F%A9%E8%96%A9%E6%9C%AC%E7%B7%A3%E7%B6%93%20Kinh%20B%E1%BB%93%20T%C3%A1t%20B%E1%BB%95n%20Duy%C3%AAn%20%2803%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T0153_001.docx",
+"kb": 1101,
+"url": "https://zenodo.org/records/23643860/files/T0153_001.docx?download=1"
+}
+]
 }
 }

@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-10-25T13:50+07:00",
-  "so_bai": 549,
-  "so_kinh": 518,
-  "so_quyen": 1704,
-  "so_doi": 513,
+  "cap_nhat": "2026-10-25T23:08+07:00",
+  "so_bai": 550,
+  "so_kinh": 519,
+  "so_quyen": 1707,
+  "so_doi": 514,
   "blog_ok": true,
-  "dau_moc": "2026-10-25T13:18:54.071+07:00"
+  "dau_moc": "2026-10-25T21:40:07.901+07:00"
  },
  "muc": [
   {
@@ -2894,6 +2894,25 @@
    "tep": "bai/2026-05-t02n0151-phat-thuyet-kinh-ham-chanh.html",
    "files": 2,
    "tim": "t02n0151 佛說阿含正行經 phat thuyet kinh a ham chanh hanh (01 quyen) bo a ham",
+   "nhom": "T"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "T03N0153 菩薩本緣經 Kinh Bồ Tát Bổn Duyên (03 quyển)",
+   "ma": "T03n0153",
+   "han": "菩薩本緣經",
+   "hv": "Kinh Bồ Tát Bổn Duyên",
+   "quyen": 3,
+   "bo": [
+    "Bộ Bổn Duyên"
+   ],
+   "ngay": "2026-10-25",
+   "doi": "10.5281/zenodo.23643860",
+   "tai_ve": "https://drive.google.com/drive/folders/11sLlCoD_bRxkuG80bBUsEdg2vKO3GkU8?usp=drive_link",
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/10/t03n0153-kinh-bo-tat-bon-duyen-03-quyen.html",
+   "tep": "bai/2026-10-t03n0153-kinh-bo-tat-bon-duyen-03-quyen.html",
+   "files": 4,
+   "tim": "t03n0153 菩薩本緣經 kinh bo tat bon duyen (03 quyen) bo bon duyen",
    "nhom": "T"
   },
   {
