@@ -13281,5 +13281,41 @@
 "url": "https://zenodo.org/records/23620724/files/T03N0176%20%E5%B8%AB%E5%AD%90%E6%9C%88%E4%BD%9B%E6%9C%AC%E7%94%9F%E7%B6%93%20Kinh%20S%C6%B0%20T%E1%BB%AD%20Nguy%E1%BB%87t%20Ph%E1%BA%ADt%20B%E1%BB%95n%20Sanh%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
 }
 ]
+},
+"23634922": {
+"tieu_de": "T03N0178 前世三轉經 Kinh Tiền Thế Tam Chuyển (01 quyển)",
+"ngay": "2026-10-25",
+"doi_chung": "10.5281/zenodo.23634921",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03N0178 前世三轉經 Kinh Tiền Thế Tam Chuyển (01 quyển).pdf",
+"kb": 983,
+"url": "https://zenodo.org/records/23634922/files/T03N0178%20%E5%89%8D%E4%B8%96%E4%B8%89%E8%BD%89%E7%B6%93%20Kinh%20Ti%E1%BB%81n%20Th%E1%BA%BF%20Tam%20Chuy%E1%BB%83n%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T03n0178_001 - file âm.docx",
+"kb": 930,
+"url": "https://zenodo.org/records/23634922/files/T03n0178_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
+},
+"23633644": {
+"tieu_de": "T03N0177 大意經 Kinh Đại Ý (01 quyển)",
+"ngay": "2026-10-25",
+"doi_chung": "10.5281/zenodo.23633643",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03N0177 大意經 Kinh Đại Ý (01 quyển).pdf",
+"kb": 822,
+"url": "https://zenodo.org/records/23633644/files/T03N0177%20%E5%A4%A7%E6%84%8F%E7%B6%93%20Kinh%20%C4%90%E1%BA%A1i%20%C3%9D%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T03n0177_001 - file âm.docx",
+"kb": 910,
+"url": "https://zenodo.org/records/23633644/files/T03n0177_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
 }
 }
