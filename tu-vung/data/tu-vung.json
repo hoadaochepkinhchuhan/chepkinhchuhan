@@ -1,7 +1,7 @@
 {
  "tong": {
-  "cap_nhat": "2026-10-26T13:55+07:00",
-  "so_muc": 40,
+  "cap_nhat": "2026-10-26T20:47+07:00",
+  "so_muc": 41,
   "bang_chu": [
    "A",
    "Ă",
@@ -34,7 +34,7 @@
    "Y"
   ],
   "blog": "https://giainghiatuvung.blogspot.com",
-  "dau_moc": "2026-10-25T20:41:04.351-07:00"
+  "dau_moc": "2026-10-26T05:37:15.466-07:00"
  },
  "muc": [
   {
@@ -92,6 +92,20 @@
    "goc": "https://giainghiatuvung.blogspot.com/2026/10/tu-chung-phap-ly-bo-tat-hanh.html",
    "tep": "bai/2026-10-tu-chung-phap-ly-bo-tat-hanh.html",
    "tim": "四種法離菩薩行 tu chung phap ly bo tat hanh (bon phap khien xa lia hanh bo tat) 謂眾生若行下列四種法，則離於菩薩之行。 nghia la chung sanh neu thuc hanh 04 phap ke duoi day thi roi xa hanh bo tat. (1) 疑惑佛法，謂人宿無善種，於佛法心生疑惑而不愛樂。 01 la, nghi hoac phat phap: nghia la nguoi doi truoc khong gieo hat giong lanh nen doi voi phat phap thoi tam thuong sanh nghi ngo ma chang ua men. (2) 我見貢高，謂人妄執我見而心懷貢高，瞋恚一切眾生。 02 la, nga kien cong cao: nghia la nguoi vong chap nga kien, trong long om mang cong cao, san khue doi voi tat ca chung sanh. (3) 嫉他利養，謂人見他人得利養，妄起貪愛而復憎嫉。 03 la, do ky voi loi duong cua nguoi khac: nghia la nguoi thay ke khac duoc loi duong, vong khoi tham ai,"
+  },
+  {
+   "tieu_de": "厭離四句 - YẾM LY TỨ CÚ",
+   "han": "厭離四句",
+   "hv": "YẾM LY TỨ CÚ",
+   "chu": "Y",
+   "nhan": [
+    "Y"
+   ],
+   "ngay": "2026-10-26",
+   "tom_tat": "即指有厭非離、有離非厭、有厭亦離、有非厭離等四句。 Tức chỉ cho 04 câu: hữu yếm phi ly (có yếm mà chẳng phải ly), hữu ly phi yếm (có ly mà chẳng phải yếm), hữu yếm diệc ly (có yếm cũng l…",
+   "goc": "https://giainghiatuvung.blogspot.com/2026/10/yem-ly-tu-cu.html",
+   "tep": "bai/2026-10-yem-ly-tu-cu.html",
+   "tim": "厭離四句 yem ly tu cu 即指有厭非離、有離非厭、有厭亦離、有非厭離等四句。 tuc chi cho 04 cau: huu yem phi ly (co yem ma chang phai ly), huu ly phi yem (co ly ma chang phai yem), huu yem diec ly (co yem cung la ly), huu phi yem ly (co truong hop chang phai yem cung chang phai ly) v.v… 蓋所謂「厭」，係指觀苦、集之現象而厭斥之行相；所謂「離」，係指既厭斥之，乃生起斷惑離染之作用。 dai de, goi la ‘yem’ la chi hanh tuong quan xet cac hien tuong kho & tap ma chan ghet, bai xich chung; goi la ‘ly’ la chi viec da chan ghet roi, ben sinh khoi tac dung doan hoac (惑) ly nhiem. 厭與離各有廣狹之不同，故成四句分別，稱為厭離四句，即： ‘yem’ & ‘ly’ deu co pham vi rong hep khac nhau, cho nen thanh bon cau phan biet, goi la yem ly"
   },
   {
    "tieu_de": "掩色 - YỂM SẮC",
