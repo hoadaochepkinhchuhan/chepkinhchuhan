@@ -13543,5 +13543,59 @@
 "url": "https://zenodo.org/records/23723532/files/T03n0188_001%20-%20file%20%C3%A2m.docx?download=1"
 }
 ]
+},
+"23734505": {
+"tieu_de": "T04N0215 群牛譬經 Kinh Quần Ngưu Thí (01 quyển)",
+"ngay": "2026-10-28",
+"doi_chung": "10.5281/zenodo.23734504",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T04N0215 群牛譬經 Kinh Quần Ngưu Thí (01 quyển).pdf",
+"kb": 624,
+"url": "https://zenodo.org/records/23734505/files/T04N0215%20%E7%BE%A4%E7%89%9B%E8%AD%AC%E7%B6%93%20Kinh%20Qu%E1%BA%A7n%20Ng%C6%B0u%20Th%C3%AD%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T04n0215_001 - file âm.docx",
+"kb": 865,
+"url": "https://zenodo.org/records/23734505/files/T04n0215_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
+},
+"23734211": {
+"tieu_de": "T04N0214 猘狗經 Kinh Chế Cẩu (01 quyển)",
+"ngay": "2026-10-28",
+"doi_chung": "10.5281/zenodo.23734210",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T04N0214 猘狗經 Kinh Chế Cẩu (01 quyển).pdf",
+"kb": 652,
+"url": "https://zenodo.org/records/23734211/files/T04N0214%20%E7%8C%98%E7%8B%97%E7%B6%93%20Kinh%20Ch%E1%BA%BF%20C%E1%BA%A9u%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T04n0214_001 - file âm.docx",
+"kb": 869,
+"url": "https://zenodo.org/records/23734211/files/T04n0214_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
+},
+"23733985": {
+"tieu_de": "T04N0207 雜譬喻經 Kinh Tạp Thí Dụ (01 quyển)",
+"ngay": "2026-10-28",
+"doi_chung": "10.5281/zenodo.23733984",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T04n0207_001 - file âm.docx",
+"kb": 1202,
+"url": "https://zenodo.org/records/23733985/files/T04n0207_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T04N0207 雜譬喻經 Kinh Tạp Thí Dụ (01 quyển).pdf",
+"kb": 1758,
+"url": "https://zenodo.org/records/23733985/files/T04N0207%20%E9%9B%9C%E8%AD%AC%E5%96%BB%E7%B6%93%20Kinh%20T%E1%BA%A1p%20Th%C3%AD%20D%E1%BB%A5%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
 }
 }
