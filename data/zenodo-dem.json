@@ -13597,5 +13597,77 @@
 "url": "https://zenodo.org/records/23733985/files/T04N0207%20%E9%9B%9C%E8%AD%AC%E5%96%BB%E7%B6%93%20Kinh%20T%E1%BA%A1p%20Th%C3%AD%20D%E1%BB%A5%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
 }
 ]
+},
+"23750186": {
+"tieu_de": "T04N0219 醫喻經 Kinh Y Dụ (01 quyển)",
+"ngay": "2026-10-29",
+"doi_chung": "10.5281/zenodo.23750185",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T04N0219 醫喻經 Kinh Y Dụ (01 quyển).pdf",
+"kb": 613,
+"url": "https://zenodo.org/records/23750186/files/T04N0219%20%E9%86%AB%E5%96%BB%E7%B6%93%20Kinh%20Y%20D%E1%BB%A5%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T04n0219_001 - file âm.docx",
+"kb": 862,
+"url": "https://zenodo.org/records/23750186/files/T04n0219_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
+},
+"23749974": {
+"tieu_de": "T04N0218 灌頂王喻經 Kinh Quán Đảnh Vương Dụ (01 quyển)",
+"ngay": "2026-10-29",
+"doi_chung": "10.5281/zenodo.23749973",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T04n0218_001 - file âm.docx",
+"kb": 860,
+"url": "https://zenodo.org/records/23749974/files/T04n0218_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T04N0218 灌頂王喻經 Kinh Quán Đảnh Vương Dụ (01 quyển).pdf",
+"kb": 663,
+"url": "https://zenodo.org/records/23749974/files/T04N0218%20%E7%81%8C%E9%A0%82%E7%8E%8B%E5%96%BB%E7%B6%93%20Kinh%20Qu%C3%A1n%20%C4%90%E1%BA%A3nh%20V%C6%B0%C6%A1ng%20D%E1%BB%A5%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
+},
+"23749935": {
+"tieu_de": "T04N0217 譬喻經 Kinh Thí Dụ (01 quyển)",
+"ngay": "2026-10-29",
+"doi_chung": "10.5281/zenodo.23749934",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T04n0217_001 - file âm.docx",
+"kb": 858,
+"url": "https://zenodo.org/records/23749935/files/T04n0217_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T04N0217 譬喻經 Kinh Thí Dụ (01 quyển).pdf",
+"kb": 624,
+"url": "https://zenodo.org/records/23749935/files/T04N0217%20%E8%AD%AC%E5%96%BB%E7%B6%93%20Kinh%20Th%C3%AD%20D%E1%BB%A5%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
+},
+"23749834": {
+"tieu_de": "T04N0216 大魚事經 Kinh Đại Ngư Sự (01 quyển)",
+"ngay": "2026-10-29",
+"doi_chung": "10.5281/zenodo.23749833",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T04N0216 大魚事經 Kinh Đại Ngư Sự (01 quyển).pdf",
+"kb": 664,
+"url": "https://zenodo.org/records/23749834/files/T04N0216%20%E5%A4%A7%E9%AD%9A%E4%BA%8B%E7%B6%93%20Kinh%20%C4%90%E1%BA%A1i%20Ng%C6%B0%20S%E1%BB%B1%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T04n0216_001 - file âm.docx",
+"kb": 866,
+"url": "https://zenodo.org/records/23749834/files/T04n0216_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
 }
 }
