@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-01T12:57+07:00",
+  "cap_nhat": "2026-11-01T17:09+07:00",
   "so_bai": 569,
   "so_kinh": 538,
   "so_quyen": 1737,
-  "so_doi": 534,
+  "so_doi": 536,
   "blog_ok": true,
-  "dau_moc": "2026-11-01T10:03:51.465+07:00"
+  "dau_moc": "2026-11-01T17:06:47.508+07:00"
  },
  "muc": [
   {
@@ -7866,10 +7866,11 @@
     "Bộ Chư Tông"
    ],
    "ngay": "2026-07-14",
-   "doi": null,
+   "doi": "10.5281/zenodo.23856059",
    "tai_ve": "https://drive.google.com/drive/folders/11sLlCoD_bRxkuG80bBUsEdg2vKO3GkU8?usp=drive_link",
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/t48n2008-kinh-luc-to-ai-su-phap-bao-01.html",
    "tep": "bai/2026-07-t48n2008-kinh-luc-to-ai-su-phap-bao-01.html",
+   "files": 2,
    "tim": "t48n2008 六祖大師法寶壇經 luc to dai su phap bao dan kinh (01 quyen) bo chu tong",
    "nhom": "T"
   },
@@ -7884,10 +7885,11 @@
     "Bộ Sử Truyện"
    ],
    "ngay": "2026-07-21",
-   "doi": null,
+   "doi": "10.5281/zenodo.23856123",
    "tai_ve": "https://drive.google.com/drive/folders/11sLlCoD_bRxkuG80bBUsEdg2vKO3GkU8?usp=drive_link",
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/t49n2030-ai-la-han-nan-e-mat-la-so.html",
    "tep": "bai/2026-07-t49n2030-ai-la-han-nan-e-mat-la-so.html",
+   "files": 2,
    "tim": "t49n2030 大阿羅漢難提蜜多羅所說法住記 dai a la han nan de mat da la so thuyet phap tru ky (01 quyen) bo su truyen",
    "nhom": "T"
   },
