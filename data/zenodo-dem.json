@@ -14061,5 +14061,28 @@
 "url": "https://zenodo.org/records/23856059/files/T48N2008%20%E5%85%AD%E7%A5%96%E5%A4%A7%E5%B8%AB%E6%B3%95%E5%AF%B6%E5%A3%87%E7%B6%93%20Kinh%20L%E1%BB%A5c%20T%E1%BB%95%20%C4%90%E1%BA%A1i%20S%C6%B0%20Ph%C3%A1p%20B%E1%BA%A3o%20%C4%90%C3%A0n%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
 }
 ]
+},
+"23934726": {
+"tieu_de": "T03N0184 修行本起經 Kinh Tu Hành Bổn Khởi (02 quyển)",
+"ngay": "2026-11-04",
+"doi_chung": "10.5281/zenodo.23934725",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T0184_002.docx",
+"kb": 1084,
+"url": "https://zenodo.org/records/23934726/files/T0184_002.docx?download=1"
+},
+{
+"ten": "T03N0184 修行本起經 Kinh Tu Hành Bổn Khởi (02 quyển).pdf",
+"kb": 2355,
+"url": "https://zenodo.org/records/23934726/files/T03N0184%20%E4%BF%AE%E8%A1%8C%E6%9C%AC%E8%B5%B7%E7%B6%93%20Kinh%20Tu%20H%C3%A0nh%20B%E1%BB%95n%20Kh%E1%BB%9Fi%20%2802%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T0184_001.docx",
+"kb": 1060,
+"url": "https://zenodo.org/records/23934726/files/T0184_001.docx?download=1"
+}
+]
 }
 }
