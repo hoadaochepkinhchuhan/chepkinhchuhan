@@ -14084,5 +14084,28 @@
 "url": "https://zenodo.org/records/23934726/files/T0184_001.docx?download=1"
 }
 ]
+},
+"23942831": {
+"tieu_de": "T03N0185 太子瑞應本起經 Kinh Thái Tử Thụy Ứng Bổn Khởi (02 quyển)",
+"ngay": "2026-11-04",
+"doi_chung": "10.5281/zenodo.23942830",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T0185_002.docx",
+"kb": 1050,
+"url": "https://zenodo.org/records/23942831/files/T0185_002.docx?download=1"
+},
+{
+"ten": "T0185_001.docx",
+"kb": 1064,
+"url": "https://zenodo.org/records/23942831/files/T0185_001.docx?download=1"
+},
+{
+"ten": "T03N0185 太子瑞應本起經 Kinh Thái Tử Thụy Ứng Bổn Khởi (02 quyển).pdf",
+"kb": 2268,
+"url": "https://zenodo.org/records/23942831/files/T03N0185%20%E5%A4%AA%E5%AD%90%E7%91%9E%E6%87%89%E6%9C%AC%E8%B5%B7%E7%B6%93%20Kinh%20Th%C3%A1i%20T%E1%BB%AD%20Th%E1%BB%A5y%20%E1%BB%A8ng%20B%E1%BB%95n%20Kh%E1%BB%9Fi%20%2802%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
 }
 }
