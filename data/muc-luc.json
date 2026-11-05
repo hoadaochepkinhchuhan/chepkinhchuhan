@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-04T22:20+07:00",
+  "cap_nhat": "2026-11-05T07:53+07:00",
   "so_bai": 571,
   "so_kinh": 540,
   "so_quyen": 1741,
-  "so_doi": 538,
+  "so_doi": 539,
   "blog_ok": true,
-  "dau_moc": "2026-11-04T16:43:16.226+07:00"
+  "dau_moc": "2026-11-05T07:17:41.584+07:00"
  },
  "muc": [
   {
@@ -10169,6 +10169,25 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/03/danh-muc-sach.html",
    "tep": "bai/2026-03-danh-muc-sach.html",
    "tim": "danh muc khac danh muc khac",
+   "nhom": "dmk"
+  },
+  {
+   "loai": "zenodo",
+   "tieu_de": "Hướng dẫn đính âm theo phương pháp VBA",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "ngay": "2026-11-05",
+   "bo": [
+    "Danh mục khác"
+   ],
+   "doi": "10.5281/zenodo.23966247",
+   "tai_ve": null,
+   "goc": "https://zenodo.org/records/23966247",
+   "tep": "bai/zenodo-23966247.html",
+   "files": 1,
+   "tim": "huong dan dinh am theo phuong phap vba danh muc khac",
    "nhom": "dmk"
   },
   {
