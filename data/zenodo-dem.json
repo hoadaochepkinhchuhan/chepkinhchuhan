@@ -14208,5 +14208,63 @@
 "url": "https://zenodo.org/records/23969464/files/T03N0152%20%E5%85%AD%E5%BA%A6%E9%9B%86%E7%B6%93%20L%E1%BB%A5c%20%C4%90%E1%BB%99%20T%E1%BA%ADp%20Kinh%20%28Quy%E1%BB%83n%2007%29.pdf?download=1"
 }
 ]
+},
+"23996327": {
+"tieu_de": "T03N0154 生經 Kinh Sanh (05 quyển)",
+"ngay": "2026-11-06",
+"doi_chung": "10.5281/zenodo.23996326",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03N0154 生經 Kinh Sanh (Quyển 01).pdf",
+"kb": 1732,
+"url": "https://zenodo.org/records/23996327/files/T03N0154%20%E7%94%9F%E7%B6%93%20Kinh%20Sanh%20%28Quy%E1%BB%83n%2001%29.pdf?download=1"
+},
+{
+"ten": "T0154_001.docx",
+"kb": 1156,
+"url": "https://zenodo.org/records/23996327/files/T0154_001.docx?download=1"
+},
+{
+"ten": "T03N0154 生經 Kinh Sanh (Quyển 03).pdf",
+"kb": 1670,
+"url": "https://zenodo.org/records/23996327/files/T03N0154%20%E7%94%9F%E7%B6%93%20Kinh%20Sanh%20%28Quy%E1%BB%83n%2003%29.pdf?download=1"
+},
+{
+"ten": "T03N0154 生經 Kinh Sanh (Quyển 04).pdf",
+"kb": 1578,
+"url": "https://zenodo.org/records/23996327/files/T03N0154%20%E7%94%9F%E7%B6%93%20Kinh%20Sanh%20%28Quy%E1%BB%83n%2004%29.pdf?download=1"
+},
+{
+"ten": "T03N0154 生經 Kinh Sanh (Quyển 05).pdf",
+"kb": 1721,
+"url": "https://zenodo.org/records/23996327/files/T03N0154%20%E7%94%9F%E7%B6%93%20Kinh%20Sanh%20%28Quy%E1%BB%83n%2005%29.pdf?download=1"
+},
+{
+"ten": "T03N0154 生經 Kinh Sanh (Quyển 02).pdf",
+"kb": 1692,
+"url": "https://zenodo.org/records/23996327/files/T03N0154%20%E7%94%9F%E7%B6%93%20Kinh%20Sanh%20%28Quy%E1%BB%83n%2002%29.pdf?download=1"
+},
+{
+"ten": "T0154_002.docx",
+"kb": 1145,
+"url": "https://zenodo.org/records/23996327/files/T0154_002.docx?download=1"
+},
+{
+"ten": "T0154_003.docx",
+"kb": 1131,
+"url": "https://zenodo.org/records/23996327/files/T0154_003.docx?download=1"
+},
+{
+"ten": "T0154_004.docx",
+"kb": 1121,
+"url": "https://zenodo.org/records/23996327/files/T0154_004.docx?download=1"
+},
+{
+"ten": "T0154_005.docx",
+"kb": 1157,
+"url": "https://zenodo.org/records/23996327/files/T0154_005.docx?download=1"
+}
+]
 }
 }

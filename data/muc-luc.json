@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-06T09:33+07:00",
-  "so_bai": 572,
-  "so_kinh": 541,
-  "so_quyen": 1749,
-  "so_doi": 540,
+  "cap_nhat": "2026-11-06T16:07+07:00",
+  "so_bai": 573,
+  "so_kinh": 542,
+  "so_quyen": 1754,
+  "so_doi": 541,
   "blog_ok": true,
-  "dau_moc": "2026-11-06T09:02:35.656+07:00"
+  "dau_moc": "2026-11-06T15:10:14.572+07:00"
  },
  "muc": [
   {
@@ -2933,6 +2933,25 @@
    "tep": "bai/2026-10-t03n0153-kinh-bo-tat-bon-duyen-03-quyen.html",
    "files": 4,
    "tim": "t03n0153 菩薩本緣經 kinh bo tat bon duyen (03 quyen) bo bon duyen",
+   "nhom": "T"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "T03N0154 生經 Kinh Sanh (05 quyển)",
+   "ma": "T03n0154",
+   "han": "生經",
+   "hv": "Kinh Sanh",
+   "quyen": 5,
+   "bo": [
+    "Bộ Bổn Duyên"
+   ],
+   "ngay": "2026-11-06",
+   "doi": "10.5281/zenodo.23996327",
+   "tai_ve": "https://drive.google.com/drive/folders/11sLlCoD_bRxkuG80bBUsEdg2vKO3GkU8?usp=drive_link",
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/t03n0154-kinh-sanh-05-quyen.html",
+   "tep": "bai/2026-11-t03n0154-kinh-sanh-05-quyen.html",
+   "files": 10,
+   "tim": "t03n0154 生經 kinh sanh (05 quyen) bo bon duyen",
    "nhom": "T"
   },
   {
