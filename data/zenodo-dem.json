@@ -14289,5 +14289,53 @@
 "url": "https://zenodo.org/records/24035241/files/T0210_001.docx?download=1"
 }
 ]
+},
+"24038971": {
+"tieu_de": "T04N0213 法集要頌經 Kinh Pháp Tập Yếu Tụng (04 quyển)",
+"ngay": "2026-11-07",
+"doi_chung": "10.5281/zenodo.24038970",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T04N0213 法集要頌經 Kinh Pháp Tập Yếu Tụng (Quyển 01).pdf",
+"kb": 1338,
+"url": "https://zenodo.org/records/24038971/files/T04N0213%20%E6%B3%95%E9%9B%86%E8%A6%81%E9%A0%8C%E7%B6%93%20Kinh%20Ph%C3%A1p%20T%E1%BA%ADp%20Y%E1%BA%BFu%20T%E1%BB%A5ng%20%28Quy%E1%BB%83n%2001%29.pdf?download=1"
+},
+{
+"ten": "T0213_002.docx",
+"kb": 1001,
+"url": "https://zenodo.org/records/24038971/files/T0213_002.docx?download=1"
+},
+{
+"ten": "T0213_003.docx",
+"kb": 981,
+"url": "https://zenodo.org/records/24038971/files/T0213_003.docx?download=1"
+},
+{
+"ten": "T04N0213 法集要頌經 Kinh Pháp Tập Yếu Tụng (Quyển 02).pdf",
+"kb": 1262,
+"url": "https://zenodo.org/records/24038971/files/T04N0213%20%E6%B3%95%E9%9B%86%E8%A6%81%E9%A0%8C%E7%B6%93%20Kinh%20Ph%C3%A1p%20T%E1%BA%ADp%20Y%E1%BA%BFu%20T%E1%BB%A5ng%20%28Quy%E1%BB%83n%2002%29.pdf?download=1"
+},
+{
+"ten": "T0213_001.docx",
+"kb": 1014,
+"url": "https://zenodo.org/records/24038971/files/T0213_001.docx?download=1"
+},
+{
+"ten": "T0213_004.docx",
+"kb": 989,
+"url": "https://zenodo.org/records/24038971/files/T0213_004.docx?download=1"
+},
+{
+"ten": "T04N0213 法集要頌經 Kinh Pháp Tập Yếu Tụng (Quyển 03).pdf",
+"kb": 1205,
+"url": "https://zenodo.org/records/24038971/files/T04N0213%20%E6%B3%95%E9%9B%86%E8%A6%81%E9%A0%8C%E7%B6%93%20Kinh%20Ph%C3%A1p%20T%E1%BA%ADp%20Y%E1%BA%BFu%20T%E1%BB%A5ng%20%28Quy%E1%BB%83n%2003%29.pdf?download=1"
+},
+{
+"ten": "T04N0213 法集要頌經 Kinh Pháp Tập Yếu Tụng (Quyển 04).pdf",
+"kb": 1252,
+"url": "https://zenodo.org/records/24038971/files/T04N0213%20%E6%B3%95%E9%9B%86%E8%A6%81%E9%A0%8C%E7%B6%93%20Kinh%20Ph%C3%A1p%20T%E1%BA%ADp%20Y%E1%BA%BFu%20T%E1%BB%A5ng%20%28Quy%E1%BB%83n%2004%29.pdf?download=1"
+}
+]
 }
 }
