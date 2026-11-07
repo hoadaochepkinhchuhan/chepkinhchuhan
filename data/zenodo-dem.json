@@ -14266,5 +14266,28 @@
 "url": "https://zenodo.org/records/23996327/files/T0154_005.docx?download=1"
 }
 ]
+},
+"24035241": {
+"tieu_de": "T04N0210 法句經 Kinh Pháp Cú (02 quyển)",
+"ngay": "2026-11-07",
+"doi_chung": "10.5281/zenodo.24035240",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T0210_002.docx",
+"kb": 1106,
+"url": "https://zenodo.org/records/24035241/files/T0210_002.docx?download=1"
+},
+{
+"ten": "T04N0210 法句經 Kinh Pháp Cú (02 quyển).pdf",
+"kb": 2845,
+"url": "https://zenodo.org/records/24035241/files/T04N0210%20%E6%B3%95%E5%8F%A5%E7%B6%93%20Kinh%20Ph%C3%A1p%20C%C3%BA%20%2802%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T0210_001.docx",
+"kb": 1115,
+"url": "https://zenodo.org/records/24035241/files/T0210_001.docx?download=1"
+}
+]
 }
 }
