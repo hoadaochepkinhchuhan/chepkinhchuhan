@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-08T19:11+07:00",
-  "so_bai": 582,
+  "cap_nhat": "2026-11-08T21:57+07:00",
+  "so_bai": 583,
   "so_kinh": 544,
   "so_quyen": 1760,
-  "so_doi": 550,
+  "so_doi": 551,
   "blog_ok": true,
-  "dau_moc": "2026-11-08T18:59:02.442+07:00"
+  "dau_moc": "2026-11-08T20:14:32.897+07:00"
  },
  "muc": [
   {
@@ -9338,7 +9338,8 @@
    "tep": "bai/2026-06-t85n2865-kinh-ho-than-mang-01-quyen.html",
    "files": 2,
    "tim": "t85n2865 護身命經 kinh ho than mang (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9357,7 +9358,8 @@
    "tep": "bai/2026-06-t85n2866-kinh-ho-than-mang-01-quyen.html",
    "files": 2,
    "tim": "t85n2866 護身命經 kinh ho than mang (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9376,7 +9378,8 @@
    "tep": "bai/2026-06-t85n2867-kinh-nhan-tu-van-bat-thap.html",
    "files": 2,
    "tim": "t85n2867 慈仁問八十種好經 kinh nhan tu van bat thap chung hao (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9395,7 +9398,8 @@
    "tep": "bai/2026-06-t85n2868-kinh-quyet-toi-phuoc-02-quyen.html",
    "files": 3,
    "tim": "t85n2868 決罪福經 kinh quyet toi phuoc (02 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9414,7 +9418,8 @@
    "tep": "bai/2026-06-t85n2869-kinh-dieu-hao-bao-xa-01-quyen.html",
    "files": 2,
    "tim": "t85n2869 妙好寶車經 kinh dieu hao bao xa (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9433,7 +9438,8 @@
    "tep": "bai/2026-06-t85n2870-kinh-tuong-phap-quyet-nghi-01.html",
    "files": 2,
    "tim": "t85n2870 像法決疑經 kinh tuong phap quyet nghi (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9452,7 +9458,8 @@
    "tep": "bai/2026-06-t85n2871-kinh-ai-thong-phuong-quang-sam.html",
    "files": 4,
    "tim": "t85n2871 大通方廣懺悔滅罪莊嚴成佛經 kinh dai thong phuong quang sam hoi diet toi trang nghiem thanh phat (03 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9471,7 +9478,8 @@
    "tep": "bai/2026-06-t85n2872-dieu-phap-lien-hoa-kinh-o.html",
    "files": 2,
    "tim": "t85n2872 妙法蓮華經度量天地品第二十九 dieu phap lien hoa kinh do luong thien dia pham de nhi thap cuu (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9490,7 +9498,8 @@
    "tep": "bai/2026-06-t85n2873-kinh-thu-la-ty-kheo-01-quyen.html",
    "files": 2,
    "tim": "t85n2873 首羅比丘經 kinh thu la ty kheo (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9509,7 +9518,8 @@
    "tep": "bai/2026-06-t85n2874-kinh-tieu-phap-diet-tan-01.html",
    "files": 2,
    "tim": "t85n2874 小法滅盡經 kinh tieu phap diet tan (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9528,7 +9538,8 @@
    "tep": "bai/2026-06-t85n2875-kinh-ai-phuong-quang-hoa.html",
    "files": 2,
    "tim": "t85n2875 大方廣華嚴十惡品經 kinh dai phuong quang hoa nghiem thap ac pham (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9547,7 +9558,8 @@
    "tep": "bai/2026-06-t85n2876-kinh-thien-cong-01-quyen.html",
    "files": 2,
    "tim": "t85n2876 天公經 kinh thien cong (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9566,7 +9578,8 @@
    "tep": "bai/2026-06-t85n2877-kinh-nhu-lai-tai-kim-quan-chuc.html",
    "files": 2,
    "tim": "t85n2877 如來在金棺囑累清淨莊嚴敬福經 kinh nhu lai tai kim quan chuc luy thanh tinh trang nghiem kinh phuoc (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9585,7 +9598,8 @@
    "tep": "bai/2026-06-t85n2878-kinh-cuu-tat-01-quyen.html",
    "files": 2,
    "tim": "t85n2878 救疾經 kinh cuu tat (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9604,7 +9618,8 @@
    "tep": "bai/2026-06-t85n2879-kinh-pho-hien-bo-tat-thuyet.html",
    "files": 2,
    "tim": "t85n2879 普賢菩薩說證明經 kinh pho hien bo tat thuyet chung minh (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9623,7 +9638,8 @@
    "tep": "bai/2026-06-t85n2880-kinh-cuu-canh-ai-bi-03-quyen.html",
    "files": 4,
    "tim": "t85n2880 究竟大悲經 kinh cuu canh dai bi (03 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9642,7 +9658,8 @@
    "tep": "bai/2026-06-t85n2881-kinh-thien-ac-nhan-qua-01-quyen.html",
    "files": 2,
    "tim": "t85n2881 善惡因果經 kinh thien ac nhan qua (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9661,7 +9678,8 @@
    "tep": "bai/2026-06-t85n2882-kinh-chu-mi-01-quyen.html",
    "files": 2,
    "tim": "t85n2882 呪魅經 kinh chu mi (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9680,7 +9698,8 @@
    "tep": "bai/2026-06-t85n2883-kinh-phap-vuong-01-quyen.html",
    "files": 2,
    "tim": "t85n2883 法王經 kinh phap vuong (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9699,7 +9718,8 @@
    "tep": "bai/2026-06-t85n2884-ai-oai-nghi-thinh-van-01-quyen.html",
    "files": 2,
    "tim": "t85n2884 大威儀請問 dai oai nghi thinh van (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9718,7 +9738,8 @@
    "tep": "bai/2026-06-t85n2885-kinh-phat-thanh-hai-tang-tri.html",
    "files": 3,
    "tim": "t85n2885 佛性海藏智慧解脫破心相經 kinh phat thanh hai tang tri hue giai thoat pha tam tuong (02 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9737,7 +9758,8 @@
    "tep": "bai/2026-06-t85n2886-phat-vi-tam-vuong-bo-tat.html",
    "files": 2,
    "tim": "t85n2886 佛為心王菩薩說投陀經卷上 phat vi tam vuong bo tat thuyet dau da kinh quyen thuong (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9756,7 +9778,8 @@
    "tep": "bai/2026-06-t85n2887-kinh-phu-mau-trong-01-quyen.html",
    "files": 2,
    "tim": "t85n2887 父母恩重經 kinh phu mau trong an (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9775,7 +9798,8 @@
    "tep": "bai/2026-06-t85n2888-kinh-dien-tho-mang-01-quyen.html",
    "files": 2,
    "tim": "t85n2888 延壽命經 kinh dien tho mang (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9794,7 +9818,8 @@
    "tep": "bai/2026-06-t85n2889-kinh-tuc-mang-01-quyen.html",
    "files": 2,
    "tim": "t85n2889 續命經 kinh tuc mang (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9813,7 +9838,8 @@
    "tep": "bai/2026-06-t85n2890-kinh-nhu-lai-thanh-ao-01-quyen.html",
    "files": 2,
    "tim": "t85n2890 如來成道經 kinh nhu lai thanh dao (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9832,7 +9858,8 @@
    "tep": "bai/2026-06-t85n2891-kinh-son-hai-hue-bo-tat-01.html",
    "files": 2,
    "tim": "t85n2891 山海慧菩薩經 kinh son hai hue bo tat (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9851,7 +9878,8 @@
    "tep": "bai/2026-06-t85n2892-kinh-hien-bao-uong-tho-01-quyen.html",
    "files": 2,
    "tim": "t85n2892 現報當受經 kinh hien bao duong tho (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9870,7 +9898,8 @@
    "tep": "bai/2026-06-t85n2893-kinh-ai-bien-ta-chanh-01-quyen.html",
    "files": 2,
    "tim": "t85n2893 大辯邪正經 kinh dai bien ta chanh (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9889,7 +9918,8 @@
    "tep": "bai/2026-06-t85n2894-kinh-tam-tru-01-quyen.html",
    "files": 2,
    "tim": "t85n2894 三廚經 kinh tam tru (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9908,7 +9938,8 @@
    "tep": "bai/2026-06-t85n2895-kinh-yeu-hanh-xa-than-01-quyen.html",
    "files": 2,
    "tim": "t85n2895 要行捨身經 kinh yeu hanh xa than (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9927,7 +9958,8 @@
    "tep": "bai/2026-06-t85n2896-kinh-thi-so-pham-gia-du-gia.html",
    "files": 2,
    "tim": "t85n2896 示所犯者瑜伽法鏡經 kinh thi so pham gia du gia phap kinh (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9946,7 +9978,8 @@
    "tep": "bai/2026-06-t85n2897-kinh-thien-ia-bat-duong-than.html",
    "files": 2,
    "tim": "t85n2897 天地八陽神呪經 kinh thien dia bat duong than chu (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9965,7 +9998,8 @@
    "tep": "bai/2026-06-t85n2898-kinh-cao-vuong-quan-am-01-quyen.html",
    "files": 2,
    "tim": "t85n2898 高王觀世音經 kinh cao vuong quan the am (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9984,7 +10018,8 @@
    "tep": "bai/2026-06-t85n2899-dieu-phap-lien-hoa-kinh-ma.html",
    "files": 2,
    "tim": "t85n2899 妙法蓮華經馬明菩薩品第三十 dieu phap lien hoa kinh ma minh bo tat pham de tam thap (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10003,7 +10038,8 @@
    "tep": "bai/2026-06-t85n2900-kinh-trai-phap-thanh-tinh-01.html",
    "files": 2,
    "tim": "t85n2900 齋法清淨經 kinh trai phap thanh tinh (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10022,7 +10058,8 @@
    "tep": "bai/2026-06-t85n2901-kinh-phap-cu-01-quyen.html",
    "files": 2,
    "tim": "t85n2901 法句經 kinh phap cu (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10041,7 +10078,8 @@
    "tep": "bai/2026-06-t85n2902-phap-cu-kinh-so-01-quyen.html",
    "files": 2,
    "tim": "t85n2902 法句經疏 phap cu kinh so (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10060,7 +10098,8 @@
    "tep": "bai/2026-06-t85n2903-kinh-vo-luong-ai-tu-giao-01.html",
    "files": 2,
    "tim": "t85n2903 無量大慈教經 kinh vo luong dai tu giao (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10079,7 +10118,8 @@
    "tep": "bai/2026-06-t85n2904-kinh-that-thien-phat-than-phu.html",
    "files": 2,
    "tim": "t85n2904 七千佛神符經 kinh that thien phat than phu (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10098,7 +10138,8 @@
    "tep": "bai/2026-06-t85n2905-hien-tai-thap-phuong-thien-ngu.html",
    "files": 2,
    "tim": "t85n2905 現在十方千五百佛名並雜佛同號 hien tai thap phuong thien ngu bach phat danh tinh tap phat dong hieu (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10117,7 +10158,8 @@
    "tep": "bai/2026-06-t85n2906-tam-van-phat-ong-can-bon-than.html",
    "files": 2,
    "tim": "t85n2906 三萬佛同根本神祕之印並法龍種上尊王佛法 tam van phat dong can bon than bi chi an tinh phap long chung thuong ton vuong phat phap (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10136,7 +10178,8 @@
    "tep": "bai/2026-06-t85n2907-kinh-pho-hien-bo-tat-hanh.html",
    "files": 2,
    "tim": "t85n2907 普賢菩薩行願王經 kinh pho hien bo tat hanh nguyen vuong (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10155,7 +10198,8 @@
    "tep": "bai/2026-06-t85n2908-ai-phuong-quang-phat-hoa.html",
    "files": 2,
    "tim": "t85n2908 大方廣佛華嚴經普賢菩薩行願王品 dai phuong quang phat hoa nghiem kinh pho hien bo tat hanh nguyen vuong pham (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10174,7 +10218,8 @@
    "tep": "bai/2026-06-t85n2909-kinh-ia-tang-bo-tat-01-quyen.html",
    "files": 2,
    "tim": "t85n2909 地藏菩薩經 kinh dia tang bo tat (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10193,7 +10238,8 @@
    "tep": "bai/2026-06-t85n2910-kinh-kim-huu-la-ni-01-quyen.html",
    "files": 2,
    "tim": "t85n2910 金有陀羅尼經 kinh kim huu da la ni (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10212,7 +10258,8 @@
    "tep": "bai/2026-06-t85n2911-kinh-tan-tang-cong-uc-01-quyen.html",
    "files": 2,
    "tim": "t85n2911 讚僧功德經 kinh tan tang cong duc (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10231,7 +10278,8 @@
    "tep": "bai/2026-06-t85n2912-kinh-vo-thuong-tam-khoi-01.html",
    "files": 2,
    "tim": "t85n2912 無常三啟經 kinh vo thuong tam khoi (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10250,7 +10298,8 @@
    "tep": "bai/2026-06-t85n2913-kinh-that-nu-quan-01-quyen.html",
    "files": 2,
    "tim": "t85n2913 七女觀經 kinh that nu quan (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10269,7 +10318,8 @@
    "tep": "bai/2026-06-t85n2914-kinh-quan-01-quyen.html",
    "files": 2,
    "tim": "t85n2914 觀經 kinh quan (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10288,7 +10338,8 @@
    "tep": "bai/2026-06-t85n2915-kinh-cuu-chung-sanh-nhut-thiet.html",
    "files": 2,
    "tim": "t85n2915 救諸眾生一切苦難經 kinh cuu chung sanh nhut thiet kho nan (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10307,7 +10358,8 @@
    "tep": "bai/2026-06-t85n2916-kinh-khuyen-thien-01-quyen.html",
    "files": 2,
    "tim": "t85n2916 勸善經 kinh khuyen thien (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10326,7 +10378,8 @@
    "tep": "bai/2026-06-t85n2917a-kinh-tan-bo-tat-01-quyen.html",
    "files": 2,
    "tim": "t85n2917a 新菩薩經 kinh tan bo tat (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10345,7 +10398,8 @@
    "tep": "bai/2026-06-t85n2917b-kinh-tan-bo-tat-01-quyen.html",
    "files": 2,
    "tim": "t85n2917b 新菩薩經 kinh tan bo tat (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10364,7 +10418,8 @@
    "tep": "bai/2026-06-t85n2918-kinh-thich-gia-quan-hoa-hoan.html",
    "files": 2,
    "tim": "t85n2918 釋家觀化還愚經 kinh thich gia quan hoa hoan ngu (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10383,7 +10438,8 @@
    "tep": "bai/2026-06-t85n2919-kinh-phat-mau-01-quyen.html",
    "files": 2,
    "tim": "t85n2919 佛母經 kinh phat mau (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10402,7 +10458,8 @@
    "tep": "bai/2026-06-t85n2920-kinh-tang-gia-hoa-thuong-duc.html",
    "files": 2,
    "tim": "t85n2920 僧伽和尚欲入涅槃說六度經 kinh tang gia hoa thuong duc nhap niet ban thuyet luc do (01 quyen) bo nghi to",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10998,7 +11055,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/06/bo-nghi-to-t85b-2865-2920.html",
    "tep": "bai/2026-06-bo-nghi-to-t85b-2865-2920.html",
    "tim": "bo nghi to (t85b) (2865 ~ 2920) bo nghi to danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11362,6 +11420,26 @@
    "tep": "bai/2026-11-ai-chanh-tang-tap-09a.html",
    "files": 14,
    "tim": "[dai chanh tang] tap 09a bo phap hoa danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 85B",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Nghi Tợ",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-08",
+   "doi": "10.5281/zenodo.22053777",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-85b.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-85b.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 85b bo nghi to danh muc",
    "nhom": "khac"
   },
   {
