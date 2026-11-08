@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-08T10:53+07:00",
-  "so_bai": 575,
+  "cap_nhat": "2026-11-08T19:10+07:00",
+  "so_bai": 582,
   "so_kinh": 544,
   "so_quyen": 1760,
-  "so_doi": 543,
+  "so_doi": 550,
   "blog_ok": true,
-  "dau_moc": "2026-11-08T10:51:48.966+07:00"
+  "dau_moc": "2026-11-08T18:59:02.442+07:00"
  },
  "muc": [
   {
@@ -26,7 +26,8 @@
    "tep": "bai/2026-10-t01n0001-kinh-ham-22-quyen.html",
    "files": 44,
    "tim": "t01n0001 長阿含經 kinh a ham (22 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -45,7 +46,8 @@
    "tep": "bai/2026-03-t01n0002-phat-thuyet-kinh-that-phat-01.html",
    "files": 2,
    "tim": "t01n0002 佛說七佛經 phat thuyet kinh that phat (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -64,7 +66,8 @@
    "tep": "bai/2026-07-t01n0003-kinh-ty-ba-thi-phat-02-quyen.html",
    "files": 3,
    "tim": "t01n0003 毘婆尸佛經 kinh ty ba thi phat (02 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -83,7 +86,8 @@
    "tep": "bai/2026-06-t01n0004-kinh-that-phat-phu-mau-tanh-tu.html",
    "files": 2,
    "tim": "t01n0004 七佛父母姓字經 kinh that phat phu mau tanh tu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -102,7 +106,8 @@
    "tep": "bai/2026-07-t01n0005-kinh-phat-bat-ne-hoan-02-quyen.html",
    "files": 3,
    "tim": "t01n0005 佛般泥洹經 kinh phat bat ne hoan (02 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -121,7 +126,8 @@
    "tep": "bai/2026-09-t01n0006-kinh-bat-ne-hoan-02-quyen.html",
    "files": 2,
    "tim": "t01n0006 般泥洹經 kinh bat ne hoan (02 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -140,7 +146,8 @@
    "tep": "bai/2026-09-t01n0007-kinh-ai-bat-niet-ban-03-quyen.html",
    "files": 4,
    "tim": "t01n0007 大般涅槃經 kinh dai bat niet ban (03 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -159,7 +166,8 @@
    "tep": "bai/2026-09-t01n0008-kinh-ai-kien-co-ba-la-mon.html",
    "files": 3,
    "tim": "t01n0008 大堅固婆羅門緣起經 kinh dai kien co ba la mon duyen khoi (02 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -178,7 +186,8 @@
    "tep": "bai/2026-06-t01n0009-kinh-tien-nhan-01-quyen.html",
    "files": 2,
    "tim": "t01n0009 人仙經 kinh nhan tien (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -197,7 +206,8 @@
    "tep": "bai/2026-09-t01n0010-kinh-bach-y-kim-trang-nhi-ba.html",
    "files": 4,
    "tim": "t01n0010 白衣金幢二婆羅門緣起經 kinh bach y kim trang nhi ba la mon duyen khoi (03 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -216,7 +226,8 @@
    "tep": "bai/2026-09-t01n0011-kinh-ni-cau-pham-chi-02-quyen.html",
    "files": 3,
    "tim": "t01n0011 尼拘陀梵志經 kinh ni cau da pham chi (02 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -235,7 +246,8 @@
    "tep": "bai/2026-09-t01n0012-kinh-ai-tap-phap-mon-02-quyen.html",
    "files": 3,
    "tim": "t01n0012 大集法門經 kinh dai tap phap mon (02 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -254,7 +266,8 @@
    "tep": "bai/2026-09-t01n0013-kinh-truong-ham-thap-bao-phap.html",
    "files": 3,
    "tim": "t01n0013 長阿含十報法經 kinh truong a ham thap bao phap (02 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -273,7 +286,8 @@
    "tep": "bai/2026-06-t01n0014-kinh-nhan-bon-duc-sanh-01-quyen.html",
    "files": 2,
    "tim": "t01n0014 人本欲生經 kinh nhan bon duc sanh (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -292,7 +306,8 @@
    "tep": "bai/2026-09-t01n0015-kinh-e-thich-so-van-01-quyen.html",
    "files": 2,
    "tim": "t01n0015 帝釋所問經 kinh de thich so van (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -311,7 +326,8 @@
    "tep": "bai/2026-09-t01n0016-kinh-thi-ca-la-viet-luc-phuong.html",
    "files": 2,
    "tim": "t01n0016 尸迦羅越六方禮經 kinh thi ca la viet luc phuong le (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -330,7 +346,8 @@
    "tep": "bai/2026-09-t01n0017-kinh-thien-sanh-tu-01-quyen.html",
    "files": 2,
    "tim": "t01n0017 善生子經 kinh thien sanh tu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -349,7 +366,8 @@
    "tep": "bai/2026-09-t01n0018-kinh-tin-phat-cong-uc-01-quyen.html",
    "files": 2,
    "tim": "t01n0018 信佛功德經 kinh tin phat cong duc (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -368,7 +386,8 @@
    "tep": "bai/2026-09-t01n0019-kinh-ai-tam-ma-nha-01-quyen.html",
    "files": 2,
    "tim": "t01n0019 大三摩惹經 kinh dai tam ma nha (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -387,7 +406,8 @@
    "tep": "bai/2026-09-t01n0020-kinh-phat-khai-giai-pham-chi.html",
    "files": 2,
    "tim": "t01n0020 佛開解梵志阿颰經 kinh phat khai giai pham chi a [?] (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -406,7 +426,8 @@
    "tep": "bai/2026-03-t01n0021-phat-thuyet-kinh-pham-vong-luc.html",
    "files": 2,
    "tim": "t01n0021 佛說梵網六十二見經 phat thuyet kinh pham vong luc thap nhi kien (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -425,7 +446,8 @@
    "tep": "bai/2026-09-t01n0022-kinh-tich-chi-qua-01-quyen.html",
    "files": 2,
    "tim": "t01n0022 寂志果經 kinh tich chi qua (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -444,7 +466,8 @@
    "tep": "bai/2026-10-t01n0023-kinh-ai-lau-than-06-quyen.html",
    "files": 12,
    "tim": "t01n0023 大樓炭經 kinh dai lau than (06 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -463,7 +486,8 @@
    "tep": "bai/2026-10-t01n0024-kinh-khoi-10-quyen.html",
    "files": 20,
    "tim": "t01n0024 起世經 kinh khoi the (10 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -482,7 +506,8 @@
    "tep": "bai/2026-10-t01n0025-kinh-khoi-nhan-bon-10-quyen.html",
    "files": 20,
    "tim": "t01n0025 起世因本經 kinh khoi the nhan bon (10 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -501,7 +526,8 @@
    "tep": "bai/2026-09-t01n0027-kinh-that-tri-01-quyen.html",
    "files": 2,
    "tim": "t01n0027 七知經 kinh that tri (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -520,7 +546,8 @@
    "tep": "bai/2026-09-t01n0028-kinh-vien-sanh-tho-01-quyen.html",
    "files": 2,
    "tim": "t01n0028 園生樹經 kinh vien sanh tho (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -539,7 +566,8 @@
    "tep": "bai/2026-09-t01n0029-kinh-ham-thuy-du-01-quyen.html",
    "files": 2,
    "tim": "t01n0029 鹹水喻經 kinh ham thuy du (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -558,7 +586,8 @@
    "tep": "bai/2026-09-t01n0030-kinh-tat-bat-to-ly-du-nai-da.html",
    "files": 2,
    "tim": "t01n0030 薩鉢多酥哩踰捺野經 kinh tat bat da to ly du nai da (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -577,7 +606,8 @@
    "tep": "bai/2026-09-t01n0031-kinh-nhat-thiet-luu-nhiep-thu.html",
    "files": 2,
    "tim": "t01n0031 一切流攝守因經 kinh nhat thiet luu nhiep thu nhan (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -596,7 +626,8 @@
    "tep": "bai/2026-03-t01n0032-phat-thuyet-kinh-tu-e-01-quyen.html",
    "files": 2,
    "tim": "t01n0032 佛說四諦經 phat thuyet kinh tu de (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -615,7 +646,8 @@
    "tep": "bai/2026-09-t01n0033-kinh-hang-thuy-01-quyen.html",
    "files": 2,
    "tim": "t01n0033 恒水經 kinh hang thuy (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -634,7 +666,8 @@
    "tep": "bai/2026-09-t01n0034-kinh-phap-hai-01-quyen.html",
    "files": 2,
    "tim": "t01n0034 法海經 kinh phap hai (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -653,7 +686,8 @@
    "tep": "bai/2026-09-t01n0035-kinh-hai-bat-uc-01-quyen.html",
    "files": 2,
    "tim": "t01n0035 海八德經 kinh hai bat duc (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -672,7 +706,8 @@
    "tep": "bai/2026-09-t01n0036-kinh-bon-tuong-y-tri-01-quyen.html",
    "files": 2,
    "tim": "t01n0036 本相猗致經 kinh bon tuong y tri (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -691,7 +726,8 @@
    "tep": "bai/2026-09-t01n0037-kinh-duyen-bon-tri-01-quyen.html",
    "files": 2,
    "tim": "t01n0037 緣本致經 kinh duyen bon tri (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -710,7 +746,8 @@
    "tep": "bai/2026-09-t01n0038-kinh-luan-vuong-that-bao-01.html",
    "files": 2,
    "tim": "t01n0038 輪王七寶經 kinh luan vuong that bao (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -729,7 +766,8 @@
    "tep": "bai/2026-09-t01n0039-kinh-anh-sanh-vuong-co-su-01.html",
    "files": 2,
    "tim": "t01n0039 頂生王故事經 kinh danh sanh vuong co su (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -748,7 +786,8 @@
    "tep": "bai/2026-09-t01n0040-kinh-van-kiet-vuong-01-quyen.html",
    "files": 2,
    "tim": "t01n0040 文陀竭王經 kinh van da kiet vuong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -767,7 +806,8 @@
    "tep": "bai/2026-09-t01n0041-kinh-tan-ba-sa-la-vuong-01.html",
    "files": 2,
    "tim": "t01n0041 頻婆娑羅王經 kinh tan ba sa la vuong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -786,7 +826,8 @@
    "tep": "bai/2026-09-t01n0042-kinh-thiet-thanh-ne-le-01-quyen.html",
    "files": 2,
    "tim": "t01n0042 鐵城泥犁經 kinh thiet thanh ne le (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -805,7 +846,8 @@
    "tep": "bai/2026-09-t01n0043-kinh-diem-la-vuong-ngu-thien.html",
    "files": 2,
    "tim": "t01n0043 閻羅王五天使者經 kinh diem la vuong ngu thien su gia (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -824,7 +866,8 @@
    "tep": "bai/2026-09-t01n0044-kinh-co-lai-thoi-01-quyen.html",
    "files": 2,
    "tim": "t01n0044 古來世時經 kinh co lai the thoi (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -843,7 +886,8 @@
    "tep": "bai/2026-10-t01n0045-kinh-ai-chanh-cu-vuong-02-quyen.html",
    "files": 3,
    "tim": "t01n0045 大正句王經 kinh dai chanh cu vuong (02 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -862,7 +906,8 @@
    "tep": "bai/2026-10-t01n0046-kinh-na-luat-bat-niem-01-quyen.html",
    "files": 2,
    "tim": "t01n0046 阿那律八念經 kinh a na luat bat niem (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -881,7 +926,8 @@
    "tep": "bai/2026-10-t01n0047-kinh-ly-thuy-01-quyen.html",
    "files": 2,
    "tim": "t01n0047 離睡經 kinh ly thuy (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -900,7 +946,8 @@
    "tep": "bai/2026-10-t01n0048-kinh-thi-phap-phi-phap-01-quyen.html",
    "files": 2,
    "tim": "t01n0048 是法非法經 kinh thi phap phi phap (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -919,7 +966,8 @@
    "tep": "bai/2026-10-t01n0049-kinh-cau-duc-01-quyen.html",
    "files": 2,
    "tim": "t01n0049 求欲經 kinh cau duc (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -938,7 +986,8 @@
    "tep": "bai/2026-10-t01n0050-kinh-tho-tue-01-quyen.html",
    "files": 2,
    "tim": "t01n0050 受歲經 kinh tho tue (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -957,7 +1006,8 @@
    "tep": "bai/2026-10-t01n0051-kinh-pham-chi-ke-thuy-tinh-01.html",
    "files": 2,
    "tim": "t01n0051 梵志計水淨經 kinh pham chi ke thuy tinh (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -976,7 +1026,8 @@
    "tep": "bai/2026-08-t01n0052-kinh-ai-sanh-nghia-01-quyen.html",
    "files": 2,
    "tim": "t01n0052 大生義經 kinh dai sanh nghia (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -995,7 +1046,8 @@
    "tep": "bai/2026-10-t01n0053-kinh-kho-am-01-quyen.html",
    "files": 2,
    "tim": "t01n0053 苦陰經 kinh kho am (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1014,7 +1066,8 @@
    "tep": "bai/2026-10-t01n0054-kinh-thich-ma-nam-bon-tu-tu-01.html",
    "files": 2,
    "tim": "t01n0054 釋摩男本四子經 kinh thich ma nam bon tu tu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1033,7 +1086,8 @@
    "tep": "bai/2026-10-t01n0055-kinh-kho-am-nhan-su-01-quyen.html",
    "files": 2,
    "tim": "t01n0055 苦陰因事經 kinh kho am nhan su (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1052,7 +1106,8 @@
    "tep": "bai/2026-10-t01n0056-kinh-lac-tuong-01-quyen.html",
    "files": 2,
    "tim": "t01n0056 樂想經 kinh lac tuong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1071,7 +1126,8 @@
    "tep": "bai/2026-10-t01n0057-kinh-lau-phan-bo-01-quyen.html",
    "files": 2,
    "tim": "t01n0057 漏分布經 kinh lau phan bo (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1090,7 +1146,8 @@
    "tep": "bai/2026-10-t01n0058-kinh-nau-phong-01-quyen.html",
    "files": 2,
    "tim": "t01n0058 阿耨風經 kinh a nau phong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1109,7 +1166,8 @@
    "tep": "bai/2026-10-t01n0059-kinh-chu-phap-bon-01-quyen.html",
    "files": 2,
    "tim": "t01n0059 諸法本經 kinh chu phap bon (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1128,7 +1186,8 @@
    "tep": "bai/2026-10-t01n0060-kinh-cu-am-di-ky-qua-01-quyen.html",
    "files": 2,
    "tim": "t01n0060 瞿曇彌記果經 kinh cu dam di ky qua (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1147,7 +1206,8 @@
    "tep": "bai/2026-10-t01n0061-kinh-tho-tan-tue-01-quyen.html",
    "files": 2,
    "tim": "t01n0061 受新歲經 kinh tho tan tue (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1166,7 +1226,8 @@
    "tep": "bai/2026-10-t01n0062-kinh-tan-tue-01-quyen.html",
    "files": 2,
    "tim": "t01n0062 新歲經 kinh tan tue (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1185,7 +1246,8 @@
    "tep": "bai/2026-10-t01n0063-kinh-giai-ha-01-quyen.html",
    "files": 2,
    "tim": "t01n0063 解夏經 kinh giai ha (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1204,7 +1266,8 @@
    "tep": "bai/2026-10-t01n0064-kinh-chiem-ba-ty-kheo-01-quyen.html",
    "files": 2,
    "tim": "t01n0064 瞻婆比丘經 kinh chiem ba ty kheo (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1223,7 +1286,8 @@
    "tep": "bai/2026-10-t01n0065-kinh-phuc-dam-01-quyen.html",
    "files": 2,
    "tim": "t01n0065 伏婬經 kinh phuc dam (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1242,7 +1306,8 @@
    "tep": "bai/2026-10-t01n0066-kinh-ma-nhieu-loan-01-quyen.html",
    "files": 2,
    "tim": "t01n0066 魔嬈亂經 kinh ma nhieu loan (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1261,7 +1326,8 @@
    "tep": "bai/2026-10-t01n0067-kinh-te-ma-thi-muc-lien-01.html",
    "files": 2,
    "tim": "t01n0067 弊魔試目連經 kinh te ma thi muc lien (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1280,7 +1346,8 @@
    "tep": "bai/2026-10-t01n0068-kinh-lai-tra-hoa-la-01-quyen.html",
    "files": 2,
    "tim": "t01n0068 賴吒和羅經 kinh lai tra hoa la (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1299,7 +1366,8 @@
    "tep": "bai/2026-10-t01n0069-kinh-ho-quoc-01-quyen.html",
    "files": 2,
    "tim": "t01n0069 護國經 kinh ho quoc (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1318,7 +1386,8 @@
    "tep": "bai/2026-10-t01n0070-kinh-so-01-quyen.html",
    "files": 2,
    "tim": "t01n0070 數經 kinh so (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1337,7 +1406,8 @@
    "tep": "bai/2026-10-t01n0071-kinh-pham-chi-at-ba-la-dien.html",
    "files": 2,
    "tim": "t01n0071 梵志頞波羅延問種尊經 kinh pham chi at ba la dien van chung ton (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1356,7 +1426,8 @@
    "tep": "bai/2026-10-t01n0072-kinh-tam-quy-ngu-gioi-tu-tam.html",
    "files": 2,
    "tim": "t01n0072 三歸五戒慈心厭離功德經 kinh tam quy ngu gioi tu tam yem ly cong duc (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1375,7 +1446,8 @@
    "tep": "bai/2026-10-t01n0073-kinh-tu-at-01-quyen.html",
    "files": 2,
    "tim": "t01n0073 須達經 kinh tu dat (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1394,7 +1466,8 @@
    "tep": "bai/2026-10-t01n0074-kinh-truong-gia-thi-bao-01.html",
    "files": 2,
    "tim": "t01n0074 長者施報經 kinh truong gia thi bao (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1413,7 +1486,8 @@
    "tep": "bai/2026-10-t01n0075-kinh-phat-vi-huynh-truc-vien.html",
    "files": 2,
    "tim": "t01n0075 佛為黃竹園老婆羅門說學經 kinh phat vi huynh truc vien lao ba la mon thuyet hoc (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1432,7 +1506,8 @@
    "tep": "bai/2026-10-t01n0076-kinh-pham-ma-du-01-quyen.html",
    "files": 2,
    "tim": "t01n0076 梵摩渝經 kinh pham ma du (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1451,7 +1526,8 @@
    "tep": "bai/2026-10-t01n0077-kinh-ton-thuong-01-quyen.html",
    "files": 2,
    "tim": "t01n0077 尊上經 kinh ton thuong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1470,7 +1546,8 @@
    "tep": "bai/2026-10-t01n0078-kinh-au-ieu-01-quyen.html",
    "files": 2,
    "tim": "t01n0078 兜調經 kinh dau dieu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1489,7 +1566,8 @@
    "tep": "bai/2026-10-t01n0079-kinh-anh-vu-01-quyen.html",
    "files": 2,
    "tim": "t01n0079 鸚鵡經 kinh anh vu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1508,7 +1586,8 @@
    "tep": "bai/2026-10-t01n0080-kinh-phat-vi-thu-ca-truong-gia.html",
    "files": 2,
    "tim": "t01n0080 佛為首迦長者說業報差別經 kinh phat vi thu ca truong gia thuyet nghiep bao sai biet (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1527,7 +1606,8 @@
    "tep": "bai/2026-10-t01n0081-kinh-phan-biet-thien-ac-bao.html",
    "files": 3,
    "tim": "t01n0081 分別善惡報應經 kinh phan biet thien ac bao ung (02 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1546,7 +1626,8 @@
    "tep": "bai/2026-10-t01n0082-kinh-y-01-quyen.html",
    "files": 2,
    "tim": "t01n0082 意經 kinh y (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1565,7 +1646,8 @@
    "tep": "bai/2026-10-t01n0083-kinh-ung-phap-01-quyen.html",
    "files": 2,
    "tim": "t01n0083 應法經 kinh ung phap (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1584,7 +1666,8 @@
    "tep": "bai/2026-10-t01n0084-kinh-phan-biet-bo-thi-01-quyen.html",
    "files": 2,
    "tim": "t01n0084 分別布施經 kinh phan biet bo thi (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1603,7 +1686,8 @@
    "tep": "bai/2026-10-t01n0085-kinh-tuc-tranh-nhan-duyen-01.html",
    "files": 2,
    "tim": "t01n0085 息諍因緣經 kinh tuc tranh nhan duyen (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1622,7 +1706,8 @@
    "tep": "bai/2026-10-t01n0086-kinh-ne-le-01-quyen.html",
    "files": 2,
    "tim": "t01n0086 泥犁經 kinh ne le (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1641,7 +1726,8 @@
    "tep": "bai/2026-10-t01n0087-kinh-trai-01-quyen.html",
    "files": 2,
    "tim": "t01n0087 齋經 kinh trai (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1660,7 +1746,8 @@
    "tep": "bai/2026-10-t01n0088-kinh-uu-bi-di-oa-xa-ca-01-quyen.html",
    "files": 2,
    "tim": "t01n0088 優陂夷墮舍迦經 kinh uu bi di doa xa ca (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1679,7 +1766,8 @@
    "tep": "bai/2026-10-t01n0089-kinh-bat-quan-trai-01-quyen.html",
    "files": 2,
    "tim": "t01n0089 八關齋經 kinh bat quan trai (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1698,7 +1786,8 @@
    "tep": "bai/2026-10-t01n0090-kinh-binh-ma-tuc-01-quyen.html",
    "files": 2,
    "tim": "t01n0090 鞞摩肅經 kinh binh ma tuc (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1717,7 +1806,8 @@
    "tep": "bai/2026-10-t01n0091-kinh-ba-la-mon-tu-mang-chung.html",
    "files": 2,
    "tim": "t01n0091 婆羅門子命終愛念不離經 kinh ba la mon tu mang chung ai niem bat ly (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1736,7 +1826,8 @@
    "tep": "bai/2026-10-t01n0092-kinh-thap-chi-cu-si-bat-thanh.html",
    "files": 2,
    "tim": "t01n0092 十支居士八城人經 kinh thap chi cu si bat thanh nhan (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1755,7 +1846,8 @@
    "tep": "bai/2026-10-t01n0093-kinh-ta-kien-01-quyen.html",
    "files": 2,
    "tim": "t01n0093 邪見經 kinh ta kien (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1774,7 +1866,8 @@
    "tep": "bai/2026-10-t01n0094-kinh-tien-du-01-quyen.html",
    "files": 2,
    "tim": "t01n0094 箭喻經 kinh tien du (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1793,7 +1886,8 @@
    "tep": "bai/2026-10-t01n0095-kinh-nghi-du-01-quyen.html",
    "files": 2,
    "tim": "t01n0095 蟻喻經 kinh nghi du (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1812,7 +1906,8 @@
    "tep": "bai/2026-10-t01n0096-kinh-tri-y-01-quyen.html",
    "files": 2,
    "tim": "t01n0096 治意經 kinh tri y (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1831,7 +1926,8 @@
    "tep": "bai/2026-10-t01n0097-kinh-quang-nghia-phap-mon-01.html",
    "files": 2,
    "tim": "t01n0097 廣義法門經 kinh quang nghia phap mon (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1850,7 +1946,8 @@
    "tep": "bai/2026-10-t01n0098-kinh-pho-phap-nghia-01-quyen.html",
    "files": 2,
    "tim": "t01n0098 普法義經 kinh pho phap nghia (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1869,7 +1966,8 @@
    "tep": "bai/2026-10-t02n0100-biet-dich-tap-ham-kinh-16-quyen.html",
    "files": 32,
    "tim": "t02n0100 別譯雜阿含經 biet dich tap a ham kinh (16 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1888,7 +1986,8 @@
    "tep": "bai/2026-10-t02n0101-kinh-tap-ham-01-quyen.html",
    "files": 2,
    "tim": "t02n0101 雜阿含經 kinh tap a ham (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1907,7 +2006,8 @@
    "tep": "bai/2026-10-t02n0102-phat-thuyet-kinh-ngu-uan-giai.html",
    "files": 2,
    "tim": "t02n0102 佛說五蘊皆空經 phat thuyet kinh ngu uan giai khong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1926,7 +2026,8 @@
    "tep": "bai/2026-10-t02n0103-phat-thuyet-kinh-thanh-phap-01.html",
    "files": 2,
    "tim": "t02n0103 佛說聖法印經 phat thuyet kinh thanh phap an (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1945,7 +2046,8 @@
    "tep": "bai/2026-10-t02n0104-phat-thuyet-kinh-phap-01-quyen.html",
    "files": 2,
    "tim": "t02n0104 佛說法印經 phat thuyet kinh phap an (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1964,7 +2066,8 @@
    "tep": "bai/2026-10-t02n0105-kinh-ngu-am-thi-du-01-quyen.html",
    "files": 2,
    "tim": "t02n0105 五陰譬喻經 kinh ngu am thi du (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -1983,7 +2086,8 @@
    "tep": "bai/2026-10-t02n0106-phat-thuyet-kinh-thuy-mat-so.html",
    "files": 2,
    "tim": "t02n0106 佛說水沫所漂經 phat thuyet kinh thuy mat so phieu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2002,7 +2106,8 @@
    "tep": "bai/2026-10-t02n0107-phat-thuyet-kinh-bat-tu-thu-y.html",
    "files": 2,
    "tim": "t02n0107 佛說不自守意經 phat thuyet kinh bat tu thu y (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2021,7 +2126,8 @@
    "tep": "bai/2026-10-t02n0108-phat-thuyet-kinh-man-nguyen-tu.html",
    "files": 2,
    "tim": "t02n0108 佛說滿願子經 phat thuyet kinh man nguyen tu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2040,7 +2146,8 @@
    "tep": "bai/2026-10-t02n0109-phat-thuyet-kinh-chuyen-phap.html",
    "files": 2,
    "tim": "t02n0109 佛說轉法輪經 phat thuyet kinh chuyen phap luan (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2059,7 +2166,8 @@
    "tep": "bai/2026-10-t02n0110-phat-thuyet-kinh-tam-chuyen.html",
    "files": 2,
    "tim": "t02n0110 佛說三轉法輪經 phat thuyet kinh tam chuyen phap luan (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2078,7 +2186,8 @@
    "tep": "bai/2026-10-t02n0111-phat-thuyet-kinh-tuong-ung.html",
    "files": 2,
    "tim": "t02n0111 佛說相應相可經 phat thuyet kinh tuong ung tuong kha (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2097,7 +2206,8 @@
    "tep": "bai/2026-10-t02n0112-phat-thuyet-kinh-bat-chanh-ao.html",
    "files": 2,
    "tim": "t02n0112 佛說八正道經 phat thuyet kinh bat chanh dao (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2116,7 +2226,8 @@
    "tep": "bai/2026-10-t02n0113-phat-thuyet-kinh-nan-e-thich.html",
    "files": 2,
    "tim": "t02n0113 佛說難提釋經 phat thuyet kinh nan de thich (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2135,7 +2246,8 @@
    "tep": "bai/2026-10-t02n0114-phat-thuyet-kinh-ma-huu-tam.html",
    "files": 2,
    "tim": "t02n0114 佛說馬有三相經 phat thuyet kinh ma huu tam tuong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2154,7 +2266,8 @@
    "tep": "bai/2026-10-t02n0115-phat-thuyet-kinh-ma-huu-bat.html",
    "files": 2,
    "tim": "t02n0115 佛說馬有八態譬人經 phat thuyet kinh ma huu bat thai thi nhan (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2173,7 +2286,8 @@
    "tep": "bai/2026-10-t02n0116-phat-thuyet-kinh-gioi-uc-huong.html",
    "files": 2,
    "tim": "t02n0116 佛說戒德香經 phat thuyet kinh gioi duc huong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2192,7 +2306,8 @@
    "tep": "bai/2026-10-t02n0117-phat-thuyet-kinh-gioi-huong-01.html",
    "files": 2,
    "tim": "t02n0117 佛說戒香經 phat thuyet kinh gioi huong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2211,7 +2326,8 @@
    "tep": "bai/2026-10-t02n0118-phat-thuyet-kinh-uong-quat-ma.html",
    "files": 2,
    "tim": "t02n0118 佛說鴦掘摩經 phat thuyet kinh uong quat ma (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2230,7 +2346,8 @@
    "tep": "bai/2026-10-t02n0119-phat-thuyet-kinh-uong-quat-ke.html",
    "files": 2,
    "tim": "t02n0119 佛說鴦崛髻經 phat thuyet kinh uong quat ke (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2249,7 +2366,8 @@
    "tep": "bai/2026-10-t02n0120-kinh-uong-quat-ma-la-04-quyen.html",
    "files": 8,
    "tim": "t02n0120 央掘魔羅經 kinh uong quat ma la (04 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2268,7 +2386,8 @@
    "tep": "bai/2026-10-t02n0121-phat-thuyet-kinh-nguyet-du-01.html",
    "files": 2,
    "tim": "t02n0121 佛說月喻經 phat thuyet kinh nguyet du (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2287,7 +2406,8 @@
    "tep": "bai/2026-10-t02n0122-phat-thuyet-kinh-ba-tu-nac.html",
    "files": 2,
    "tim": "t02n0122 佛說波斯匿王太后崩塵土坌身經 phat thuyet kinh ba tu nac vuong thai hau bang tran do bon than (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2306,7 +2426,8 @@
    "tep": "bai/2026-10-t02n0123-phat-thuyet-kinh-phong-nguu-01.html",
    "files": 2,
    "tim": "t02n0123 佛說放牛經 phat thuyet kinh phong nguu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2325,7 +2446,8 @@
    "tep": "bai/2026-10-t02n0124-kinh-duyen-khoi-01-quyen.html",
    "files": 2,
    "tim": "t02n0124 緣起經 kinh duyen khoi (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2344,7 +2466,8 @@
    "tep": "bai/2026-10-t02n0126-phat-thuyet-kinh-la-han-cu-uc.html",
    "files": 2,
    "tim": "t02n0126 佛說阿羅漢具德經 phat thuyet kinh a la han cu duc (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2363,7 +2486,8 @@
    "tep": "bai/2026-10-t02n0127-phat-thuyet-kinh-tu-nhan-xuat.html",
    "files": 2,
    "tim": "t02n0127 佛說四人出現世間經 phat thuyet kinh tu nhan xuat hien the gian (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2382,7 +2506,8 @@
    "tep": "bai/2026-10-t02n0128a-kinh-tu-ma-e-nu-01-quyen.html",
    "files": 2,
    "tim": "t02n0128a 須摩提女經 kinh tu ma de nu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2401,7 +2526,8 @@
    "tep": "bai/2026-10-t02n0128b-kinh-tu-ma-e-nu-01-quyen.html",
    "files": 2,
    "tim": "t02n0128b 須摩提女經 kinh tu ma de nu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2420,7 +2546,8 @@
    "tep": "bai/2026-10-t02n0129-phat-thuyet-kinh-tam-ma-kiet.html",
    "files": 2,
    "tim": "t02n0129 佛說三摩竭經 phat thuyet kinh tam ma kiet (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2439,7 +2566,8 @@
    "tep": "bai/2026-10-t02n0130-phat-thuyet-kinh-cap-co-truong.html",
    "files": 4,
    "tim": "t02n0130 佛說給孤長者女得度因緣經 phat thuyet kinh cap co truong gia nu dac do nhan duyen (03 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2458,7 +2586,8 @@
    "tep": "bai/2026-09-t02n0131-phat-thuyet-kinh-ba-la-mon-ti.html",
    "files": 2,
    "tim": "t02n0131 佛說婆羅門避死經 phat thuyet kinh ba la mon ti tu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2477,7 +2606,8 @@
    "tep": "bai/2026-09-t02n0132a-phat-thuyet-kinh-thuc-thi.html",
    "files": 2,
    "tim": "t02n0132a 佛說食施獲五福報經 phat thuyet kinh thuc thi hoach ngu phuoc bao (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2496,7 +2626,8 @@
    "tep": "bai/2026-09-t02n0132b-kinh-thi-thuc-ngu-phuoc-bao.html",
    "files": 2,
    "tim": "t02n0132b 施食獲五福報經 kinh thi thuc hoach ngu phuoc bao (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2515,7 +2646,8 @@
    "tep": "bai/2026-09-t02n0133-kinh-tan-ty-ba-la-vuong-nghe.html",
    "files": 2,
    "tim": "t02n0133 頻毘娑羅王詣佛供養經 kinh tan ty ba la vuong nghe phat cung duong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2534,7 +2666,8 @@
    "tep": "bai/2026-09-t02n0134-phat-thuyet-kinh-truong-gia-tu.html",
    "files": 2,
    "tim": "t02n0134 佛說長者子六過出家經 phat thuyet kinh truong gia tu luc qua xuat gia (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2553,7 +2686,8 @@
    "tep": "bai/2026-09-t02n0135-phat-thuyet-kinh-luc-si-di-son.html",
    "files": 2,
    "tim": "t02n0135 佛說力士移山經 phat thuyet kinh luc si di son (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2572,7 +2706,8 @@
    "tep": "bai/2026-09-t02n0136-phat-thuyet-kinh-tu-vi-tang.html",
    "files": 2,
    "tim": "t02n0136 佛說四未曾有法經 phat thuyet kinh tu vi tang huu phap (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2591,7 +2726,8 @@
    "tep": "bai/2026-09-t02n0137-kinh-xa-loi-phat-ma-ha-muc.html",
    "files": 2,
    "tim": "t02n0137 舍利弗摩訶目連遊四衢經 kinh xa loi phat ma ha muc lien du tu cu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2610,7 +2746,8 @@
    "tep": "bai/2026-09-t02n0138-phat-thuyet-kinh-thap-nhut.html",
    "files": 2,
    "tim": "t02n0138 佛說十一想思念如來經 phat thuyet kinh thap nhut tuong tu niem nhu lai (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2629,7 +2766,8 @@
    "tep": "bai/2026-09-t02n0139-phat-thuyet-kinh-tu-ne-le-01.html",
    "files": 2,
    "tim": "t02n0139 佛說四泥犁經 phat thuyet kinh tu ne le (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2648,7 +2786,8 @@
    "tep": "bai/2026-09-t02n0140-kinh-na-ban-e-hoa-that-tu-01.html",
    "files": 2,
    "tim": "t02n0140 阿那邠邸化七子經 kinh a na ban de hoa that tu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2667,7 +2806,8 @@
    "tep": "bai/2026-09-t02n0141-phat-thuyet-kinh-toc-at-01.html",
    "files": 2,
    "tim": "t02n0141 佛說阿遬達經 phat thuyet kinh a toc dat (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2686,7 +2826,8 @@
    "tep": "bai/2026-09-t02n0142a-phat-thuyet-kinh-ngoc-da-nu.html",
    "files": 2,
    "tim": "t02n0142a 佛說玉耶女經 phat thuyet kinh ngoc da nu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2705,7 +2846,8 @@
    "tep": "bai/2026-09-t02n0142b-kinh-ngoc-da-nu-01-quyen.html",
    "files": 2,
    "tim": "t02n0142b 玉耶女經 kinh ngoc da nu (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2724,7 +2866,8 @@
    "tep": "bai/2026-09-t02n0143-kinh-ngoc-nu-01-quyen.html",
    "files": 2,
    "tim": "t02n0143 玉耶經 kinh ngoc da (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2743,7 +2886,8 @@
    "tep": "bai/2026-05-t02n0144-phat-thuyet-kinh-ai-ai-ao-bat.html",
    "files": 2,
    "tim": "t02n0144 佛說大愛道般泥洹經 phat thuyet kinh dai ai dao bat ne hoan (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2762,7 +2906,8 @@
    "tep": "bai/2026-05-t02n0145-kinh-phat-mau-bat-ne-hoan-01.html",
    "files": 2,
    "tim": "t02n0145 佛母般泥洹經 kinh phat mau bat ne hoan (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2781,7 +2926,8 @@
    "tep": "bai/2026-05-t02n0146-kinh-xa-ve-quoc-vuong-mong.html",
    "files": 2,
    "tim": "t02n0146 舍衛國王夢見十事經 kinh xa ve quoc vuong mong kien thap su (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2800,7 +2946,8 @@
    "tep": "bai/2026-05-t02n0147-phat-thuyet-kinh-xa-ve-quoc.html",
    "files": 2,
    "tim": "t02n0147 佛說舍衛國王十夢經 phat thuyet kinh xa ve quoc vuong thap mong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2819,7 +2966,8 @@
    "tep": "bai/2026-05-t02n0148-kinh-quoc-vuong-bat-le-tien-ne.html",
    "files": 2,
    "tim": "t02n0148 國王不梨先泥十夢經 kinh quoc vuong bat le tien ne thap mong (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2838,7 +2986,8 @@
    "tep": "bai/2026-05-t02n0149-phat-thuyet-kinh-nan-ong-hoc.html",
    "files": 2,
    "tim": "t02n0149 佛說阿難同學經 phat thuyet kinh a nan dong hoc (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2857,7 +3006,8 @@
    "tep": "bai/2026-07-t02n0150a-kinh-that-xu-tam-quan-01-quyen.html",
    "files": 2,
    "tim": "t02n0150a 七處三觀經 kinh that xu tam quan (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2876,7 +3026,8 @@
    "tep": "bai/2026-05-t02n0150b-kinh-cuu-hoanh-01-quyen.html",
    "files": 2,
    "tim": "t02n0150b 九橫經 kinh cuu hoanh (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2895,7 +3046,8 @@
    "tep": "bai/2026-05-t02n0151-phat-thuyet-kinh-ham-chanh.html",
    "files": 2,
    "tim": "t02n0151 佛說阿含正行經 phat thuyet kinh a ham chanh hanh (01 quyen) bo a ham",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2914,7 +3066,8 @@
    "tep": "bai/2026-11-t03n0152-luc-o-tap-kinh-08-quyen.html",
    "files": 16,
    "tim": "t03n0152 六度集經 luc do tap kinh (08 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2933,7 +3086,8 @@
    "tep": "bai/2026-10-t03n0153-kinh-bo-tat-bon-duyen-03-quyen.html",
    "files": 4,
    "tim": "t03n0153 菩薩本緣經 kinh bo tat bon duyen (03 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2952,7 +3106,8 @@
    "tep": "bai/2026-11-t03n0154-kinh-sanh-05-quyen.html",
    "files": 10,
    "tim": "t03n0154 生經 kinh sanh (05 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2971,7 +3126,8 @@
    "tep": "bai/2026-10-t03n0161-kinh-truong-tho-vuong-01-quyen.html",
    "files": 2,
    "tim": "t03n0161 長壽王經 kinh truong tho vuong (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -2990,7 +3146,8 @@
    "tep": "bai/2026-10-t03n0162-kinh-kim-sac-vuong-01-quyen.html",
    "files": 2,
    "tim": "t03n0162 金色王經 kinh kim sac vuong (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3009,7 +3166,8 @@
    "tep": "bai/2026-10-t03n0163-kinh-dieu-sac-vuong-nhan-duyen.html",
    "files": 2,
    "tim": "t03n0163 妙色王因緣經 kinh dieu sac vuong nhan duyen (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3028,7 +3186,8 @@
    "tep": "bai/2026-10-t03n0164-kinh-su-tu-to-sa-vuong-oan.html",
    "files": 2,
    "tim": "t03n0164 師子素馱娑王斷肉經 kinh su tu to da sa vuong doan nhuc (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3047,7 +3206,8 @@
    "tep": "bai/2026-10-t03n0166-kinh-nguyet-quang-bo-tat-01.html",
    "files": 2,
    "tim": "t03n0166 月光菩薩經 kinh nguyet quang bo tat (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3066,7 +3226,8 @@
    "tep": "bai/2026-10-t03n0167-kinh-thai-tu-mo-phach-01-quyen.html",
    "files": 2,
    "tim": "t03n0167 太子慕魄經 kinh thai tu mo phach (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3085,7 +3246,8 @@
    "tep": "bai/2026-10-t03n0168-kinh-thai-tu-mo-phach-01-quyen.html",
    "files": 2,
    "tim": "t03n0168 太子慕魄經 kinh thai tu mo phach (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3104,7 +3266,8 @@
    "tep": "bai/2026-10-t03n0169-kinh-nguyet-minh-bo-tat-01.html",
    "files": 2,
    "tim": "t03n0169 月明菩薩經 kinh nguyet minh bo tat (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3123,7 +3286,8 @@
    "tep": "bai/2026-10-t03n0170-kinh-uc-quang-thai-tu-01-quyen.html",
    "files": 2,
    "tim": "t03n0170 德光太子經 kinh duc quang thai tu (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3142,7 +3306,8 @@
    "tep": "bai/2026-10-t03n0171-kinh-thai-tu-tu-ai-noa-01-quyen.html",
    "files": 2,
    "tim": "t03n0171 太子須大拏經 kinh thai tu tu dai noa (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3161,7 +3326,8 @@
    "tep": "bai/2026-10-t03n0172-kinh-bo-tat-au-than-di-nga-ho.html",
    "files": 2,
    "tim": "t03n0172 菩薩投身飴餓虎起塔因緣經 kinh bo tat dau than di nga ho khoi thap nhan duyen (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3180,7 +3346,8 @@
    "tep": "bai/2026-10-t03n0174-kinh-bo-tat-thiem-tu-01-quyen.html",
    "files": 2,
    "tim": "t03n0174 菩薩睒子經 kinh bo tat thiem tu (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3199,7 +3366,8 @@
    "tep": "bai/2026-10-t03n0175a-kinh-thiem-tu-01-quyen.html",
    "files": 2,
    "tim": "t03n0175a 睒子經 kinh thiem tu (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3218,7 +3386,8 @@
    "tep": "bai/2026-10-t03n0175b-phat-thuyet-kinh-thiem-tu-01.html",
    "files": 2,
    "tim": "t03n0175b 佛說睒子經 phat thuyet kinh thiem tu (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3237,7 +3406,8 @@
    "tep": "bai/2026-10-t03n0175c-phat-thuyet-kinh-thiem-tu-01.html",
    "files": 2,
    "tim": "t03n0175c 佛說睒子經 phat thuyet kinh thiem tu (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3256,7 +3426,8 @@
    "tep": "bai/2026-10-t03n0176-kinh-su-tu-nguyet-phat-bon.html",
    "files": 2,
    "tim": "t03n0176 師子月佛本生經 kinh su tu nguyet phat bon sanh (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3275,7 +3446,8 @@
    "tep": "bai/2026-10-t03n0177-kinh-ai-y-01-quyen.html",
    "files": 2,
    "tim": "t03n0177 大意經 kinh dai y (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3294,7 +3466,8 @@
    "tep": "bai/2026-10-t03n0178-kinh-tien-tam-chuyen-01-quyen.html",
    "files": 2,
    "tim": "t03n0178 前世三轉經 kinh tien the tam chuyen (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3313,7 +3486,8 @@
    "tep": "bai/2026-10-t03n0179-kinh-ngan-sac-nu-01-quyen.html",
    "files": 2,
    "tim": "t03n0179 銀色女經 kinh ngan sac nu (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3332,7 +3506,8 @@
    "tep": "bai/2026-10-t03n0180-kinh-qua-khu-phat-phan-ve-01.html",
    "files": 2,
    "tim": "t03n0180 過去世佛分衛經 kinh qua khu the phat phan ve (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3351,7 +3526,8 @@
    "tep": "bai/2026-10-t03n0181a-kinh-cuu-sac-loc-01-quyen.html",
    "files": 2,
    "tim": "t03n0181a 九色鹿經 kinh cuu sac loc (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3370,7 +3546,8 @@
    "tep": "bai/2026-10-t03n0181b-phat-thuyet-kinh-cuu-sac-loc.html",
    "files": 2,
    "tim": "t03n0181b 佛說九色鹿經 phat thuyet kinh cuu sac loc (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3389,7 +3566,8 @@
    "tep": "bai/2026-10-t03n0182a-kinh-loc-mau-01-quyen.html",
    "files": 2,
    "tim": "t03n0182a 鹿母經 kinh loc mau (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3408,7 +3586,8 @@
    "tep": "bai/2026-10-t03n0182b-phat-thuyet-kinh-loc-mau-01.html",
    "files": 2,
    "tim": "t03n0182b 佛說鹿母經 phat thuyet kinh loc mau (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3427,7 +3606,8 @@
    "tep": "bai/2026-10-t03n0183-kinh-nhut-thiet-tri-quang-minh.html",
    "files": 2,
    "tim": "t03n0183 一切智光明仙人慈心因緣不食肉經 kinh nhut thiet tri quang minh tien nhan tu tam nhan duyen bat thuc nhuc (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3446,7 +3626,8 @@
    "tep": "bai/2026-11-t03n0184-kinh-tu-hanh-bon-khoi-02-quyen.html",
    "files": 3,
    "tim": "t03n0184 修行本起經 kinh tu hanh bon khoi (02 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3465,7 +3646,8 @@
    "tep": "bai/2026-11-t03n0185-kinh-thai-tu-thuy-ung-bon-khoi.html",
    "files": 3,
    "tim": "t03n0185 太子瑞應本起經 kinh thai tu thuy ung bon khoi (02 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3484,7 +3666,8 @@
    "tep": "bai/2026-10-t03n0188-kinh-di-xuat-bo-tat-bon-khoi.html",
    "files": 2,
    "tim": "t03n0188 異出菩薩本起經 kinh di xuat bo tat bon khoi (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3503,7 +3686,8 @@
    "tep": "bai/2026-10-t04n0195-phat-thuyet-kinh-thap-nhi-du.html",
    "files": 2,
    "tim": "t04n0195 佛說十二遊經 phat thuyet kinh thap nhi du (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3522,7 +3706,8 @@
    "tep": "bai/2026-10-t04n0199-kinh-phat-ngu-bach-e-tu-tu.html",
    "files": 2,
    "tim": "t04n0199 佛五百弟子自說本起經 kinh phat ngu bach de tu tu thuyet bon khoi (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3541,7 +3726,8 @@
    "tep": "bai/2026-10-t04n0204-kinh-tap-thi-du-01-quyen.html",
    "files": 2,
    "tim": "t04n0204 雜譬喻經 kinh tap thi du (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3560,7 +3746,8 @@
    "tep": "bai/2026-10-t04n0207-kinh-tap-thi-du-01-quyen.html",
    "files": 2,
    "tim": "t04n0207 雜譬喻經 kinh tap thi du (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3579,7 +3766,8 @@
    "tep": "bai/2026-11-t04n0210-kinh-phap-cu-02-quyen.html",
    "files": 3,
    "tim": "t04n0210 法句經 kinh phap cu (02 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3598,7 +3786,8 @@
    "tep": "bai/2026-11-t04n0213-kinh-phap-tap-yeu-tung-04-quyen.html",
    "files": 8,
    "tim": "t04n0213 法集要頌經 kinh phap tap yeu tung (04 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3617,7 +3806,8 @@
    "tep": "bai/2026-10-t04n0214-kinh-che-cau-01-quyen.html",
    "files": 2,
    "tim": "t04n0214 猘狗經 kinh che cau (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3636,7 +3826,8 @@
    "tep": "bai/2026-10-t04n0215-kinh-quan-nguu-thi-01-quyen.html",
    "files": 2,
    "tim": "t04n0215 群牛譬經 kinh quan nguu thi (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3655,7 +3846,8 @@
    "tep": "bai/2026-10-t04n0216-kinh-ai-ngu-su-01-quyen.html",
    "files": 2,
    "tim": "t04n0216 大魚事經 kinh dai ngu su (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3674,7 +3866,8 @@
    "tep": "bai/2026-10-t04n0217-kinh-thi-du-01-quyen.html",
    "files": 2,
    "tim": "t04n0217 譬喻經 kinh thi du (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3693,7 +3886,8 @@
    "tep": "bai/2026-10-t04n0218-kinh-quan-anh-vuong-du-01-quyen.html",
    "files": 2,
    "tim": "t04n0218 灌頂王喻經 kinh quan danh vuong du (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3712,7 +3906,8 @@
    "tep": "bai/2026-10-t04n0219-kinh-y-du-01-quyen.html",
    "files": 2,
    "tim": "t04n0219 醫喻經 kinh y du (01 quyen) bo bon duyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3731,7 +3926,8 @@
    "tep": "bai/2026-05-t05n0220-kinh-ai-bat-nha-ba-la-mat-200.html",
    "files": 3,
    "tim": "t05n0220 大般若波羅蜜多經 kinh dai bat nha ba la mat da (200 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3750,7 +3946,8 @@
    "tep": "bai/2026-06-t06n0220-kinh-ai-bat-nha-ba-la-mat-200.html",
    "files": 3,
    "tim": "t06n0220 大般若波羅蜜多經 kinh dai bat nha ba la mat da (200 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3769,7 +3966,8 @@
    "tep": "bai/2026-07-t07n0220-kinh-ai-bat-nha-ba-la-mat-200.html",
    "files": 3,
    "tim": "t07n0220 大般若波羅蜜多經 kinh dai bat nha ba la mat da (200 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3788,7 +3986,8 @@
    "tep": "bai/2026-06-t08n0221-kinh-phong-quang-bat-nha-20.html",
    "files": 40,
    "tim": "t08n0221 放光般若經 kinh phong quang bat nha (20 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3807,7 +4006,8 @@
    "tep": "bai/2026-06-t08n0222-kinh-quang-tan-10-quyen.html",
    "files": 20,
    "tim": "t08n0222 光讚經 kinh quang tan (10 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3826,7 +4026,8 @@
    "tep": "bai/2026-04-t08n0223-kinh-ma-ha-bat-nha-ba-la-mat.html",
    "files": 54,
    "tim": "t08n0223 摩訶般若波羅蜜經 kinh ma ha bat nha ba la mat (27 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3845,7 +4046,8 @@
    "tep": "bai/2026-04-t08n0224-kinh-ao-hanh-bat-nha-10-quyen.html",
    "files": 20,
    "tim": "t08n0224 道行般若經 kinh dao hanh bat nha (10 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3864,7 +4066,8 @@
    "tep": "bai/2026-04-t08n0225-kinh-ai-minh-o-06-quyen.html",
    "files": 12,
    "tim": "t08n0225 大明度經 kinh dai minh do (06 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3883,7 +4086,8 @@
    "tep": "bai/2026-04-t08n0226-kinh-ma-ha-bat-nha-sao-05-quyen.html",
    "files": 10,
    "tim": "t08n0226 摩訶般若鈔經 kinh ma ha bat nha sao (05 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3902,7 +4106,8 @@
    "tep": "bai/2026-05-t08n0227-kinh-tieu-pham-bat-nha-ba-la.html",
    "files": 20,
    "tim": "t08n0227 小品般若波羅蜜經 kinh tieu pham bat nha ba la mat (10 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3921,7 +4126,8 @@
    "tep": "bai/2026-05-t08n0228-phat-thuyet-kinh-phat-mau-xuat.html",
    "files": 50,
    "tim": "t08n0228 佛說佛母出生三法藏般若波羅蜜多經 phat thuyet kinh phat mau xuat sanh tam phap tang bat nha ba la mat da (25 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3940,7 +4146,8 @@
    "tep": "bai/2026-04-t08n0229-phat-thuyet-kinh-phat-mau-bao.html",
    "files": 4,
    "tim": "t08n0229 佛說佛母寶德藏般若波羅蜜經 phat thuyet kinh phat mau bao duc tang bat nha ba la mat (03 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3959,7 +4166,8 @@
    "tep": "bai/2026-04-t08n0230-kinh-thanh-bat-thien-tung-bat.html",
    "files": 2,
    "tim": "t08n0230 聖八千頌般若波羅蜜多一百八名真實圓義陀羅尼經 kinh thanh bat thien tung bat nha ba la mat da nhat bach bat danh chan that vien nghia da la ni (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3978,7 +4186,8 @@
    "tep": "bai/2026-06-t08n0231-kinh-thang-thien-vuong-bat-nha.html",
    "files": 14,
    "tim": "t08n0231 勝天王般若波羅蜜經 kinh thang thien vuong bat nha ba la mat (07 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -3997,7 +4206,8 @@
    "tep": "bai/2026-03-t08n0232-kinh-van-thu-su-loi-so-thuyet.html",
    "files": 3,
    "tim": "t08n0232 文殊師利所說摩訶般若波羅蜜經 kinh van thu su loi so thuyet ma ha bat nha ba la mat (02 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4016,7 +4226,8 @@
    "tep": "bai/2026-03-t08n0233-kinh-van-thu-su-loi-so-thuyet.html",
    "files": 2,
    "tim": "t08n0233 文殊師利所說般若波羅蜜經 kinh van thu su loi so thuyet bat nha ba la mat (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4035,7 +4246,8 @@
    "tep": "bai/2026-03-t08n0234-phat-thuyet-kinh-nhu-thu-bo.html",
    "files": 3,
    "tim": "t08n0234 佛說濡首菩薩無上清淨分衛經 phat thuyet kinh nhu thu bo tat vo thuong thanh tinh phan ve (02 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4054,7 +4266,8 @@
    "tep": "bai/2026-03-t08n0235-kinh-kim-cang-bat-nha-ba-la.html",
    "files": 2,
    "tim": "t08n0235 金剛般若波羅蜜經 kinh kim cang bat nha ba la mat (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4073,7 +4286,8 @@
    "tep": "bai/2026-03-t08n0236a-kinh-kim-cang-bat-nha-ba-la.html",
    "files": 2,
    "tim": "t08n0236a 金剛般若波羅蜜經 kinh kim cang bat nha ba la mat (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4092,7 +4306,8 @@
    "tep": "bai/2026-03-t08n0236b-kinh-kim-cang-bat-nha-ba-la.html",
    "files": 2,
    "tim": "t08n0236b 金剛般若波羅蜜經 kinh kim cang bat nha ba la mat (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4111,7 +4326,8 @@
    "tep": "bai/2026-03-t08n0237-kinh-kim-cang-bat-nha-ba-la.html",
    "files": 2,
    "tim": "t08n0237 金剛般若波羅蜜經 kinh kim cang bat nha ba la mat (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4130,7 +4346,8 @@
    "tep": "bai/2026-03-t08n0238-kinh-kim-cang-nang-oan-bat-nha.html",
    "files": 2,
    "tim": "t08n0238 金剛能斷般若波羅蜜經 kinh kim cang nang doan bat nha ba la mat (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4149,7 +4366,8 @@
    "tep": "bai/2026-03-t08n0239-phat-thuyet-kinh-nang-oan-kim.html",
    "files": 2,
    "tim": "t08n0239 佛說能斷金剛般若波羅蜜多經 phat thuyet kinh nang doan kim cang bat nha ba la mat da (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4168,7 +4386,8 @@
    "tep": "bai/2026-03-t08n0240-kinh-that-tuong-bat-nha-ba-la.html",
    "files": 2,
    "tim": "t08n0240 實相般若波羅蜜經 kinh that tuong bat nha ba la mat (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4187,7 +4406,8 @@
    "tep": "bai/2026-03-t08n0241-kinh-kim-cang-anh-du-gia-ly.html",
    "files": 2,
    "tim": "t08n0241 金剛頂瑜伽理趣般若經 kinh kim cang danh du gia ly thu bat nha (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4206,7 +4426,8 @@
    "tep": "bai/2026-03-t08n0242-phat-thuyet-kinh-bien-chieu.html",
    "files": 2,
    "tim": "t08n0242 佛說遍照般若波羅蜜經 phat thuyet kinh bien chieu bat nha ba la mat (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4225,7 +4446,8 @@
    "tep": "bai/2026-03-t08n0243-kinh-ai-lac-kim-cang-bat-khong.html",
    "files": 2,
    "tim": "t08n0243 大樂金剛不空真實三麼耶經 kinh dai lac kim cang bat khong chan that tam ma da (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4244,7 +4466,8 @@
    "tep": "bai/2026-06-t08n0244-phat-thuyet-kinh-toi-thuong.html",
    "files": 14,
    "tim": "t08n0244 佛說最上根本大樂金剛不空三昧大教王經 phat thuyet kinh toi thuong can bon dai lac kim cang bat khong tam muoi dai giao vuong (07 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4263,7 +4486,8 @@
    "tep": "bai/2026-04-t08n0245-phat-thuyet-kinh-nhan-vuong.html",
    "files": 3,
    "tim": "t08n0245 佛說仁王般若波羅蜜經 phat thuyet kinh nhan vuong bat nha ba la mat (02 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4282,7 +4506,8 @@
    "tep": "bai/2026-05-t08n0246-kinh-nhan-vuong-ho-quoc-bat.html",
    "files": 2,
    "tim": "t08n0246 仁王護國般若波羅蜜多經 kinh nhan vuong ho quoc bat nha ba la mat da (02 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4301,7 +4526,8 @@
    "tep": "bai/2026-04-t08n0247-phat-thuyet-kinh-lieu-nghia.html",
    "files": 2,
    "tim": "t08n0247 佛說了義般若波羅蜜多經 phat thuyet kinh lieu nghia bat nha ba la mat da (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4320,7 +4546,8 @@
    "tep": "bai/2026-04-t08n0248-phat-thuyet-kinh-ngu-thap-tung.html",
    "files": 2,
    "tim": "t08n0248 佛說五十頌聖般若波羅蜜經 phat thuyet kinh ngu thap tung thanh bat nha ba la mat (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4339,7 +4566,8 @@
    "tep": "bai/2026-04-t08n0249-phat-thuyet-kinh-e-thich-bat.html",
    "files": 2,
    "tim": "t08n0249 佛說帝釋般若波羅蜜多心經 phat thuyet kinh de thich bat nha ba la mat da tam kinh (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4358,7 +4586,8 @@
    "tep": "bai/2026-04-t08n0250-kinh-ma-ha-bat-nha-ba-la-mat.html",
    "files": 2,
    "tim": "t08n0250 摩訶般若波羅蜜大明呪經 kinh ma ha bat nha ba la mat dai minh chu (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4377,7 +4606,8 @@
    "tep": "bai/2026-04-t08n0251-kinh-bat-nha-ba-la-mat-tam-01.html",
    "files": 2,
    "tim": "t08n0251 般若波羅蜜多心經 kinh bat nha ba la mat da tam (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4396,7 +4626,8 @@
    "tep": "bai/2026-04-t08n0252-kinh-pho-bien-tri-tang-bat-nha.html",
    "files": 2,
    "tim": "t08n0252 普遍智藏般若波羅蜜多心經 kinh pho bien tri tang bat nha ba la mat da tam (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4415,7 +4646,8 @@
    "tep": "bai/2026-04-t08n0253-kinh-bat-nha-ba-la-mat-tam-01.html",
    "files": 2,
    "tim": "t08n0253 般若波羅蜜多心經 kinh bat nha ba la mat da tam (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4434,7 +4666,8 @@
    "tep": "bai/2026-04-t08n0254-kinh-bat-nha-ba-la-mat-tam-01.html",
    "files": 2,
    "tim": "t08n0254 般若波羅蜜多心經 kinh bat nha ba la mat da tam (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4453,7 +4686,8 @@
    "tep": "bai/2026-04-t08n0255-kinh-bat-nha-ba-la-mat-tam-01.html",
    "files": 2,
    "tim": "t08n0255 般若波羅蜜多心經 kinh bat nha ba la mat da tam (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4472,7 +4706,8 @@
    "tep": "bai/2026-04-t08n0256-uong-phan-phien-oi-tu-am-bat.html",
    "files": 2,
    "tim": "t08n0256 唐梵翻對字音般若波羅蜜多心經 duong phan phien doi tu am bat nha ba la mat tam kinh (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4491,7 +4726,8 @@
    "tep": "bai/2026-04-t08n0257-phat-thuyet-kinh-thanh-phat.html",
    "files": 2,
    "tim": "t08n0257 佛說聖佛母般若波羅蜜多經 phat thuyet kinh thanh phat mau bat nha ba la mat da (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4510,7 +4746,8 @@
    "tep": "bai/2026-04-t08n0258-phat-thuyet-kinh-thanh-phat.html",
    "files": 2,
    "tim": "t08n0258 佛說聖佛母小字般若波羅蜜多經 phat thuyet kinh thanh phat mau tieu tu bat nha ba la mat da (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4529,7 +4766,8 @@
    "tep": "bai/2026-04-t08n0259-phat-thuyet-kinh-quan-tuong.html",
    "files": 2,
    "tim": "t08n0259 佛說觀想佛母般若波羅蜜多菩薩經 phat thuyet kinh quan tuong phat mau bat nha ba la mat da bo tat (01 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4548,7 +4786,8 @@
    "tep": "bai/2026-04-t08n0260-phat-thuyet-kinh-khai-giac-tu.html",
    "files": 5,
    "tim": "t08n0260 佛說開覺自性般若波羅蜜多經 phat thuyet kinh khai giac tu tanh bat nha ba la mat da (04 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4567,7 +4806,8 @@
    "tep": "bai/2026-05-t08n0261-kinh-ai-thua-ly-thu-luc-ba-la.html",
    "files": 20,
    "tim": "t08n0261 大乘理趣六波羅蜜多經 kinh dai thua ly thu luc ba la mat da (10 quyen) bo bat nha",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4586,7 +4826,8 @@
    "tep": "bai/2026-03-t09n0262-kinh-dieu-phap-lien-hoa-07.html",
    "files": 14,
    "tim": "t09n0262 妙法蓮華經 kinh dieu phap lien hoa (07 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4605,7 +4846,8 @@
    "tep": "bai/2026-09-t09n0263-kinh-chanh-phap-hoa-10-quyen.html",
    "files": 20,
    "tim": "t09n0263 正法華經 kinh chanh phap hoa (10 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4624,7 +4866,8 @@
    "tep": "bai/2026-09-t09n0264-kinh-thiem-pham-dieu-phap-lien.html",
    "files": 14,
    "tim": "t09n0264 添品妙法蓮華經 kinh thiem pham dieu phap lien hoa (07 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4643,7 +4886,8 @@
    "tep": "bai/2026-05-t09n0265-kinh-tat-am-phan-loi-01-quyen.html",
    "files": 2,
    "tim": "t09n0265 薩曇分陀利經 kinh tat dam phan da loi (01 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4662,7 +4906,8 @@
    "tep": "bai/2026-05-t09n0266-phat-thuyet-kinh-duy-viet-tri.html",
    "files": 4,
    "tim": "t09n0266 佛說阿惟越致遮經 phat thuyet kinh a duy viet tri gia (03 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4681,7 +4926,8 @@
    "tep": "bai/2026-09-t09n0267-kinh-bat-thoai-chuyen-phap.html",
    "files": 8,
    "tim": "t09n0267 不退轉法輪經 kinh bat thoai chuyen phap luan (04 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4700,7 +4946,8 @@
    "tep": "bai/2026-09-t09n0268-phat-thuyet-kinh-quang-bac.html",
    "files": 12,
    "tim": "t09n0268 佛說廣博嚴淨不退轉輪經 phat thuyet kinh quang bac nghiem tinh bat thoai chuyen luan (06 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4719,7 +4966,8 @@
    "tep": "bai/2026-05-t09n0269-phat-thuyet-kinh-phap-hoa-tam.html",
    "files": 2,
    "tim": "t09n0269 佛說法華三昧經 phat thuyet kinh phap hoa tam muoi (01 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4738,7 +4986,8 @@
    "tep": "bai/2026-05-t09n0270-kinh-ai-phap-co-02-quyen.html",
    "files": 3,
    "tim": "t09n0270 大法鼓經 kinh dai phap co (02 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4757,7 +5006,8 @@
    "tep": "bai/2026-09-t09n0271-phat-thuyet-kinh-bo-tat-hanh.html",
    "files": 4,
    "tim": "t09n0271 佛說菩薩行方便境界神通變化經 phat thuyet kinh bo tat hanh phuong tien canh gioi than thong bien hoa (03 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4776,7 +5026,8 @@
    "tep": "bai/2026-09-t09n0272-kinh-ai-tat-gia-ni-kien-tu-so.html",
    "files": 20,
    "tim": "t09n0272 大薩遮尼乾子所說經 kinh dai tat gia ni kien tu so thuyet (10 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4795,7 +5046,8 @@
    "tep": "bai/2026-05-t09n0273-kinh-kim-cang-tam-muoi-01-quyen.html",
    "files": 2,
    "tim": "t09n0273 金剛三昧經 kinh kim cang tam muoi (01 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4814,7 +5066,8 @@
    "tep": "bai/2026-05-t09n0274-phat-thuyet-kinh-te-chu-phuong.html",
    "files": 2,
    "tim": "t09n0274 佛說濟諸方等學經 phat thuyet kinh te chu phuong dang hoc (01 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4833,7 +5086,8 @@
    "tep": "bai/2026-05-t09n0275-kinh-ai-thua-phuong-quang-tong.html",
    "files": 2,
    "tim": "t09n0275 大乘方廣總持經 kinh dai thua phuong quang tong tri (01 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4852,7 +5106,8 @@
    "tep": "bai/2026-05-t09n0276-kinh-vo-luong-nghia-01-quyen.html",
    "files": 2,
    "tim": "t09n0276 無量義經 kinh vo luong nghia (01 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4871,7 +5126,8 @@
    "tep": "bai/2026-05-t09n0277-phat-thuyet-kinh-quan-pho-hien.html",
    "files": 2,
    "tim": "t09n0277 佛說觀普賢菩薩行法經 phat thuyet kinh quan pho hien bo tat hanh phap (01 quyen) bo phap hoa",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4890,7 +5146,8 @@
    "tep": "bai/2026-09-t09n0278-kinh-ai-phuong-quang-phat-hoa.html",
    "files": 3,
    "tim": "t09n0278 大方廣佛華嚴經 kinh dai phuong quang phat hoa nghiem (60 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4908,7 +5165,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/10/t10n0279-kinh-ai-phuong-quang-phat-hoa.html",
    "tep": "bai/2026-10-t10n0279-kinh-ai-phuong-quang-phat-hoa.html",
    "tim": "t10n0279 大方廣佛華嚴經 kinh dai phuong quang phat hoa nghiem (80 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4927,7 +5185,8 @@
    "tep": "bai/2026-07-t10n0280-phat-thuyet-kinh-au-sa-01-quyen.html",
    "files": 2,
    "tim": "t10n0280 佛說兜沙經 phat thuyet kinh dau sa (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4946,7 +5205,8 @@
    "tep": "bai/2026-07-t10n0281-phat-thuyet-kinh-bo-tat-bon.html",
    "files": 2,
    "tim": "t10n0281 佛說菩薩本業經 phat thuyet kinh bo tat bon nghiep (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4965,7 +5225,8 @@
    "tep": "bai/2026-07-t10n0282-kinh-chu-bo-tat-cau-phat-bon.html",
    "files": 2,
    "tim": "t10n0282 諸菩薩求佛本業經 kinh chu bo tat cau phat bon nghiep (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -4984,7 +5245,8 @@
    "tep": "bai/2026-07-t10n0283-bo-tat-thap-tru-hanh-ao-pham.html",
    "files": 2,
    "tim": "t10n0283 菩薩十住行道品 bo tat thap tru hanh dao pham (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5003,7 +5265,8 @@
    "tep": "bai/2026-07-t10n0284-phat-thuyet-kinh-bo-tat-thap.html",
    "files": 2,
    "tim": "t10n0284 佛說菩薩十住經 phat thuyet kinh bo tat thap tru (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5022,7 +5285,8 @@
    "tep": "bai/2026-09-t10n0285-kinh-tiem-bi-nhut-thiet-tri-uc-01374704822.html",
    "files": 10,
    "tim": "t10n0285 漸備一切智德經 kinh tiem bi nhut thiet tri duc (05 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5041,7 +5305,8 @@
    "tep": "bai/2026-08-t10n0286-kinh-thap-tru-04-quyen.html",
    "files": 8,
    "tim": "t10n0286 十住經 kinh thap tru (04 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5060,7 +5325,8 @@
    "tep": "bai/2026-09-t10n0287-phat-thuyet-kinh-thap-ia-09.html",
    "files": 18,
    "tim": "t10n0287 佛說十地經 phat thuyet kinh thap dia (09 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5079,7 +5345,8 @@
    "tep": "bai/2026-09-t10n0288-kinh-ang-muc-bo-tat-so-van-tam.html",
    "files": 2,
    "tim": "t10n0288 等目菩薩所問三昧經 kinh dang muc bo tat so van tam muoi (03 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5098,7 +5365,8 @@
    "tep": "bai/2026-07-t10n0289-kinh-hien-vo-bien-phat-o-cong.html",
    "files": 2,
    "tim": "t10n0289 顯無邊佛土功德經 kinh hien vo bien phat do cong duc (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5117,7 +5385,8 @@
    "tep": "bai/2026-07-t10n0290-phat-thuyet-kinh-giao-luong.html",
    "files": 2,
    "tim": "t10n0290 佛說較量一切佛剎功德經 phat thuyet kinh giao luong nhut thiet phat sat cong duc (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5136,7 +5405,8 @@
    "tep": "bai/2026-09-t10n0291-phat-thuyet-kinh-nhu-lai-hung.html",
    "files": 8,
    "tim": "t10n0291 佛說如來興顯經 phat thuyet kinh nhu lai hung hien (04 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5155,7 +5425,8 @@
    "tep": "bai/2026-09-t10n0292-kinh-o-pham-06-quyen.html",
    "files": 12,
    "tim": "t10n0292 度世品經 kinh do the pham (06 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5174,7 +5445,8 @@
    "tep": "bai/2026-08-t10n0293-kinh-ai-phuong-quang-phat-hoa.html",
    "files": 80,
    "tim": "t10n0293 大方廣佛華嚴經 kinh dai phuong quang phat hoa nghiem (40 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5193,7 +5465,8 @@
    "tep": "bai/2026-07-t10n0294-phat-thuyet-kinh-la-ma-gia-03.html",
    "files": 6,
    "tim": "t10n0294 佛說羅摩伽經 phat thuyet kinh la ma gia (03 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5212,7 +5485,8 @@
    "tep": "bai/2026-07-t10n0295-ai-phuong-quang-phat-hoa.html",
    "files": 2,
    "tim": "t10n0295 大方廣佛華嚴經入法界品 dai phuong quang phat hoa nghiem kinh nhap phap gioi pham (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5231,7 +5505,8 @@
    "tep": "bai/2026-07-t10n0296-kinh-van-thu-su-loi-phat.html",
    "files": 2,
    "tim": "t10n0296 文殊師利發願經 kinh van thu su loi phat nguyen (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5250,7 +5525,8 @@
    "tep": "bai/2026-07-t10n0297-pho-hien-bo-tat-hanh-nguyen.html",
    "files": 2,
    "tim": "t10n0297 普賢菩薩行願讚 pho hien bo tat hanh nguyen tan (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5269,7 +5545,8 @@
    "tep": "bai/2026-07-t10n0298-kinh-ai-phuong-quang-pho-hien.html",
    "files": 2,
    "tim": "t10n0298 大方廣普賢所說經 kinh dai phuong quang pho hien so thuyet (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5288,7 +5565,8 @@
    "tep": "bai/2026-09-t10n0299-kinh-ai-phuong-quang-tong-tri.html",
    "files": 10,
    "tim": "t10n0299 大方廣總持寶光明經 kinh dai phuong quang tong tri bao quang minh (05 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5307,7 +5585,8 @@
    "tep": "bai/2026-07-t10n0300-ai-phuong-quang-phat-hoa.html",
    "files": 2,
    "tim": "t10n0300 大方廣佛華嚴經不思議佛境界分 dai phuong quang phat hoa nghiem kinh bat tu nghi phat canh gioi phan (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5326,7 +5605,8 @@
    "tep": "bai/2026-07-t10n0301-kinh-ai-phuong-quang-nhu-lai.html",
    "files": 2,
    "tim": "t10n0301 大方廣如來不思議境界經 kinh dai phuong quang nhu lai bat tu nghi canh gioi (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5345,7 +5625,8 @@
    "tep": "bai/2026-07-t10n0302-kinh-o-chu-phat-canh-gioi-tri.html",
    "files": 2,
    "tim": "t10n0302 度諸佛境界智光嚴經 kinh do chu phat canh gioi tri quang nghiem (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5364,7 +5645,8 @@
    "tep": "bai/2026-07-t10n0303-kinh-phat-hoa-nghiem-nhap-nhu.html",
    "files": 3,
    "tim": "t10n0303 佛華嚴入如來德智不思議境界經 kinh phat hoa nghiem nhap nhu lai duc tri bat tu nghi canh gioi (02 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5383,7 +5665,8 @@
    "tep": "bai/2026-07-t10n0304-kinh-ai-phuong-quang-nhap-nhu.html",
    "files": 2,
    "tim": "t10n0304 大方廣入如來智德不思議經 kinh dai phuong quang nhap nhu lai tri duc bat tu nghi (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5402,7 +5685,8 @@
    "tep": "bai/2026-09-t10n0305-kinh-tin-luc-nhap-phap-mon-05.html",
    "files": 10,
    "tim": "t10n0305 信力入印法門經 kinh tin luc nhap an phap mon (05 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5421,7 +5705,8 @@
    "tep": "bai/2026-07-t10n0306-ai-phuong-quang-phat-hoa.html",
    "files": 2,
    "tim": "t10n0306 大方廣佛花嚴經修慈分 dai phuong quang phat hoa nghiem kinh tu tu phan (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5440,7 +5725,8 @@
    "tep": "bai/2026-07-t10n0307-phat-thuyet-kinh-hoa-nghiem-bo.html",
    "files": 2,
    "tim": "t10n0307 佛說莊嚴菩提心經 phat thuyet kinh trang nghiem bo de tam (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5459,7 +5745,8 @@
    "tep": "bai/2026-07-t10n0308-phat-thuyet-kinh-ai-phuong.html",
    "files": 2,
    "tim": "t10n0308 佛說大方廣菩薩十地經 phat thuyet kinh dai phuong quang bo tat thap dia (01 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5478,7 +5765,8 @@
    "tep": "bai/2026-09-t10n0309-kinh-toi-thang-van-bo-tat-thap.html",
    "files": 20,
    "tim": "t10n0309 最勝問菩薩十住除垢斷結經 kinh toi thang van bo tat thap tru tru cau doan ket (10 quyen) bo hoa nghiem",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10402,7 +10690,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/06/bo-ham-t01-t02-1-151.html",
    "tep": "bai/2026-06-bo-ham-t01-t02-1-151.html",
    "tim": "bo a ham (t01 ~ t02) (1 ~ 151) bo a ham danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10421,7 +10710,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/05/bo-bat-nha-t05-t08.html",
    "tep": "bai/2026-05-bo-bat-nha-t05-t08.html",
    "tim": "bo bat nha (t05 - t08) (220 ~ 261) bo bat nha danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10459,7 +10749,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-bon-duyen-t03-t04-152-219.html",
    "tep": "bai/2026-07-bo-bon-duyen-t03-t04-152-219.html",
    "tim": "bo bon duyen (t03 ~ t04) (152 ~ 219) bo bon duyen danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10535,7 +10826,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-hoa-nghiem-t09b-t10-278-309.html",
    "tep": "bai/2026-07-bo-hoa-nghiem-t09b-t10-278-309.html",
    "tim": "bo hoa nghiem (t09b ~t10) (278 ~ 309) bo hoa nghiem danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10763,7 +11055,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/06/bo-phap-hoa-t09a-262-309.html",
    "tep": "bai/2026-06-bo-phap-hoa-t09a-262-309.html",
    "tim": "bo phap hoa (t09a) (262 ~ 309) bo phap hoa danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10949,6 +11242,146 @@
    "tep": "bai/2026-10-huong-dan-inh-am-han-viet-tren-kinh-van.html",
    "files": 5,
    "tim": "huong dan dinh am han viet tren kinh van han co bang phuong phap vba gioi thieu",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 01",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ A Hàm",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-08",
+   "doi": "10.5281/zenodo.23771440",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-01.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-01.html",
+   "files": 44,
+   "tim": "[dai chanh tang] tap 01 bo a ham danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 02",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ A Hàm",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-08",
+   "doi": "10.5281/zenodo.23490352",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-02.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-02.html",
+   "files": 32,
+   "tim": "[dai chanh tang] tap 02 bo a ham danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 03",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Bổn Duyên",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-08",
+   "doi": "10.5281/zenodo.23969464",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-03.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-03.html",
+   "files": 16,
+   "tim": "[dai chanh tang] tap 03 bo bon duyen danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 04",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Bổn Duyên",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-08",
+   "doi": "10.5281/zenodo.23733032",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-04.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-04.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 04 bo bon duyen danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 05 & TẬP 06 & TẬP 07 & TẬP 08",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Bát Nhã",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-08",
+   "doi": "10.5281/zenodo.22008837",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-05-tap-06-tap-07-tap.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-05-tap-06-tap-07-tap.html",
+   "files": 3,
+   "tim": "[dai chanh tang] tap 05 & tap 06 & tap 07 & tap 08 bo bat nha danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 09A",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Pháp Hoa",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-08",
+   "doi": "10.5281/zenodo.22021364",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-09a.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-09a.html",
+   "files": 14,
+   "tim": "[dai chanh tang] tap 09a bo phap hoa danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 9B &TẬP 10",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Hoa Nghiêm",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-08",
+   "doi": "10.5281/zenodo.23227088",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-9a-10.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-9a-10.html",
+   "files": 3,
+   "tim": "[dai chanh tang] tap 9b &tap 10 bo hoa nghiem danh muc",
    "nhom": "khac"
   }
  ]
