@@ -723,7 +723,7 @@ def xu_ly(nguon: Nguon):
         else:
             thong_tin = f'Cập nhật ngày {ngay_vn(muc["ngay"])}'
         ghi_trang(muc["tep"].split("/", 1)[1], tieu_de=muc["tieu_de"], goc=muc["goc"],
-                  nhan=nhan, tt=tt, thong_tin=thong_tin, hop_tai=hop_tai_ve(muc, z),
+                  nhan=nhan, tt=tt, thong_tin=thong_tin,    hop_tai=(hop_tai_ve(muc, z) if muc["loai"] not in ("bai", "trang") else ""),,
                   noi_dung=noi_dung, cap_nhat=cap_nhat)
 
     # 6. Giữ lại các mục đã lưu mà lần này không thấy. Đây là bản dự phòng nên không xóa gì.
