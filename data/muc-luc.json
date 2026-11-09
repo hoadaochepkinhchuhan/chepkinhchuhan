@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-09T09:29+07:00",
-  "so_bai": 583,
+  "cap_nhat": "2026-11-09T17:09+07:00",
+  "so_bai": 589,
   "so_kinh": 544,
   "so_quyen": 1760,
-  "so_doi": 551,
+  "so_doi": 557,
   "blog_ok": true,
-  "dau_moc": "2026-11-09T09:10:34.584+07:00"
+  "dau_moc": "2026-11-09T15:55:29.490+07:00"
  },
  "muc": [
   {
@@ -6203,7 +6203,8 @@
    "tep": "bai/2026-03-t22n1422a-di-sa-tac-ngu-phan-gioi-bon-25.html",
    "files": 2,
    "tim": "t22n1422a 彌沙塞五分戒本 di sa tac ngu phan gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6222,7 +6223,8 @@
    "tep": "bai/2026-03-t22n1422b-ngu-phan-gioi-bon-01-quyen.html",
    "files": 2,
    "tim": "t22n1422b 五分戒本 ngu phan gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6241,7 +6243,8 @@
    "tep": "bai/2026-03-t22n1423-ngu-phan-ty-kheo-ni-gioi-bon-25.html",
    "files": 2,
    "tim": "t22n1423 五分比丘尼戒本 ngu phan ty kheo ni gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6260,7 +6263,8 @@
    "tep": "bai/2026-03-t22n1424-di-sa-tac-yet-ma-bon-01-quyen-25.html",
    "files": 2,
    "tim": "t22n1424 彌沙塞羯磨本 di sa tac yet ma bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6279,7 +6283,8 @@
    "tep": "bai/2026-04-t22n1426-ma-ha-tang-ky-luat-ai-ty-kheo.html",
    "files": 2,
    "tim": "t22n1426 摩訶僧祇律大比丘戒本 ma ha tang ky luat dai ty kheo gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6298,7 +6303,8 @@
    "tep": "bai/2026-04-t22n1427-ma-ha-tang-ky-ty-kheo-ni-gioi.html",
    "files": 2,
    "tim": "t22n1427 摩訶僧祇比丘尼戒本 ma ha tang ky ty kheo ni gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6317,7 +6323,8 @@
    "tep": "bai/2026-04-t22n1429-tu-phan-ty-kheo-gioi-bon-01.html",
    "files": 2,
    "tim": "t22n1429 四分比丘戒本 tu phan ty kheo gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6336,7 +6343,8 @@
    "tep": "bai/2026-04-t22n1430-tu-phan-tang-gioi-bon-01-quyen.html",
    "files": 2,
    "tim": "t22n1430 四分僧戒本 tu phan tang gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6355,7 +6363,8 @@
    "tep": "bai/2026-04-t22n1431-tu-phan-ty-kheo-ni-gioi-bon-01.html",
    "files": 2,
    "tim": "t22n1431 四分比丘尼戒本 tu phan ty kheo ni gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6374,7 +6383,8 @@
    "tep": "bai/2026-04-t22n1432-am-vo-uc-luat-bo-tap-yet-ma-01.html",
    "files": 2,
    "tim": "t22n1432 曇無德律部雜羯磨 dam vo duc luat bo tap yet ma (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6393,7 +6403,8 @@
    "tep": "bai/2026-04-t22n1433-yet-ma-01-quyen.html",
    "files": 2,
    "tim": "t22n1433 羯磨 yet ma (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6412,7 +6423,8 @@
    "tep": "bai/2026-04-t22n1434-tu-phan-ty-kheo-ni-yet-ma-phap.html",
    "files": 2,
    "tim": "t22n1434 四分比丘尼羯磨法 tu phan ty kheo ni yet ma phap (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6431,7 +6443,8 @@
    "tep": "bai/2026-04-t23n1436-thap-tung-ty-kheo-ba-la-e-moc.html",
    "files": 2,
    "tim": "t23n1436 十誦比丘波羅提木叉戒本 thap tung ty kheo ba la de moc xoa gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6450,7 +6463,8 @@
    "tep": "bai/2026-04-t23n1437-thap-tung-ty-kheo-ni-ba-la-e.html",
    "files": 2,
    "tim": "t23n1437 十誦比丘尼波羅提木叉戒本 thap tung ty kheo ni ba la de moc xoa gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6469,7 +6483,8 @@
    "tep": "bai/2026-04-t23n1438-ai-sa-mon-bach-nhut-yet-ma.html",
    "files": 2,
    "tim": "t23n1438 大沙門百一羯磨法 dai sa mon bach nhut yet ma phap (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6488,7 +6503,8 @@
    "tep": "bai/2026-04-t23n1439-thap-tung-yet-ma-ty-kheo-yeu.html",
    "files": 2,
    "tim": "t23n1439 十誦羯磨比丘要用 thap tung yet ma ty kheo yeu dung (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6507,7 +6523,8 @@
    "tep": "bai/2026-04-t23n1444-can-ban-thuyet-nhut-thiet-huu.html",
    "files": 8,
    "tim": "t23n1444 根本說一切有部毘奈耶出家事 can ban thuyet nhut thiet huu bo ty nai da xuat gia su (04 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6526,7 +6543,8 @@
    "tep": "bai/2026-04-t23n1445-can-ban-thuyet-nhut-thiet-huu.html",
    "files": 2,
    "tim": "t23n1445 根本說一切有部毘奈耶安居事 can ban thuyet nhut thiet huu bo ty nai da an cu su (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6545,7 +6563,8 @@
    "tep": "bai/2026-04-t23n1446-can-ban-thuyet-nhut-thiet-huu.html",
    "files": 2,
    "tim": "t23n1446 根本說一切有部毘奈耶隨意事 can ban thuyet nhut thiet huu bo ty nai da tuy y su (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6564,7 +6583,8 @@
    "tep": "bai/2026-04-t23n1447-can-ban-thuyet-nhut-thiet-huu.html",
    "files": 3,
    "tim": "t23n1447 根本說一切有部毘奈耶皮革事 can ban thuyet nhut thiet huu bo ty nai da ba cach su (02 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6583,7 +6603,8 @@
    "tep": "bai/2026-04-t24n1449-can-ban-thuyet-nhut-thiet-huu.html",
    "files": 2,
    "tim": "t24n1449 根本說一切有部毘奈耶羯恥那衣事 can ban thuyet nhut thiet huu bo ty nai da yet si na y su (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6602,7 +6623,8 @@
    "tep": "bai/2026-04-t24n1454-kinh-can-ban-thuyet-nhut-thiet.html",
    "files": 2,
    "tim": "t24n1454 根本說一切有部戒經 kinh can ban thuyet nhut thiet huu bo gioi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6621,7 +6643,8 @@
    "tep": "bai/2026-04-t24n1455-kinh-can-ban-thuyet-nhut-thiet.html",
    "files": 2,
    "tim": "t24n1455 根本說一切有部苾芻尼戒經 kinh can ban thuyet nhut thiet huu bo bi so ni gioi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6640,7 +6663,8 @@
    "tep": "bai/2026-04-t24n1456-can-ban-thuyet-nhut-thiet-huu.html",
    "files": 2,
    "tim": "t24n1456 根本說一切有部毘奈耶尼陀那目得迦攝頌 can ban thuyet nhut thiet huu bo ty nai da ni da na muc dac ca nhiep tung (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6659,7 +6683,8 @@
    "tep": "bai/2026-04-t24n1457-can-ban-thuyet-nhut-thiet-huu.html",
    "files": 2,
    "tim": "t24n1457 根本說一切有部略毘奈耶雜事攝頌 can ban thuyet nhut thiet huu bo luoc ty nai da tap su nhiep tung (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6678,7 +6703,8 @@
    "tep": "bai/2026-04-t24n1459-can-ban-thuyet-nhut-thiet-huu.html",
    "files": 6,
    "tim": "t24n1459 根本說一切有部毘奈耶頌 can ban thuyet nhut thiet huu bo ty nai da tung (03 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6697,7 +6723,8 @@
    "tep": "bai/2026-04-t24n1460-kinh-giai-thoat-gioi-01-quyen.html",
    "files": 2,
    "tim": "t24n1460 解脫戒經 kinh giai thoat gioi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6716,7 +6743,8 @@
    "tep": "bai/2026-04-t24n1461-luat-nhi-thap-nhi-minh-lieu.html",
    "files": 2,
    "tim": "t24n1461 律二十二明了論 luat nhi thap nhi minh lieu luan (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6735,7 +6763,8 @@
    "tep": "bai/2026-05-t24n1462-thien-kien-luat-ty-ba-sa-18.html",
    "files": 36,
    "tim": "t24n1462 善見律毘婆沙 thien kien luat ty ba sa (18 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6754,7 +6783,8 @@
    "tep": "bai/2026-05-t24n1463-kinh-ty-ni-mau-08-quyen.html",
    "files": 16,
    "tim": "t24n1463 毘尼母經 kinh ty ni mau (08 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6773,7 +6803,8 @@
    "tep": "bai/2026-05-t24n1464-ty-nai-da-10-quyen.html",
    "files": 20,
    "tim": "t24n1464 鼻奈耶 ty nai da (10 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6792,7 +6823,8 @@
    "tep": "bai/2026-04-t24n1465-kinh-xa-loi-phat-van-01-quyen.html",
    "files": 2,
    "tim": "t24n1465 舍利弗問經 kinh xa loi phat van (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6811,7 +6843,8 @@
    "tep": "bai/2026-04-t24n1466-kinh-uu-ba-ly-van-phat-01-quyen.html",
    "files": 2,
    "tim": "t24n1466 優波離問佛經 kinh uu ba ly van phat (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6830,7 +6863,8 @@
    "tep": "bai/2026-04-t24n1467a-phat-thuyet-kinh-pham-gioi.html",
    "files": 2,
    "tim": "t24n1467a 佛說犯戒罪報輕重經 phat thuyet kinh pham gioi toi bao khinh trong (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6849,7 +6883,8 @@
    "tep": "bai/2026-04-t24n1467b-phat-thuyet-kinh-pham-gioi.html",
    "files": 2,
    "tim": "t24n1467b 佛說犯戒罪報輕重經 phat thuyet kinh pham gioi toi bao khinh trong (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6868,7 +6903,8 @@
    "tep": "bai/2026-04-t24n1468-phat-thuyet-kinh-muc-lien-so.html",
    "files": 2,
    "tim": "t24n1468 佛說目連所問經 phat thuyet kinh muc lien so van (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6887,7 +6923,8 @@
    "tep": "bai/2026-04-t24n1469-phat-thuyet-kinh-ca-diep-cam.html",
    "files": 2,
    "tim": "t24n1469 佛說迦葉禁戒經 phat thuyet kinh ca diep cam gioi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6906,7 +6943,8 @@
    "tep": "bai/2026-04-t24n1470-ai-ty-kheo-tam-thien-oai-nghi.html",
    "files": 3,
    "tim": "t24n1470 大比丘三千威儀 dai ty kheo tam thien oai nghi  (02 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6925,7 +6963,8 @@
    "tep": "bai/2026-04-t24n1471-sa-di-thap-gioi-phap-tinh-oai.html",
    "files": 2,
    "tim": "t24n1471 沙彌十戒法并威儀 sa di thap gioi phap tinh oai nghi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6944,7 +6983,8 @@
    "tep": "bai/2026-04-t24n1472-sa-di-oai-nghi-01-quyen.html",
    "files": 2,
    "tim": "t24n1472 沙彌威儀 sa di oai nghi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6963,7 +7003,8 @@
    "tep": "bai/2026-04-t24n1473-phat-thuyet-kinh-sa-di-thap.html",
    "files": 2,
    "tim": "t24n1473 佛說沙彌十戒儀則經 phat thuyet kinh sa di thap gioi nghi tac (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6982,7 +7023,8 @@
    "tep": "bai/2026-04-t24n1474-kinh-sa-di-ni-gioi-01-quyen.html",
    "files": 2,
    "tim": "t24n1474  沙彌尼戒經 kinh sa di ni gioi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7001,7 +7043,8 @@
    "tep": "bai/2026-04-t24n1475-sa-di-ni-ly-gioi-van-01-quyen.html",
    "files": 2,
    "tim": "t24n1475 沙彌尼離戒文 sa di ni ly gioi van (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7020,7 +7063,8 @@
    "tep": "bai/2026-04-t24n1476-phat-thuyet-kinh-uu-ba-tac-ngu.html",
    "files": 2,
    "tim": "t24n1476 佛說優婆塞五戒相經 phat thuyet kinh uu ba tac ngu gioi tuong (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7039,7 +7083,8 @@
    "tep": "bai/2026-04-t24n1477-phat-thuyet-kinh-gioi-tieu-tai.html",
    "files": 2,
    "tim": "t24n1477 佛說戒消災經 phat thuyet kinh gioi tieu tai (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7058,7 +7103,8 @@
    "tep": "bai/2026-04-t24n1478-kinh-ai-ai-ao-ty-kheo-ni-02.html",
    "files": 3,
    "tim": "t24n1478 大愛道比丘尼經 kinh dai ai dao ty kheo ni (02 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7077,7 +7123,8 @@
    "tep": "bai/2026-04-t24n1479-phat-thuyet-kinh-bi-so-ngu.html",
    "files": 2,
    "tim": "t24n1479 佛說苾芻五法經 phat thuyet kinh bi so ngu phap (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7096,7 +7143,8 @@
    "tep": "bai/2026-04-t24n1480-phat-thuyet-kinh-bi-so-ca-thi.html",
    "files": 2,
    "tim": "t24n1480 佛說苾芻迦尸迦十法經 phat thuyet kinh bi so ca thi ca thap phap (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7115,7 +7163,8 @@
    "tep": "bai/2026-04-t24n1481-phat-thuyet-kinh-ngu-khung-bo.html",
    "files": 2,
    "tim": "t24n1481 佛說五恐怖世經 phat thuyet kinh ngu khung bo the (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7134,7 +7183,8 @@
    "tep": "bai/2026-04-t24n1482-phat-ty-am-kinh-xuat-gia-tuong.html",
    "files": 3,
    "tim": "t24n1482 佛阿毘曇經出家相品 phat a ty dam kinh xuat gia tuong pham (02 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7153,7 +7203,8 @@
    "tep": "bai/2026-04-t24n1483a-phat-thuyet-muc-lien-van-gioi.html",
    "files": 2,
    "tim": "t24n1483a 佛說目連問戒律中五百輕重事 phat thuyet muc lien van gioi luat trung ngu bach khinh trong su (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7172,7 +7223,8 @@
    "tep": "bai/2026-04-t24n1483b-phat-thuyet-kinh-muc-lien-van.html",
    "files": 3,
    "tim": "t24n1483b 佛說目連問戒律中五百輕重事經 phat thuyet kinh muc lien van gioi luat trung ngu bach khinh trong su (02 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7191,7 +7243,8 @@
    "tep": "bai/2026-03-t24n1484-kinh-pham-vong-02-quyen.html",
    "files": 3,
    "tim": "t24n1484 梵網經 kinh pham vong (02 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7210,7 +7263,8 @@
    "tep": "bai/2026-04-t24n1485-kinh-bo-tat-anh-lac-bon-nghiep.html",
    "files": 3,
    "tim": "t24n1485 菩薩瓔珞本業經 kinh bo tat anh lac bon nghiep (02 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7229,7 +7283,8 @@
    "tep": "bai/2026-04-t24n1486-kinh-tho-thap-thien-gioi-01.html",
    "files": 2,
    "tim": "t24n1486 受十善戒經 kinh tho thap thien gioi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7248,7 +7303,8 @@
    "tep": "bai/2026-04-t24n1487-phat-thuyet-kinh-bo-tat-noi.html",
    "files": 2,
    "tim": "t24n1487 佛說菩薩內戒經 phat thuyet kinh bo tat noi gioi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7267,7 +7323,8 @@
    "tep": "bai/2026-04-t24n1488-kinh-uu-ba-tac-gioi-07-quyen.html",
    "files": 14,
    "tim": "t24n1488 優婆塞戒經 kinh uu ba tac gioi (07 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7286,7 +7343,8 @@
    "tep": "bai/2026-04-t24n1489-kinh-thanh-tinh-ty-ni-phuong.html",
    "files": 2,
    "tim": "t24n1489 清淨毘尼方廣經 kinh thanh tinh ty ni phuong quang (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7305,7 +7363,8 @@
    "tep": "bai/2026-04-t24n1490-kinh-tich-ieu-am-so-van-01.html",
    "files": 2,
    "tim": "t24n1490 寂調音所問經 kinh tich dieu am so van (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7324,7 +7383,8 @@
    "tep": "bai/2026-04-t24n1491-kinh-bo-tat-tang-01-quyen.html",
    "files": 2,
    "tim": "t24n1491 菩薩藏經 kinh bo tat tang (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7343,7 +7403,8 @@
    "tep": "bai/2026-04-t24n1492-phat-thuyet-kinh-xa-loi-phat.html",
    "files": 2,
    "tim": "t24n1492 佛說舍利弗悔過經 phat thuyet kinh xa loi phat hoi qua (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7362,7 +7423,8 @@
    "tep": "bai/2026-04-t24n1493-kinh-ai-thua-tam-tu-sam-hoi-01.html",
    "files": 2,
    "tim": "t24n1493 大乘三聚懺悔經 kinh dai thua tam tu sam hoi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7381,7 +7443,8 @@
    "tep": "bai/2026-04-t24n1494-phat-thuyet-kinh-tinh-nghiep.html",
    "files": 2,
    "tim": "t24n1494 佛說淨業障經 phat thuyet kinh tinh nghiep chuong (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7400,7 +7463,8 @@
    "tep": "bai/2026-04-t24n1495-kinh-thien-cung-kinh-01-quyen.html",
    "files": 2,
    "tim": "t24n1495 善恭敬經 kinh thien cung kinh (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7419,7 +7483,8 @@
    "tep": "bai/2026-04-t24n1496-phat-thuyet-kinh-chanh-cung.html",
    "files": 2,
    "tim": "t24n1496 佛說正恭敬經 phat thuyet kinh chanh cung kinh (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7438,7 +7503,8 @@
    "tep": "bai/2026-04-t24n1497-phat-thuyet-kinh-ai-thua-gioi.html",
    "files": 2,
    "tim": "t24n1497 佛說大乘戒經 phat thuyet kinh dai thua gioi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7457,7 +7523,8 @@
    "tep": "bai/2026-04-t24n1498-phat-thuyet-kinh-bat-chung.html",
    "files": 2,
    "tim": "t24n1498 佛說八種長養功德經 phat thuyet kinh bat chung truong duong cong duc (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7476,7 +7543,8 @@
    "tep": "bai/2026-03-t24n1499-van-yet-ma-gioi-bo-tat-01-quyen-31.html",
    "files": 2,
    "tim": "t24n1499 菩薩戒羯磨文 van yet ma gioi bo tat (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7495,7 +7563,8 @@
    "tep": "bai/2026-03-t24n1500-bo-tat-gioi-bon-01-quyen-28.html",
    "files": 2,
    "tim": "t24n1500 菩薩戒本 bo tat gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7514,7 +7583,8 @@
    "tep": "bai/2026-03-t24n1501-bo-tat-gioi-bon-01-quyen.html",
    "files": 2,
    "tim": "t24n1501 菩薩戒本 bo tat gioi bon (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7533,7 +7603,8 @@
    "tep": "bai/2026-03-t24n1502-kinh-bo-tat-tho-trai-01-quyen.html",
    "files": 2,
    "tim": "t24n1502 菩薩受齋經 kinh bo tat tho trai (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7552,7 +7623,8 @@
    "tep": "bai/2026-03-t24n1503-kinh-uu-ba-tac-ngu-gioi-oai.html",
    "files": 2,
    "tim": "t24n1503 優婆塞五戒威儀經 kinh uu ba tac ngu gioi oai nghi (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7571,7 +7643,8 @@
    "tep": "bai/2026-03-t24n1504-bo-tat-ngu-phap-sam-hoi-van-01-24.html",
    "files": 2,
    "tim": "t24n1504 菩薩五法懺悔文 bo tat ngu phap sam hoi van (01 quyen) bo luat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7609,7 +7682,8 @@
    "tep": "bai/2026-06-t30n1564-trung-luan-04-quyen.html",
    "files": 8,
    "tim": "t30n1564 中論 trung luan (04 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7628,7 +7702,8 @@
    "tep": "bai/2026-06-t30n1565-thuan-trung-luan-02-quyen.html",
    "files": 3,
    "tim": "t30n1565 順中論 thuan trung luan (02 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7647,7 +7722,8 @@
    "tep": "bai/2026-08-t30n1566-bat-nha-ang-luan-thich-15-quyen.html",
    "files": 30,
    "tim": "t30n1566 般若燈論釋 bat nha dang luan thich (15 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7666,7 +7742,8 @@
    "tep": "bai/2026-06-t30n1567-ai-thua-trung-quan-thich-luan.html",
    "files": 18,
    "tim": "t30n1567 大乘中觀釋論 dai thua trung quan thich luan (09 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7685,7 +7762,8 @@
    "tep": "bai/2026-06-t30n1568-thap-nhi-mon-luan-01-quyen.html",
    "files": 2,
    "tim": "t30n1568 十二門論 thap nhi mon luan (01 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7704,7 +7782,8 @@
    "tep": "bai/2026-06-t30n1569-bach-luan-02-quyen.html",
    "files": 3,
    "tim": "t30n1569 百論 bach luan (02 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7723,7 +7802,8 @@
    "tep": "bai/2026-06-t30n1570-quang-bach-luan-bon-01-quyen.html",
    "files": 2,
    "tim": "t30n1570 廣百論本 quang bach luan bon (01 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7742,7 +7822,8 @@
    "tep": "bai/2026-06-t30n1571-ai-thua-quang-bach-luan-thich.html",
    "files": 20,
    "tim": "t30n1571 大乘廣百論釋論 dai thua quang bach luan thich luan (10 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7761,7 +7842,8 @@
    "tep": "bai/2026-06-t30n1572-bach-tu-luan-01-quyen.html",
    "files": 2,
    "tim": "t30n1572 百字論 bach tu luan (01 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7780,7 +7862,8 @@
    "tep": "bai/2026-06-t30n1573-nhat-thau-lo-ca-luan-01-quyen.html",
    "files": 2,
    "tim": "t30n1573 壹輸盧迦論 nhat thau lo ca luan (01 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7799,7 +7882,8 @@
    "tep": "bai/2026-06-t30n1574-ai-thua-pha-huu-luan-01-quyen.html",
    "files": 3,
    "tim": "t30n1574 大乘破有論 dai thua pha huu luan (01 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7818,7 +7902,8 @@
    "tep": "bai/2026-06-t30n1575-luc-thap-tung-nhu-ly-luan-01.html",
    "files": 2,
    "tim": "t30n1575 六十頌如理論 luc thap tung nhu ly luan (01 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7837,7 +7922,8 @@
    "tep": "bai/2026-06-t30n1576-ai-thua-nhi-thap-tung-luan-01.html",
    "files": 2,
    "tim": "t30n1576 大乘二十頌論 dai thua nhi thap tung luan (01 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7856,7 +7942,8 @@
    "tep": "bai/2026-06-t30n1577-ai-truong-phu-luan-02-quyen.html",
    "files": 3,
    "tim": "t30n1577 大丈夫論 dai truong phu luan (02 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7875,7 +7962,8 @@
    "tep": "bai/2026-06-t30n1578-ai-thua-chuong-tran-luan-02.html",
    "files": 3,
    "tim": "t30n1578 大乘掌珍論 dai thua chuong tran luan (02 quyen) bo trung quan",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7894,7 +7982,8 @@
    "tep": "bai/2026-08-t30n1580-du-gia-su-ia-luan-thich-01.html",
    "files": 2,
    "tim": "t30n1580 瑜伽師地論釋 du gia su dia luan thich (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7913,7 +8002,8 @@
    "tep": "bai/2026-09-t30n1582-kinh-bo-tat-thien-gioi-09-quyen.html",
    "files": 18,
    "tim": "t30n1582 菩薩善戒經 kinh bo tat thien gioi (09 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7932,7 +8022,8 @@
    "tep": "bai/2026-08-t30n1583-kinh-bo-tat-thien-gioi-01-quyen.html",
    "files": 2,
    "tim": "t30n1583 菩薩善戒經 kinh bo tat thien gioi (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7951,7 +8042,8 @@
    "tep": "bai/2026-06-t31n1586-duy-thuc-tam-thap-luan-tung-01.html",
    "files": 2,
    "tim": "t31n1586 唯識三十論頌 duy thuc tam thap luan tung (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7970,7 +8062,8 @@
    "tep": "bai/2026-06-t31n1587-chuyen-thuc-luan-01-quyen.html",
    "files": 2,
    "tim": "t31n1587 轉識論 chuyen thuc luan (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -7989,7 +8082,8 @@
    "tep": "bai/2026-06-t31n1588-duy-thuc-luan-01-quyen.html",
    "files": 2,
    "tim": "t31n1588 唯識論 duy thuc luan (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8008,7 +8102,8 @@
    "tep": "bai/2026-06-t31n1589-ai-thua-duy-thuc-luan-01-quyen.html",
    "files": 2,
    "tim": "t31n1589 大乘唯識論 dai thua duy thuc luan (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8027,7 +8122,8 @@
    "tep": "bai/2026-06-t31n1590-duy-thuc-nhi-thap-luan-01-quyen.html",
    "files": 2,
    "tim": "t31n1590 唯識二十論 duy thuc nhi thap luan (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8046,7 +8142,8 @@
    "tep": "bai/2026-06-t31n1601-bien-trung-bien-luan-tung-01.html",
    "files": 2,
    "tim": "t31n1601 辯中邊論頌 bien trung bien luan tung (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8065,7 +8162,8 @@
    "tep": "bai/2026-07-t31n1614-ai-thua-bach-phap-minh-mon.html",
    "files": 2,
    "tim": "t31n1614 大乘百法明門論 dai thua bach phap minh mon luan (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8084,7 +8182,8 @@
    "tep": "bai/2026-08-t31n1624-quan-so-duyen-duyen-luan-01.html",
    "files": 2,
    "tim": "t31n1624 觀所緣緣論 quan so duyen duyen luan (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8103,7 +8202,8 @@
    "tep": "bai/2026-08-t31n1625-quan-so-duyen-luan-thich-01.html",
    "files": 2,
    "tim": "t31n1625 觀所緣論釋 quan so duyen luan thich (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8122,7 +8222,8 @@
    "tep": "bai/2026-08-t31n1626-ai-thua-phap-gioi-vo-sai-biet.html",
    "files": 2,
    "tim": "t31n1626 大乘法界無差別論 dai thua phap gioi vo sai biet luan (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8141,7 +8242,8 @@
    "tep": "bai/2026-08-t31n1627-ai-thua-phap-gioi-vo-sai-biet.html",
    "files": 2,
    "tim": "t31n1627 大乘法界無差別論 dai thua phap gioi vo sai biet luan (01 quyen) bo du gia",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10864,7 +10966,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/06/bo-du-gia-t30b-t31-1579-1627.html",
    "tep": "bai/2026-06-bo-du-gia-t30b-t31-1579-1627.html",
    "tim": "bo du gia (t30b ~ t31) (1579 ~ 1627) bo du gia danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10979,7 +11082,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/03/danh-muc-luat-tang.html",
    "tep": "bai/2026-03-danh-muc-luat-tang.html",
    "tim": "bo luat (t22 ~ t24) (1421 ~ 1504) bo luat danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11190,7 +11294,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/06/bo-trung-quan-t30a-1564-1578.html",
    "tep": "bai/2026-06-bo-trung-quan-t30a-1564-1578.html",
    "tim": "bo trung quan (t30a) (1564 ~ 1578) bo trung quan danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11420,6 +11525,126 @@
    "tep": "bai/2026-11-ai-chanh-tang-tap-09a.html",
    "files": 14,
    "tim": "[dai chanh tang] tap 09a bo phap hoa danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 22",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Luật",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-09",
+   "doi": "10.5281/zenodo.22030722",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-22.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-22.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 22 bo luat danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 23",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Luật",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-09",
+   "doi": "10.5281/zenodo.22031727",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-23.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-23.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 23 bo luat danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 24",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Luật",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-09",
+   "doi": "10.5281/zenodo.22032003",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-24.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-24.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 24 bo luat danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 30A",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Trung Quán",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-09",
+   "doi": "10.5281/zenodo.22040441",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-30a.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-30a.html",
+   "files": 8,
+   "tim": "[dai chanh tang] tap 30a bo trung quan danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 30B",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Du Già",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-09",
+   "doi": "10.5281/zenodo.22130356",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-30b.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-30b.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 30b bo du gia danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 31",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Du Già",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-09",
+   "doi": "10.5281/zenodo.22041744",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-31.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-31.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 31 bo du gia danh muc",
    "nhom": "khac"
   },
   {
