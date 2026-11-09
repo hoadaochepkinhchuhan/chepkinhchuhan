@@ -14337,5 +14337,43 @@
 "url": "https://zenodo.org/records/24038971/files/T04N0213%20%E6%B3%95%E9%9B%86%E8%A6%81%E9%A0%8C%E7%B6%93%20Kinh%20Ph%C3%A1p%20T%E1%BA%ADp%20Y%E1%BA%BFu%20T%E1%BB%A5ng%20%28Quy%E1%BB%83n%2004%29.pdf?download=1"
 }
 ]
+},
+"24085067": {
+"tieu_de": "T03N0155 菩薩本行經 Kinh Bồ Tát Bổn Hạnh (03 quyển)",
+"ngay": "2026-11-09",
+"doi_chung": "10.5281/zenodo.24085066",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T03N0155 菩薩本行經 Kinh Bồ Tát Bổn Hạnh (Quyển trung).pdf",
+"kb": 1387,
+"url": "https://zenodo.org/records/24085067/files/T03N0155%20%E8%8F%A9%E8%96%A9%E6%9C%AC%E8%A1%8C%E7%B6%93%20Kinh%20B%E1%BB%93%20T%C3%A1t%20B%E1%BB%95n%20H%E1%BA%A1nh%20%28Quy%E1%BB%83n%20trung%29.pdf?download=1"
+},
+{
+"ten": "T03N0155 菩薩本行經 Kinh Bồ Tát Bổn Hạnh (Quyển hạ).pdf",
+"kb": 1351,
+"url": "https://zenodo.org/records/24085067/files/T03N0155%20%E8%8F%A9%E8%96%A9%E6%9C%AC%E8%A1%8C%E7%B6%93%20Kinh%20B%E1%BB%93%20T%C3%A1t%20B%E1%BB%95n%20H%E1%BA%A1nh%20%28Quy%E1%BB%83n%20h%E1%BA%A1%29.pdf?download=1"
+},
+{
+"ten": "T03N0155 菩薩本行經 Kinh Bồ Tát Bổn Hạnh (Quyển thượng).pdf",
+"kb": 1372,
+"url": "https://zenodo.org/records/24085067/files/T03N0155%20%E8%8F%A9%E8%96%A9%E6%9C%AC%E8%A1%8C%E7%B6%93%20Kinh%20B%E1%BB%93%20T%C3%A1t%20B%E1%BB%95n%20H%E1%BA%A1nh%20%28Quy%E1%BB%83n%20th%C6%B0%E1%BB%A3ng%29.pdf?download=1"
+},
+{
+"ten": "T0155_002.docx",
+"kb": 1063,
+"url": "https://zenodo.org/records/24085067/files/T0155_002.docx?download=1"
+},
+{
+"ten": "T0155_001.docx",
+"kb": 1057,
+"url": "https://zenodo.org/records/24085067/files/T0155_001.docx?download=1"
+},
+{
+"ten": "T0155_003.docx",
+"kb": 1052,
+"url": "https://zenodo.org/records/24085067/files/T0155_003.docx?download=1"
+}
+]
 }
 }
