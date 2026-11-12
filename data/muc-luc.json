@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-12T23:00+07:00",
+  "cap_nhat": "2026-11-13T05:10+07:00",
   "so_bai": 589,
-  "so_kinh": 547,
-  "so_quyen": 1765,
-  "so_doi": 560,
+  "so_kinh": 550,
+  "so_quyen": 1768,
+  "so_doi": 563,
   "blog_ok": true,
-  "dau_moc": "2026-11-12T22:44:57.564+07:00"
+  "dau_moc": "2026-11-12T23:45:18.972+07:00"
  },
  "muc": [
   {
@@ -8183,6 +8183,63 @@
    "tim": "t31n1614 大乘百法明門論 dai thua bach phap minh mon luan (01 quyen) bo du gia",
    "nhom": "T",
    "khong_con_tren_blog": true
+  },
+  {
+   "loai": "zenodo",
+   "tieu_de": "T31N1619 無相思塵論 Vô Tướng Tư Trần Luận (01 quyển)",
+   "ma": "T31n1619",
+   "han": "無相思塵論",
+   "hv": "Vô Tướng Tư Trần Luận",
+   "quyen": 1,
+   "ngay": "2026-11-12",
+   "bo": [
+    "Bộ Du Già"
+   ],
+   "doi": "10.5281/zenodo.24168164",
+   "tai_ve": null,
+   "goc": "https://zenodo.org/records/24168164",
+   "tep": "bai/zenodo-24168164.html",
+   "files": 2,
+   "tim": "t31n1619 無相思塵論 vo tuong tu tran luan (01 quyen) bo du gia",
+   "nhom": "T"
+  },
+  {
+   "loai": "zenodo",
+   "tieu_de": "T31N1620 解捲論 Giải Quyển Luận (01 quyển)",
+   "ma": "T31n1620",
+   "han": "解捲論",
+   "hv": "Giải Quyển Luận",
+   "quyen": 1,
+   "ngay": "2026-11-12",
+   "bo": [
+    "Bộ Du Già"
+   ],
+   "doi": "10.5281/zenodo.24167799",
+   "tai_ve": null,
+   "goc": "https://zenodo.org/records/24167799",
+   "tep": "bai/zenodo-24167799.html",
+   "files": 2,
+   "tim": "t31n1620 解捲論 giai quyen luan (01 quyen) bo du gia",
+   "nhom": "T"
+  },
+  {
+   "loai": "zenodo",
+   "tieu_de": "T31N1621 掌中論 Chưởng Trung Luận (01 quyển)",
+   "ma": "T31n1621",
+   "han": "掌中論",
+   "hv": "Chưởng Trung Luận",
+   "quyen": 1,
+   "ngay": "2026-11-12",
+   "bo": [
+    "Bộ Du Già"
+   ],
+   "doi": "10.5281/zenodo.24167402",
+   "tai_ve": null,
+   "goc": "https://zenodo.org/records/24167402",
+   "tep": "bai/zenodo-24167402.html",
+   "files": 2,
+   "tim": "t31n1621 掌中論 chuong trung luan (01 quyen) bo du gia",
+   "nhom": "T"
   },
   {
    "loai": "zenodo",

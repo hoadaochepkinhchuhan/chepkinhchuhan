@@ -14411,5 +14411,59 @@
 "url": "https://zenodo.org/records/24159957/files/T31N1623%20%E8%A7%80%E7%B8%BD%E7%9B%B8%E8%AB%96%E9%A0%8C%20Qu%C3%A1n%20T%E1%BB%95ng%20T%C6%B0%E1%BB%9Bng%20Lu%E1%BA%ADn%20T%E1%BB%A5ng%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
 }
 ]
+},
+"24168164": {
+"tieu_de": "T31N1619 無相思塵論 Vô Tướng Tư Trần Luận (01 quyển)",
+"ngay": "2026-11-12",
+"doi_chung": "10.5281/zenodo.24168163",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T31n1619_001 - file âm.docx",
+"kb": 877,
+"url": "https://zenodo.org/records/24168164/files/T31n1619_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T31N1619 無相思塵論 Vô Tướng Tư Trần Luận (01 quyển).pdf",
+"kb": 754,
+"url": "https://zenodo.org/records/24168164/files/T31N1619%20%E7%84%A1%E7%9B%B8%E6%80%9D%E5%A1%B5%E8%AB%96%20V%C3%B4%20T%C6%B0%E1%BB%9Bng%20T%C6%B0%20Tr%E1%BA%A7n%20Lu%E1%BA%ADn%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
+},
+"24167799": {
+"tieu_de": "T31N1620 解捲論 Giải Quyển Luận (01 quyển)",
+"ngay": "2026-11-12",
+"doi_chung": "10.5281/zenodo.24167798",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T31n1620_001 - file âm.docx",
+"kb": 871,
+"url": "https://zenodo.org/records/24167799/files/T31n1620_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T31N1620 解捲論 Giải Quyển Luận (01 quyển).pdf",
+"kb": 706,
+"url": "https://zenodo.org/records/24167799/files/T31N1620%20%E8%A7%A3%E6%8D%B2%E8%AB%96%20Gi%E1%BA%A3i%20Quy%E1%BB%83n%20Lu%E1%BA%ADn%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
+},
+"24167402": {
+"tieu_de": "T31N1621 掌中論 Chưởng Trung Luận (01 quyển)",
+"ngay": "2026-11-12",
+"doi_chung": "10.5281/zenodo.24167401",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T31N1621 掌中論 Chưởng Trung Luận (01 quyển).pdf",
+"kb": 701,
+"url": "https://zenodo.org/records/24167402/files/T31N1621%20%E6%8E%8C%E4%B8%AD%E8%AB%96%20Ch%C6%B0%E1%BB%9Fng%20Trung%20Lu%E1%BA%ADn%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T31n1621_001 - file âm.docx",
+"kb": 873,
+"url": "https://zenodo.org/records/24167402/files/T31n1621_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
 }
 }
