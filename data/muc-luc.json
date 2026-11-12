@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-12T14:14+07:00",
+  "cap_nhat": "2026-11-12T23:00+07:00",
   "so_bai": 589,
-  "so_kinh": 545,
-  "so_quyen": 1763,
-  "so_doi": 558,
+  "so_kinh": 547,
+  "so_quyen": 1765,
+  "so_doi": 560,
   "blog_ok": true,
-  "dau_moc": "2026-11-12T13:41:51.491+07:00"
+  "dau_moc": "2026-11-12T22:44:57.564+07:00"
  },
  "muc": [
   {
@@ -8183,6 +8183,44 @@
    "tim": "t31n1614 大乘百法明門論 dai thua bach phap minh mon luan (01 quyen) bo du gia",
    "nhom": "T",
    "khong_con_tren_blog": true
+  },
+  {
+   "loai": "zenodo",
+   "tieu_de": "T31N1622 取因假設論 Thủ Nhân Giả Thiết Luận (01 quyển)",
+   "ma": "T31n1622",
+   "han": "取因假設論",
+   "hv": "Thủ Nhân Giả Thiết Luận",
+   "quyen": 1,
+   "ngay": "2026-11-12",
+   "bo": [
+    "Bộ Du Già"
+   ],
+   "doi": "10.5281/zenodo.24166644",
+   "tai_ve": null,
+   "goc": "https://zenodo.org/records/24166644",
+   "tep": "bai/zenodo-24166644.html",
+   "files": 2,
+   "tim": "t31n1622 取因假設論 thu nhan gia thiet luan (01 quyen) bo du gia",
+   "nhom": "T"
+  },
+  {
+   "loai": "zenodo",
+   "tieu_de": "T31N1623 觀總相論頌 Quán Tổng Tướng Luận Tụng (01 quyển)",
+   "ma": "T31n1623",
+   "han": "觀總相論頌",
+   "hv": "Quán Tổng Tướng Luận Tụng",
+   "quyen": 1,
+   "ngay": "2026-11-12",
+   "bo": [
+    "Bộ Du Già"
+   ],
+   "doi": "10.5281/zenodo.24159957",
+   "tai_ve": null,
+   "goc": "https://zenodo.org/records/24159957",
+   "tep": "bai/zenodo-24159957.html",
+   "files": 2,
+   "tim": "t31n1623 觀總相論頌 quan tong tuong luan tung (01 quyen) bo du gia",
+   "nhom": "T"
   },
   {
    "loai": "bai",

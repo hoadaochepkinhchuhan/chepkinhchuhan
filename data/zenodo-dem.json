@@ -14375,5 +14375,41 @@
 "url": "https://zenodo.org/records/24085067/files/T0155_003.docx?download=1"
 }
 ]
+},
+"24166644": {
+"tieu_de": "T31N1622 取因假設論 Thủ Nhân Giả Thiết Luận (01 quyển)",
+"ngay": "2026-11-12",
+"doi_chung": "10.5281/zenodo.24166643",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T31N1622 取因假設論 Thủ Nhân Giả Thiết Luận (01 quyển).pdf",
+"kb": 956,
+"url": "https://zenodo.org/records/24166644/files/T31N1622%20%E5%8F%96%E5%9B%A0%E5%81%87%E8%A8%AD%E8%AB%96%20Th%E1%BB%A7%20Nh%C3%A2n%20Gi%E1%BA%A3%20Thi%E1%BA%BFt%20Lu%E1%BA%ADn%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T31n1622_001 - file âm.docx",
+"kb": 946,
+"url": "https://zenodo.org/records/24166644/files/T31n1622_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
+},
+"24159957": {
+"tieu_de": "T31N1623 觀總相論頌 Quán Tổng Tướng Luận Tụng (01 quyển)",
+"ngay": "2026-11-12",
+"doi_chung": "10.5281/zenodo.24159956",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T31n1623_001 - file âm.docx",
+"kb": 858,
+"url": "https://zenodo.org/records/24159957/files/T31n1623_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T31N1623 觀總相論頌 Quán Tổng Tướng Luận Tụng (01 quyển).pdf",
+"kb": 660,
+"url": "https://zenodo.org/records/24159957/files/T31N1623%20%E8%A7%80%E7%B8%BD%E7%9B%B8%E8%AB%96%E9%A0%8C%20Qu%C3%A1n%20T%E1%BB%95ng%20T%C6%B0%E1%BB%9Bng%20Lu%E1%BA%ADn%20T%E1%BB%A5ng%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
 }
 }
