@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-14T16:27+07:00",
+  "cap_nhat": "2026-11-15T06:53+07:00",
   "so_bai": 589,
   "so_kinh": 551,
   "so_quyen": 1769,
-  "so_doi": 564,
+  "so_doi": 565,
   "blog_ok": true,
-  "dau_moc": "2026-11-14T14:46:24.826+07:00"
+  "dau_moc": "2026-11-15T05:37:37.789+07:00"
  },
  "muc": [
   {
@@ -5179,7 +5179,7 @@
     "Bộ Hoa Nghiêm"
    ],
    "ngay": "2026-10-08",
-   "doi": null,
+   "doi": "10.5281/zenodo.24233383",
    "tai_ve": "https://drive.google.com/drive/folders/11sLlCoD_bRxkuG80bBUsEdg2vKO3GkU8?usp=drive_link",
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/10/t10n0279-kinh-ai-phuong-quang-phat-hoa.html",
    "tep": "bai/2026-10-t10n0279-kinh-ai-phuong-quang-phat-hoa.html",

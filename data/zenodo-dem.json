@@ -14483,5 +14483,28 @@
 "url": "https://zenodo.org/records/24204108/files/T31n1618_001%20-%20file%20%C3%A2m.docx?download=1"
 }
 ]
+},
+"24233383": {
+"tieu_de": "T10N0279 大方廣佛華嚴經 Kinh Đại Phương Quảng Phật Hoa Nghiêm (80 quyển)",
+"ngay": "2026-11-14",
+"doi_chung": "10.5281/zenodo.24233382",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "word - file âm.zip",
+"kb": 82217,
+"url": "https://zenodo.org/records/24233383/files/word%20-%20file%20%C3%A2m.zip?download=1"
+},
+{
+"ten": "T10N0279 大方廣佛華嚴經 Kinh Đại Phương Quảng Phật Hoa Nghiêm (Quyển 80).pdf",
+"kb": 1399,
+"url": "https://zenodo.org/records/24233383/files/T10N0279%20%E5%A4%A7%E6%96%B9%E5%BB%A3%E4%BD%9B%E8%8F%AF%E5%9A%B4%E7%B6%93%20Kinh%20%C4%90%E1%BA%A1i%20Ph%C6%B0%C6%A1ng%20Qu%E1%BA%A3ng%20Ph%E1%BA%ADt%20Hoa%20Nghi%C3%AAm%20%28Quy%E1%BB%83n%2080%29.pdf?download=1"
+},
+{
+"ten": "pdf - file âm.zip",
+"kb": 90262,
+"url": "https://zenodo.org/records/24233383/files/pdf%20-%20file%20%C3%A2m.zip?download=1"
+}
+]
 }
 }
