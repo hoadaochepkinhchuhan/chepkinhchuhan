@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-16T09:58+07:00",
+  "cap_nhat": "2026-11-16T17:49+07:00",
   "so_bai": 589,
   "so_kinh": 552,
   "so_quyen": 1776,
   "so_doi": 566,
   "blog_ok": true,
-  "dau_moc": "2026-11-16T07:12:19.170+07:00"
+  "dau_moc": "2026-11-16T17:05:59.428+07:00"
  },
  "muc": [
   {
@@ -11552,7 +11552,7 @@
    ],
    "ngay": "2026-10-20",
    "doi": "10.5281/zenodo.23487974",
-   "tai_ve": "https://drive.google.com/drive/folders/1ti_dRIM-pgdbO3q3GzpaNugUN82f3N4G?usp=sharing",
+   "tai_ve": null,
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/10/huong-dan-inh-am-han-viet-tren-kinh-van.html",
    "tep": "bai/2026-10-huong-dan-inh-am-han-viet-tren-kinh-van.html",
    "files": 5,
