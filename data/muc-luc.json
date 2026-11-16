@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-16T17:49+07:00",
-  "so_bai": 589,
+  "cap_nhat": "2026-11-17T03:41+07:00",
+  "so_bai": 590,
   "so_kinh": 552,
   "so_quyen": 1776,
-  "so_doi": 566,
+  "so_doi": 567,
   "blog_ok": true,
-  "dau_moc": "2026-11-16T17:05:59.428+07:00"
+  "dau_moc": "2026-11-16T21:17:33.485+07:00"
  },
  "muc": [
   {
@@ -8566,7 +8566,8 @@
    "tep": "bai/2026-07-t85n2732-luong-trieu-pho-ai-si-tung-kim.html",
    "files": 2,
    "tim": "t85n2732 梁朝傅大士頌金剛經 luong trieu pho dai si tung kim cang kinh (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8585,7 +8586,8 @@
    "tep": "bai/2026-07-t85n2763-hiep-chu-thang-man-kinh-01.html",
    "files": 2,
    "tim": "t85n2763 挾注勝鬘經 hiep chu thang man kinh (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8604,7 +8606,8 @@
    "tep": "bai/2026-10-t85n2813-ai-thua-khoi-tin-luan-luoc.html",
    "files": 4,
    "tim": "t85n2813 大乘起信論略述 dai thua khoi tin luan luoc thuat (02 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8623,7 +8626,8 @@
    "tep": "bai/2026-08-t85n2815-khoi-tin-luan-chu-01-quyen.html",
    "files": 2,
    "tim": "t85n2815 起信論註 khoi tin luan chu (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8642,7 +8646,8 @@
    "tep": "bai/2026-08-t85n2816-nhan-duyen-tam-thich-luan-khai.html",
    "files": 2,
    "tim": "t85n2816 因緣心釋論開決記 nhan duyen tam thich luan khai quyet ky (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8661,7 +8666,8 @@
    "tep": "bai/2026-08-t85n2817-ai-thua-kinh-toan-yeu-nghia-01.html",
    "files": 2,
    "tim": "t85n2817 大乘經纂要義 dai thua kinh toan yeu nghia (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8680,7 +8686,8 @@
    "tep": "bai/2026-08-t85n2818-ai-thua-nhi-thap-nhi-van-bon.html",
    "files": 2,
    "tim": "t85n2818 大乘二十二問本 dai thua nhi thap nhi van bon (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8699,7 +8706,8 @@
    "tep": "bai/2026-08-t85n2819-chu-kinh-yeu-sao-01-quyen.html",
    "files": 2,
    "tim": "t85n2819 諸經要抄 chu kinh yeu sao (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8718,7 +8726,8 @@
    "tep": "bai/2026-08-t85n2820-bo-tat-tang-tu-ao-chung-kinh.html",
    "files": 2,
    "tim": "t85n2820 菩薩藏修道眾經抄卷第十二 bo tat tang tu dao chung kinh sao quyen de thap nhi (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8737,7 +8746,8 @@
    "tep": "bai/2026-08-t85n2821-chu-kinh-yeu-luoc-van-01-quyen.html",
    "files": 2,
    "tim": "t85n2821 諸經要略文 chu kinh yeu luoc van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8756,7 +8766,8 @@
    "tep": "bai/2026-08-t85n2822-ai-thua-yeu-ngu-01-quyen.html",
    "files": 2,
    "tim": "t85n2822 大乘要語 dai thua yeu ngu (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8775,7 +8786,8 @@
    "tep": "bai/2026-08-t85n2823-ai-thua-nhap-ao-thu-e-khai.html",
    "files": 2,
    "tim": "t85n2823 大乘入道次第開決 dai thua nhap dao thu de khai quyet (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8794,7 +8806,8 @@
    "tep": "bai/2026-08-t85n2824-thien-thai-phan-mon-o-01-quyen.html",
    "files": 2,
    "tim": "t85n2824 天台分門圖 thien thai phan mon do (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8813,7 +8826,8 @@
    "tep": "bai/2026-08-t85n2825-chan-ngon-quyet-quyen-e-nhat-e.html",
    "files": 4,
    "tim": "t85n2825 真言要決卷第一．第三 chan ngon yeu quyet quyen de nhat . de tam (02 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8832,7 +8846,8 @@
    "tep": "bai/2026-08-t85n2826-luoc-chu-kinh-luan-niem-phat.html",
    "files": 2,
    "tim": "t85n2826 略諸經論念佛法門往生淨土集卷上 luoc chu kinh luan niem phat phap mon vang sanh tinh do tap quyen thuong (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8851,7 +8866,8 @@
    "tep": "bai/2026-08-t85n2827-tinh-o-ngu-hoi-niem-phat-tung.html",
    "files": 4,
    "tim": "t85n2827 淨土五會念佛誦經觀行儀卷中．下 tinh do ngu hoi niem phat tung kinh quan hanh nghi quyen trung . ha (02 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8870,7 +8886,8 @@
    "tep": "bai/2026-08-t85n2828-ai-thua-tinh-o-tan-01-quyen.html",
    "files": 2,
    "tim": "t85n2828 大乘淨土讚 dai thua tinh do tan (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8889,7 +8906,8 @@
    "tep": "bai/2026-08-t85n2829-tri-trai-niem-phat-sam-hoi-le.html",
    "files": 2,
    "tim": "t85n2829 持齋念佛懺悔禮文 tri trai niem phat sam hoi le van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8908,7 +8926,8 @@
    "tep": "bai/2026-08-t85n2830a-ao-phap-su-niem-phat-tan-01.html",
    "files": 2,
    "tim": "t85n2830a 道安法師念佛讚 dao an phap su niem phat tan (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8927,7 +8946,8 @@
    "tep": "bai/2026-08-t85n2830b-ao-phap-su-niem-phat-tan-van.html",
    "files": 2,
    "tim": "t85n2830b 道安法師念佛讚文 dao an phap su niem phat tan van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8946,7 +8966,8 @@
    "tep": "bai/2026-08-t85n2831-vo-tam-luan-01-quyen.html",
    "files": 2,
    "tim": "t85n2831 無心論 vo tam luan (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8965,7 +8986,8 @@
    "tep": "bai/2026-08-t85n2832-nam-thien-truc-quoc-bo-e-at-ma.html",
    "files": 2,
    "tim": "t85n2832 南天竺國菩提達摩禪師觀門 nam thien truc quoc bo de dat ma thien su quan mon (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8984,7 +9006,8 @@
    "tep": "bai/2026-08-t85n2833-quan-tam-luan-01-quyen.html",
    "files": 2,
    "tim": "t85n2833 觀心論 quan tam luan (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9003,7 +9026,8 @@
    "tep": "bai/2026-08-t85n2834-ai-thua-vo-sanh-phuong-tien.html",
    "files": 2,
    "tim": "t85n2834 大乘無生方便門 dai thua vo sanh phuong tien mon (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9022,7 +9046,8 @@
    "tep": "bai/2026-08-t85n2835-ai-thua-khai-tam-hien-tanh-on.html",
    "files": 2,
    "tim": "t85n2835 大乘開心顯性頓悟真宗論 dai thua khai tam hien tanh don ngo chan tong luan (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9041,7 +9066,8 @@
    "tep": "bai/2026-08-t85n2836-ai-thua-bac-tong-luan-01-quyen.html",
    "files": 2,
    "tim": "t85n2836 大乘北宗論 dai thua bac tong luan (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9060,7 +9086,8 @@
    "tep": "bai/2026-08-t85n2837-lang-gia-su-tu-ky-01-quyen.html",
    "files": 2,
    "tim": "t85n2837 楞伽師資記 lang gia su tu ky (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9079,7 +9106,8 @@
    "tep": "bai/2026-08-t85n2838-truyen-phap-bao-ky-01-quyen.html",
    "files": 2,
    "tim": "t85n2838 傳法寶紀 truyen phap bao ky (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9098,7 +9126,8 @@
    "tep": "bai/2026-08-t85n2839-tan-thien-mon-thi-01-quyen.html",
    "files": 2,
    "tim": "t85n2839 讚禪門詩 tan thien mon thi (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9117,7 +9146,8 @@
    "tep": "bai/2026-08-t85n2840-tam-gioi-o-01-quyen.html",
    "files": 2,
    "tim": "t85n2840 三界圖 tam gioi do (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9136,7 +9166,8 @@
    "tep": "bai/2026-08-t85n2841-ai-phat-luoc-sam-01-quyen.html",
    "files": 2,
    "tim": "t85n2841 大佛略懺 dai phat luoc sam (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9155,7 +9186,8 @@
    "tep": "bai/2026-08-t85n2842-sa-phat-van-01-quyen.html",
    "files": 2,
    "tim": "t85n2842 印沙佛文 an sa phat van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9174,7 +9206,8 @@
    "tep": "bai/2026-08-t85n2843-ai-bi-khoi-thinh-01-quyen.html",
    "files": 2,
    "tim": "t85n2843 大悲啟請 dai bi khoi thinh (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9193,7 +9226,8 @@
    "tep": "bai/2026-08-t85n2844-van-thu-su-loi-bo-tat-vo-tuong.html",
    "files": 2,
    "tim": "t85n2844 文殊師利菩薩無相十禮 van thu su loi bo tat vo tuong thap le (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9212,7 +9246,8 @@
    "tep": "bai/2026-08-t85n2845-ap-toa-van-loai-01-quyen.html",
    "files": 2,
    "tim": "t85n2845 押座文類 ap toa van loai (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9231,7 +9266,8 @@
    "tep": "bai/2026-08-t85n2846-ky-nguyen-van-01-quyen.html",
    "files": 2,
    "tim": "t85n2846 祈願文 ky nguyen van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9250,7 +9286,8 @@
    "tep": "bai/2026-08-t85n2847-ky-nguyen-van-01-quyen.html",
    "files": 2,
    "tim": "t85n2847 祈願文 ky nguyen van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9269,7 +9306,8 @@
    "tep": "bai/2026-08-t85n2848-hoi-huong-van-01-quyen.html",
    "files": 2,
    "tim": "t85n2848 迴向文 hoi huong van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9288,7 +9326,8 @@
    "tep": "bai/2026-07-t85n2849-ai-thua-tu-trai-nhat-01-quyen.html",
    "files": 2,
    "tim": "t85n2849 大乘四齋日 dai thua tu trai nhat (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9307,7 +9346,8 @@
    "tep": "bai/2026-07-t85n2850-ia-tang-bo-tat-thap-trai-nhat.html",
    "files": 2,
    "tim": "t85n2850 地藏菩薩十齋日 dia tang bo tat thap trai nhat (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9326,7 +9366,8 @@
    "tep": "bai/2026-07-t85n2851-hoa-bo-tat-gioi-van-01-quyen.html",
    "files": 2,
    "tim": "t85n2851 和菩薩戒文 hoa bo tat gioi van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9345,7 +9386,8 @@
    "tep": "bai/2026-07-t85n2852-nhap-bo-tat-uong-thuyet-ke-van.html",
    "files": 2,
    "tim": "t85n2852 入布薩堂說偈文等 nhap bo tat duong thuyet ke van dang (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9364,7 +9406,8 @@
    "tep": "bai/2026-07-t85n2853-bo-tat-van-ang-01-quyen.html",
    "files": 2,
    "tim": "t85n2853 布薩文等 bo tat van dang (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9383,7 +9426,8 @@
    "tep": "bai/2026-07-t85n2854-le-sam-van-01-quyen.html",
    "files": 2,
    "tim": "t85n2854  禮懺文 le sam van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9402,7 +9446,8 @@
    "tep": "bai/2026-07-t85n2855-le-sam-van-01-quyen.html",
    "files": 2,
    "tim": "t85n2855  禮懺文 le sam van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9421,7 +9466,8 @@
    "tep": "bai/2026-07-t85n2856-le-sam-van-01-quyen.html",
    "files": 2,
    "tim": "t85n2856 禮懺文 le sam van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9440,7 +9486,8 @@
    "tep": "bai/2026-07-t85n2857-sach-phap-hieu-nghia-phung.html",
    "files": 2,
    "tim": "t85n2857 索法號義𮗿諷誦文 sach phap hieu nghia [?] phung tung van (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9459,7 +9506,8 @@
    "tep": "bai/2026-07-t85n2858-ai-muc-kien-lien-minh-gian-cuu.html",
    "files": 2,
    "tim": "t85n2858 大目乾連冥間救母變文并圖 dai muc kien lien minh gian cuu mau bien van tinh do (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9478,7 +9526,8 @@
    "tep": "bai/2026-07-t85n2859-hue-vien-ngoai-truyen-01-quyen.html",
    "files": 2,
    "tim": "t85n2859 惠遠外傳 hue vien ngoai truyen (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9497,7 +9546,8 @@
    "tep": "bai/2026-07-t85n2860-phu-quan-ton-hue-truyen-01.html",
    "files": 2,
    "tim": "t85n2860 府君存惠傳 phu quan ton hue truyen (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9516,7 +9566,8 @@
    "tep": "bai/2026-07-t85n2861-tuyen-chau-thien-phat-tan.html",
    "files": 2,
    "tim": "t85n2861 泉州千佛新著諸祖師頌 tuyen chau thien phat tan truoc chu to su tung (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9535,7 +9586,8 @@
    "tep": "bai/2026-07-t85n2862-ai-phon-sa-chau-thich-mon-giao.html",
    "files": 2,
    "tim": "t85n2862 大蕃沙洲釋門教法和尚洪𮗿修功德記 dai phon sa chau thich mon giao phap hoa thuong hong [?] tu cong duc ky (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9554,7 +9606,8 @@
    "tep": "bai/2026-07-t85n2863-vuong-pham-chi-thi-tap-01-quyen.html",
    "files": 2,
    "tim": "t85n2863 王梵志詩集 vuong pham chi thi tap (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -9573,7 +9626,8 @@
    "tep": "bai/2026-07-t85n2864-tan-chi-01-quyen.html",
    "files": 2,
    "tim": "t85n2864 進旨 tan chi (01 quyen) bo co dat",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11099,7 +11153,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-co-dat-t85a-2732-2864.html",
    "tep": "bai/2026-07-bo-co-dat-t85a-2732-2864.html",
    "tim": "bo co dat (t85a) (2732 ~ 2864) bo co dat danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11158,7 +11213,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-kinh-so-t33-t39-1693-1803.html",
    "tep": "bai/2026-07-bo-kinh-so-t33-t39-1693-1803.html",
    "tim": "bo kinh so (t33 ~ t39) (1693 ~ 1803) bo kinh so danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11254,7 +11310,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-luat-so-t40a-1804-1815.html",
    "tep": "bai/2026-07-bo-luat-so-t40a-1804-1815.html",
    "tim": "bo luat so (t40a) (1804 ~ 1815) bo luat so danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11292,7 +11349,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-muc-luc-t55-2145-2184.html",
    "tep": "bai/2026-07-bo-muc-luc-t55-2145-2184.html",
    "tim": "bo muc luc (t55) (2145 ~ 2184) bo muc luc danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11331,7 +11389,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-ngoai-giao-t54b-2137-2136.html",
    "tep": "bai/2026-07-bo-ngoai-giao-t54b-2137-2136.html",
    "tim": "bo ngoai giao (t54b) (2137 ~ 2144) bo ngoai giao danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11408,7 +11467,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-su-vi-t53-t54a-2121-2136.html",
    "tep": "bai/2026-07-bo-su-vi-t53-t54a-2121-2136.html",
    "tim": "bo su vi (t53 ~ t54a) (2121 ~ 2136) bo su vi danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11466,7 +11526,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-ty-am-t26b-t29-1536-1563.html",
    "tep": "bai/2026-07-bo-ty-am-t26b-t29-1536-1563.html",
    "tim": "bo ty dam (t26b ~ t29) (1536 ~ 1563) bo ty dam danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11797,6 +11858,26 @@
    "tep": "bai/2026-11-ai-chanh-tang-tap-31.html",
    "files": 2,
    "tim": "[dai chanh tang] tap 31 bo du gia danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 85A",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Cổ Dật",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-16",
+   "doi": "10.5281/zenodo.22052007",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-85a.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-85a.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 85a bo co dat danh muc",
    "nhom": "khac"
   },
   {
