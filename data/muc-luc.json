@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-17T18:49+07:00",
-  "so_bai": 594,
+  "cap_nhat": "2026-11-18T03:05+07:00",
+  "so_bai": 595,
   "so_kinh": 552,
   "so_quyen": 1776,
-  "so_doi": 570,
+  "so_doi": 571,
   "blog_ok": true,
-  "dau_moc": "2026-11-17T18:46:31.260+07:00"
+  "dau_moc": "2026-11-17T19:10:56.763+07:00"
  },
  "muc": [
   {
@@ -8417,7 +8417,8 @@
    "tep": "bai/2026-07-t32n1628-nhan-minh-chanh-ly-mon-luan.html",
    "files": 2,
    "tim": "t32n1628 因明正理門論本 nhan minh chanh ly mon luan bon (01 quyen) bo luan tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8436,7 +8437,8 @@
    "tep": "bai/2026-07-t32n1629-nhan-minh-chanh-ly-mon-luan-01.html",
    "files": 2,
    "tim": "t32n1629 因明正理門論 nhan minh chanh ly mon luan (01 quyen) bo luan tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8455,7 +8457,8 @@
    "tep": "bai/2026-07-t32n1630-nhan-minh-nhap-chanh-ly-luan.html",
    "files": 2,
    "tim": "t32n1630 因明入正理論 nhan minh nhap chanh ly luan (01 quyen) bo luan tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8474,7 +8477,8 @@
    "tep": "bai/2026-07-t32n1631-hoi-tranh-luan-01-quyen.html",
    "files": 2,
    "tim": "t32n1631 迴諍論 hoi tranh luan (01 quyen) bo luan tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8493,7 +8497,8 @@
    "tep": "bai/2026-07-t32n1666-ai-thua-khoi-tin-luan-01-quyen.html",
    "files": 2,
    "tim": "t32n1666 大乘起信論 dai thua khoi tin luan (01 quyen) bo luan tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8512,7 +8517,8 @@
    "tep": "bai/2026-07-t32n1667-ai-thua-khoi-tin-luan-02-quyen.html",
    "files": 3,
    "tim": "t32n1667 大乘起信論 dai thua khoi tin luan (02 quyen) bo luan tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11275,7 +11281,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-luan-tap-t32-1628-1692.html",
    "tep": "bai/2026-07-bo-luan-tap-t32-1628-1692.html",
    "tim": "bo luan tap (t32) (1628 ~ 1692) bo luan tap danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11943,6 +11950,26 @@
    "tep": "bai/2026-11-ai-chanh-tang-tap-31.html",
    "files": 2,
    "tim": "[dai chanh tang] tap 31 bo du gia danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 32",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Luận Tập",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-17",
+   "doi": "10.5281/zenodo.22051893",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-32.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-32.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 32 bo luan tap danh muc",
    "nhom": "khac"
   },
   {
