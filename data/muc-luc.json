@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-17T09:54+07:00",
-  "so_bai": 590,
+  "cap_nhat": "2026-11-17T18:49+07:00",
+  "so_bai": 594,
   "so_kinh": 552,
   "so_quyen": 1776,
-  "so_doi": 567,
+  "so_doi": 570,
   "blog_ok": true,
-  "dau_moc": "2026-11-16T21:17:33.485+07:00"
+  "dau_moc": "2026-11-17T18:46:31.260+07:00"
  },
  "muc": [
   {
@@ -5823,7 +5823,8 @@
    "tep": "bai/2026-03-t12n0366-phat-thuyet-kinh-di-01-quyen.html",
    "files": 2,
    "tim": "t12n0366 佛說阿彌陀經 phat thuyet kinh a di da (01 quyen) bo bao tich",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5842,7 +5843,8 @@
    "tep": "bai/2026-09-t12n0382-kinh-tap-nhat-thiet-phuoc-uc.html",
    "files": 4,
    "tim": "t12n0382 集一切福德三昧經 kinh tap nhat thiet phuoc duc tam muoi (03 quyen) bo niet ban",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5861,7 +5863,8 @@
    "tep": "bai/2026-03-t13n0412-kinh-ia-tang-bo-tat-bon-nguyen.html",
    "files": 2,
    "tim": "t13n0412 地藏菩薩本願經 kinh dia tang bo tat bon nguyen (02 quyen) bo dai tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11095,7 +11098,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-bao-tich-t11-t12a-310-373.html",
    "tep": "bai/2026-07-bo-bao-tich-t11-t12a-310-373.html",
    "tim": "bo bao tich (t11 ~ t12a) (310 ~ 373) bo bao tich danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11409,7 +11413,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/06/bo-niet-ban-t12b-374-396.html",
    "tep": "bai/2026-06-bo-niet-ban-t12b-374-396.html",
    "tim": "bo niet ban (t12b) (374 ~ 396) bo niet ban danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11546,7 +11551,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/06/bo-ai-tap-t13-397-424.html",
    "tep": "bai/2026-06-bo-ai-tap-t13-397-424.html",
    "tim": "bo dai tap (t13) (397 ~ 424) bo dai tap danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11738,6 +11744,85 @@
    "tep": "bai/2026-11-ai-chanh-tang-tap-09a.html",
    "files": 14,
    "tim": "[dai chanh tang] tap 09a bo phap hoa danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 11",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Bảo Tích",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-17",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-11.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-11.html",
+   "tim": "[dai chanh tang] tap 11 bo bao tich danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 12A",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Bảo Tích",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-17",
+   "doi": "10.5281/zenodo.22022554",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-12-a.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-12-a.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 12a bo bao tich danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 12B",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Niết Bàn",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-17",
+   "doi": "10.5281/zenodo.23062723",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-12b.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-12b.html",
+   "files": 4,
+   "tim": "[dai chanh tang] tap 12b bo niet ban danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 13",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Đại Tập",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-17",
+   "doi": "10.5281/zenodo.22022641",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-13.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-13.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 13 bo dai tap danh muc",
    "nhom": "khac"
   },
   {
