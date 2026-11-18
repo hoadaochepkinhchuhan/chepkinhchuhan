@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-18T09:24+07:00",
-  "so_bai": 601,
+  "cap_nhat": "2026-11-18T17:23+07:00",
+  "so_bai": 605,
   "so_kinh": 552,
   "so_quyen": 1776,
-  "so_doi": 572,
+  "so_doi": 576,
   "blog_ok": true,
-  "dau_moc": "2026-11-18T09:17:37.307+07:00"
+  "dau_moc": "2026-11-18T16:00:49.740+07:00"
  },
  "muc": [
   {
@@ -5883,7 +5883,8 @@
    "tep": "bai/2026-10-t14n0440-phat-thuyet-kinh-phat-danh-12.html",
    "files": 24,
    "tim": "t14n0440 佛說佛名經 phat thuyet kinh phat danh (12 quyen) bo kinh tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5902,7 +5903,8 @@
    "tep": "bai/2026-03-t14n0450-kinh-duoc-su-luu-ly-quang-nhu.html",
    "files": 2,
    "tim": "t14n0450 藥師琉璃光如來本願功德經 kinh duoc su luu ly quang nhu lai bon nguyen cong duc (01 quyen) bo kinh tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -8557,7 +8559,8 @@
    "tep": "bai/2026-07-t49n2030-ai-la-han-nan-e-mat-la-so.html",
    "files": 2,
    "tim": "t49n2030 大阿羅漢難提蜜多羅所說法住記 dai a la han nan de mat da la so thuyet phap tru ky (01 quyen) bo su truyen",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10796,7 +10799,8 @@
    "tep": "bai/2026-07-x55n0891-bat-thuc-quy-cu-luoc-thuyet-01.html",
    "files": 2,
    "tim": "x55n0891 八識規矩略說 bat thuc quy cu luoc thuyet (01 quyen) van tung tang",
-   "nhom": "X"
+   "nhom": "X",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10815,7 +10819,8 @@
    "tep": "bai/2026-07-x55n0892-bat-thuc-quy-cu-tung-giai-01.html",
    "files": 2,
    "tim": "x55n0892 八識規矩頌解 bat thuc quy cu tung giai (01 quyen) van tung tang",
-   "nhom": "X"
+   "nhom": "X",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10834,7 +10839,8 @@
    "tep": "bai/2026-06-x58n1010-khuyen-phat-bo-e-tam-van-01.html",
    "files": 2,
    "tim": "x58n1010 勸發菩提心文 khuyen phat bo de tam van (01 quyen) van tung tang",
-   "nhom": "X"
+   "nhom": "X",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10853,7 +10859,8 @@
    "tep": "bai/2026-06-x60n1115-ty-ni-nhat-dung-thiet-yeu.html",
    "files": 2,
    "tim": "x60n1115 毗尼日用切要 ty ni nhat dung thiet yeu (01 quyen) van tung tang",
-   "nhom": "X"
+   "nhom": "X",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10872,7 +10879,8 @@
    "tep": "bai/2026-07-x60n1118-sa-di-luat-nghi-yeu-luoc-tang.html",
    "files": 4,
    "tim": "x60n1118 沙彌律儀要略增註 sa di luat nghi yeu luoc tang chu (02 quyen) van tung tang",
-   "nhom": "X"
+   "nhom": "X",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10890,7 +10898,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/x61n1156-quy-nguyen-truc-chi-tap-02.html",
    "tep": "bai/2026-07-x61n1156-quy-nguyen-truc-chi-tap-02.html",
    "tim": "x61n1156 歸元直指集 quy nguyen truc chi tap (02 quyen) van tung tang",
-   "nhom": "X"
+   "nhom": "X",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10903,10 +10912,11 @@
     "Danh mục khác"
    ],
    "ngay": "2026-03-13",
-   "doi": null,
+   "doi": "10.5281/zenodo.22053728",
    "tai_ve": null,
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/03/danh-muc-sach.html",
    "tep": "bai/2026-03-danh-muc-sach.html",
+   "files": 4,
    "tim": "danh muc khac danh muc khac",
    "nhom": "dmk"
   },
@@ -10947,7 +10957,8 @@
    "tep": "bai/2026-06-cc0002-on-bac-ban-luc-to-kinh-hieu-inh.html",
    "files": 2,
    "tim": "cc0002 敦博本六祖壇經校訂全文 don bac ban luc to dan kinh hieu dinh toan van (01 quyen) danh muc khac",
-   "nhom": "dmk"
+   "nhom": "dmk",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10967,7 +10978,8 @@
    "tep": "bai/2026-06-kinh-ngu-bach-danh-quan-am-01-quyen.html",
    "files": 4,
    "tim": "五百名觀世音經 kinh ngu bach danh quan the am (01 quyen) danh muc khac",
-   "nhom": "dmk"
+   "nhom": "dmk",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -10987,7 +10999,8 @@
    "tep": "bai/2026-06-so-ang-phat-hoc-giao-khoa-thu-01-quyen.html",
    "files": 4,
    "tim": "初等佛學教科書 so dang phat hoc giao khoa thu (01 quyen) danh muc khac",
-   "nhom": "dmk"
+   "nhom": "dmk",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11007,7 +11020,8 @@
    "tep": "bai/2026-06-quy-son-canh-sach-van-01-quyen.html",
    "files": 4,
    "tim": "溈山警策文 quy son canh sach van (01 quyen) danh muc khac",
-   "nhom": "dmk"
+   "nhom": "dmk",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11027,7 +11041,8 @@
    "tep": "bai/2026-07-truc-song-tuy-but-01-quyen.html",
    "files": 2,
    "tim": "竹窗隨筆 truc song tuy but (01 quyen) danh muc khac",
-   "nhom": "dmk"
+   "nhom": "dmk",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11046,7 +11061,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/06/thien-su-ong-son-va-thu-gui-me.html",
    "tep": "bai/2026-06-thien-su-ong-son-va-thu-gui-me.html",
    "tim": "良價禪師寫給母親的兩封家書 thien su dong son va thu gui me danh muc khac",
-   "nhom": "dmk"
+   "nhom": "dmk",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11263,7 +11279,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-luan-so-t40b-t44a-1816-1850.html",
    "tep": "bai/2026-07-bo-luan-so-t40b-t44a-1816-1850.html",
    "tim": "bo luan so (t40b ~ t44a) (1816 ~ 1850) bo luan so danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11461,7 +11478,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-su-truyen-t49-t52-2026-2120.html",
    "tep": "bai/2026-07-bo-su-truyen-t49-t52-2026-2120.html",
    "tim": "bo su truyen (t49 ~ t52) (2026 ~ 2120) bo su truyen danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11591,10 +11609,11 @@
     "Vạn Tụng Tạng"
    ],
    "ngay": "2026-07-18",
-   "doi": null,
+   "doi": "10.5281/zenodo.22053287",
    "tai_ve": null,
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/danh-muc-van-tuc-tang.html",
    "tep": "bai/2026-07-danh-muc-van-tuc-tang.html",
+   "files": 2,
    "tim": "danh muc van tuc tang danh muc van tung tang",
    "nhom": "khac"
   },
@@ -11836,6 +11855,26 @@
   },
   {
    "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 14",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Tập",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-18",
+   "doi": "10.5281/zenodo.23828459",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-14.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-14.html",
+   "files": 24,
+   "tim": "[dai chanh tang] tap 14 bo kinh tap danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
    "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 22",
    "ma": null,
    "han": null,
@@ -12049,6 +12088,64 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-40a.html",
    "tep": "bai/2026-11-ai-chanh-tang-tap-40a.html",
    "tim": "[dai chanh tang] tap 40a bo luat so danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 40B & TẬP 41 & TẬP 42 & TẬP 43 & TẬP 44A",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Luận Sớ",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-18",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-40b-tap-41-tap-42-tap.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-40b-tap-41-tap-42-tap.html",
+   "tim": "[dai chanh tang] tap 40b & tap 41 & tap 42 & tap 43 & tap 44a bo luan so danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 49",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Sử Truyện",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-18",
+   "doi": "10.5281/zenodo.23856123",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-49.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-49.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 49 bo su truyen danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 54A",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Sử Vị",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-18",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-54a.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-54a.html",
+   "tim": "[dai chanh tang] tap 54a bo su vi danh muc",
    "nhom": "khac"
   },
   {
