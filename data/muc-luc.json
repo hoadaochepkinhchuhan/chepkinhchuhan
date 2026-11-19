@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-19T07:56+07:00",
-  "so_bai": 609,
+  "cap_nhat": "2026-11-19T08:51+07:00",
+  "so_bai": 610,
   "so_kinh": 552,
   "so_quyen": 1776,
   "so_doi": 576,
   "blog_ok": true,
-  "dau_moc": "2026-11-19T07:56:37.592+07:00"
+  "dau_moc": "2026-11-19T08:49:32.742+07:00"
  },
  "muc": [
   {
@@ -12320,6 +12320,24 @@
    "tep": "bai/2026-11-ai-chanh-tang-tap-9a-10.html",
    "files": 3,
    "tim": "[dai chanh tang] tap 9b &tap 10 bo hoa nghiem danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "Ý NGHĨA TÀI LIỆU ĐÍNH ÂM HÁN VIỆT",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Lời nói đầu"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/inh-vi-tai-lieu-inh-am-han-viet.html",
+   "tep": "bai/2026-11-inh-vi-tai-lieu-inh-am-han-viet.html",
+   "tim": "y nghia tai lieu dinh am han viet loi noi dau",
    "nhom": "khac"
   }
  ]
