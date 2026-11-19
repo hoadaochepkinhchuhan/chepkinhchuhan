@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-19T08:51+07:00",
-  "so_bai": 610,
+  "cap_nhat": "2026-11-19T15:25+07:00",
+  "so_bai": 621,
   "so_kinh": 552,
   "so_quyen": 1776,
-  "so_doi": 576,
+  "so_doi": 577,
   "blog_ok": true,
-  "dau_moc": "2026-11-19T08:49:32.742+07:00"
+  "dau_moc": "2026-11-19T11:51:05.375+07:00"
  },
  "muc": [
   {
@@ -8540,7 +8540,8 @@
    "tep": "bai/2026-07-t48n2008-kinh-luc-to-ai-su-phap-bao-01.html",
    "files": 2,
    "tim": "t48n2008 六祖大師法寶壇經 luc to dai su phap bao dan kinh (01 quyen) bo chu tong",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11161,7 +11162,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/07/bo-chu-tong-t44b-t48-1851-2025.html",
    "tep": "bai/2026-07-bo-chu-tong-t44b-t48-1851-2025.html",
    "tim": "bo chu tong (t44b ~ t48) (1851 ~ 2025) bo chu tong danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -12073,6 +12075,120 @@
   },
   {
    "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 33",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Sớ",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-33.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-33.html",
+   "tim": "[dai chanh tang] tap 33 bo kinh so danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 34",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Sớ",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-34.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-34.html",
+   "tim": "[dai chanh tang] tap 34 bo kinh so danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 35",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Sớ",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-35.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-35.html",
+   "tim": "[dai chanh tang] tap 35 bo kinh so danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 36",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Sớ",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-36.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-36.html",
+   "tim": "[dai chanh tang] tap 36 bo kinh so danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 38",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Sớ",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-38.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-38.html",
+   "tim": "[dai chanh tang] tap 38 bo kinh so danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 39",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Sớ",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-39.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-39.html",
+   "tim": "[dai chanh tang] tap 39 bo kinh so danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
    "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 40A",
    "ma": null,
    "han": null,
@@ -12126,6 +12242,45 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-44b-tap-45.html",
    "tep": "bai/2026-11-ai-chanh-tang-tap-44b-tap-45.html",
    "tim": "[dai chanh tang] tap 44b & tap 45 bo chu tong danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 47",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Chư Tông",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-47.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-47.html",
+   "tim": "[dai chanh tang] tap 47 bo chu tong danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 48",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Chư Tông",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": "10.5281/zenodo.23856059",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-48.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-48.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 48 bo chu tong danh muc",
    "nhom": "khac"
   },
   {
@@ -12324,6 +12479,44 @@
   },
   {
    "loai": "bai",
+   "tieu_de": "[ĐẠI TẠNG KINH] TẬP 37",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Sớ",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-tang-kinh-tap-37.html",
+   "tep": "bai/2026-11-ai-tang-kinh-tap-37.html",
+   "tim": "[dai tang kinh] tap 37 bo kinh so danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI TẠNG KINH] TẬP 46",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Chư Tông",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-tang-kinh-tap-46.html",
+   "tep": "bai/2026-11-ai-tang-kinh-tap-46.html",
+   "tim": "[dai tang kinh] tap 46 bo chu tong danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
    "tieu_de": "Ý NGHĨA TÀI LIỆU ĐÍNH ÂM HÁN VIỆT",
    "ma": null,
    "han": null,
@@ -12338,6 +12531,25 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/inh-vi-tai-lieu-inh-am-han-viet.html",
    "tep": "bai/2026-11-inh-vi-tai-lieu-inh-am-han-viet.html",
    "tim": "y nghia tai lieu dinh am han viet loi noi dau",
+   "nhom": "khac",
+   "khong_con_tren_blog": true
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "Định vị tư liệu đính âm Hán Việt",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Ý nghĩa & Mục đích"
+   ],
+   "ngay": "2026-11-19",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/inh-vi-tu-lieu-inh-am-han-viet-ai-tang.html",
+   "tep": "bai/2026-11-inh-vi-tu-lieu-inh-am-han-viet-ai-tang.html",
+   "tim": "dinh vi tu lieu dinh am han viet y nghia & muc dich",
    "nhom": "khac"
   }
  ]
