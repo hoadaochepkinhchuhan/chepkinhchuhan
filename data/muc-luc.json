@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-19T15:25+07:00",
-  "so_bai": 621,
+  "cap_nhat": "2026-11-20T00:31+07:00",
+  "so_bai": 624,
   "so_kinh": 552,
   "so_quyen": 1776,
-  "so_doi": 577,
+  "so_doi": 580,
   "blog_ok": true,
-  "dau_moc": "2026-11-19T11:51:05.375+07:00"
+  "dau_moc": "2026-11-19T22:09:55.765+07:00"
  },
  "muc": [
   {
@@ -5923,7 +5923,8 @@
    "tep": "bai/2026-03-t15n0600-kinh-thap-thien-nghiep-ao-01.html",
    "files": 2,
    "tim": "t15n0600 十善業道經 kinh thap thien nghiep dao (01 quyen) bo kinh tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5942,7 +5943,8 @@
    "tep": "bai/2026-03-t16n0685-phat-thuyet-kinh-vu-lan-bon-01.html",
    "files": 2,
    "tim": "t16n0685 佛說盂蘭盆經 phat thuyet kinh vu lan bon (01 quyen) bo kinh tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5961,7 +5963,8 @@
    "tep": "bai/2026-03-t17n0779-phat-thuyet-kinh-bat-ai-nhan.html",
    "files": 2,
    "tim": "t17n0779 佛說八大人覺經 phat thuyet kinh bat dai nhan giac (01 quyen) bo kinh tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5980,7 +5983,8 @@
    "tep": "bai/2026-07-t17n0784-kinh-tu-thap-nhi-chuong-01.html",
    "files": 3,
    "tim": "t17n0784 四十二章經 kinh tu thap nhi chuong (01 quyen) bo kinh tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -5999,7 +6003,8 @@
    "tep": "bai/2026-07-t17n0846-kinh-ngoai-ao-van-thanh-ai.html",
    "files": 3,
    "tim": "t17n0846 外道問聖大乘法無我義經 kinh ngoai dao van thanh dai thua phap vo nga nghia (01 quyen) bo kinh tap",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11262,7 +11267,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/06/bo-kinh-tap-t14-t17-425-847.html",
    "tep": "bai/2026-06-bo-kinh-tap-t14-t17-425-847.html",
    "tim": "bo kinh tap (t14 ~ t17) (425 ~ 847) bo kinh tap danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11873,6 +11879,66 @@
    "tep": "bai/2026-11-ai-chanh-tang-tap-14.html",
    "files": 24,
    "tim": "[dai chanh tang] tap 14 bo kinh tap danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 15",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Tập",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": "10.5281/zenodo.22022861",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-15.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-15.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 15 bo kinh tap danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 16",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Tập",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": "10.5281/zenodo.22022888",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-16.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-16.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 16 bo kinh tap danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 17",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Kinh Tập",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-19",
+   "doi": "10.5281/zenodo.22022925",
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-17.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-17.html",
+   "files": 2,
+   "tim": "[dai chanh tang] tap 17 bo kinh tap danh muc",
    "nhom": "khac"
   },
   {
