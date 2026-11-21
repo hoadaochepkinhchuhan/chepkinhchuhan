@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-21T08:28+07:00",
-  "so_bai": 624,
+  "cap_nhat": "2026-11-21T09:22+07:00",
+  "so_bai": 625,
   "so_kinh": 552,
   "so_quyen": 1776,
   "so_doi": 580,
   "blog_ok": true,
-  "dau_moc": "2026-11-21T08:27:27.461+07:00"
+  "dau_moc": "2026-11-21T08:46:31.832+07:00"
  },
  "muc": [
   {
@@ -6023,7 +6023,8 @@
    "tep": "bai/2026-08-t19n0944a-ai-phat-anh-nhu-lai-phong-nhu.html",
    "files": 2,
    "tim": "t19n0944a 大佛頂如來放光悉怛多鉢怛囉陀羅尼 dai phat danh nhu lai phong nhu lai phong quang tat dat da bat dat la da la ni (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6042,7 +6043,8 @@
    "tep": "bai/2026-08-t19n0944b-ai-phat-anh-ai-la-ni-01-quyen.html",
    "files": 2,
    "tim": "t19n0944b 大佛頂大陀羅尼 dai phat danh dai da la ni (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6061,7 +6063,8 @@
    "tep": "bai/2026-07-t19n0967-kinh-phat-anh-ton-thang-la-ni.html",
    "files": 2,
    "tim": "t19n0967 佛頂尊勝陀羅尼經 kinh phat danh ton thang da la ni (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6080,7 +6083,8 @@
    "tep": "bai/2026-07-t19n0968-kinh-phat-anh-ton-thang-la-ni.html",
    "files": 2,
    "tim": "t19n0968 佛頂尊勝陀羅尼經 kinh phat danh ton thang da la ni (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6099,7 +6103,8 @@
    "tep": "bai/2026-07-t20n1065-kinh-thien-quang-nhan-quan-tu.html",
    "files": 2,
    "tim": "t20n1065 千光眼觀自在菩薩祕密法經 kinh thien quang nhan quan tu tai bo tat bi mat phap (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6118,7 +6123,8 @@
    "tep": "bai/2026-10-huong-dan-free-download-t21n1413-phat.html",
    "files": 2,
    "tim": "t21n1413 佛說尊勝大明王經 phat thuyet kinh ton thang dai minh vuong (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6137,7 +6143,8 @@
    "tep": "bai/2026-10-t21n1414-phat-thuyet-kinh-kim-than-la.html",
    "files": 2,
    "tim": "t21n1414 佛說金身陀羅尼經 phat thuyet kinh kim than da la ni (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6156,7 +6163,8 @@
    "tep": "bai/2026-10-t21n1415-ai-kim-cang-dieu-cao-son-lau.html",
    "files": 2,
    "tim": "t21n1415 大金剛妙高山樓閣陀羅尼 dai kim cang dieu cao son lau cac da la ni (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6175,7 +6183,8 @@
    "tep": "bai/2026-10-t21n1416-kim-cang-thoi-toai-la-ni-01.html",
    "files": 2,
    "tim": "t21n1416 金剛摧碎陀羅尼 kim cang thoi toai da la ni (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6194,7 +6203,8 @@
    "tep": "bai/2026-06-t21n1417-phat-thuyet-kinh-hoai-tuong.html",
    "files": 2,
    "tim": "t21n1417 佛說壞相金剛陀羅尼經 phat thuyet kinh hoai tuong kim cang da la ni (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6213,7 +6223,8 @@
    "tep": "bai/2026-06-t21n1418-phat-thuyet-kinh-nhut-thiet.html",
    "files": 2,
    "tim": "t21n1418 佛說一切如來安像三昧儀軌經 phat thuyet kinh nhut thiet nhu lai an tuong tam muoi nghi quy (01 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -6232,7 +6243,8 @@
    "tep": "bai/2026-09-t21n1420-long-tho-ngu-minh-luan-02-quyen.html",
    "files": 3,
    "tim": "t21n1420 龍樹五明論 long tho ngu minh luan (02 quyen) bo mat giao",
-   "nhom": "T"
+   "nhom": "T",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11367,7 +11379,8 @@
    "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/06/bo-mat-giao-t18-t21-848-1420.html",
    "tep": "bai/2026-06-bo-mat-giao-t18-t21-848-1420.html",
    "tim": "bo mat giao (t18 ~ t21) (848 ~ 1420) bo mat giao danh muc",
-   "nhom": "khac"
+   "nhom": "khac",
+   "khong_con_tren_blog": true
   },
   {
    "loai": "bai",
@@ -11939,6 +11952,25 @@
    "tep": "bai/2026-11-ai-chanh-tang-tap-17.html",
    "files": 2,
    "tim": "[dai chanh tang] tap 17 bo kinh tap danh muc",
+   "nhom": "khac"
+  },
+  {
+   "loai": "bai",
+   "tieu_de": "[ĐẠI CHÁNH TẠNG] TẬP 18",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "bo": [
+    "Bộ Mật Giáo",
+    "Danh mục"
+   ],
+   "ngay": "2026-11-21",
+   "doi": null,
+   "tai_ve": null,
+   "goc": "https://hoadaochepkinhchuhan.blogspot.com/2026/11/ai-chanh-tang-tap-18.html",
+   "tep": "bai/2026-11-ai-chanh-tang-tap-18.html",
+   "tim": "[dai chanh tang] tap 18 bo mat giao danh muc",
    "nhom": "khac"
   },
   {
