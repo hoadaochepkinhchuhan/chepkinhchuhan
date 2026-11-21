@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-21T16:58+07:00",
+  "cap_nhat": "2026-11-22T00:12+07:00",
   "so_bai": 628,
   "so_kinh": 552,
   "so_quyen": 1776,
-  "so_doi": 583,
+  "so_doi": 585,
   "blog_ok": true,
-  "dau_moc": "2026-11-21T15:42:29.285+07:00"
+  "dau_moc": "2026-11-21T21:27:27.481+07:00"
  },
  "muc": [
   {
@@ -10920,6 +10920,25 @@
    "khong_con_tren_blog": true
   },
   {
+   "loai": "zenodo",
+   "tieu_de": "Chữ Hán phiên âm mật chú và âm Hán Việt",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "ngay": "2026-11-21",
+   "bo": [
+    "Danh mục khác"
+   ],
+   "doi": "10.5281/zenodo.24419310",
+   "tai_ve": null,
+   "goc": "https://zenodo.org/records/24419310",
+   "tep": "bai/zenodo-24419310.html",
+   "files": 1,
+   "tim": "chu han phien am mat chu va am han viet danh muc khac",
+   "nhom": "dmk"
+  },
+  {
    "loai": "bai",
    "tieu_de": "DANH MỤC KHÁC",
    "ma": null,
@@ -10936,6 +10955,25 @@
    "tep": "bai/2026-03-danh-muc-sach.html",
    "files": 4,
    "tim": "danh muc khac danh muc khac",
+   "nhom": "dmk"
+  },
+  {
+   "loai": "zenodo",
+   "tieu_de": "Hướng dẫn đính âm theo phương pháp VBA",
+   "ma": null,
+   "han": null,
+   "hv": null,
+   "quyen": null,
+   "ngay": "2026-11-21",
+   "bo": [
+    "Danh mục khác"
+   ],
+   "doi": "10.5281/zenodo.24419896",
+   "tai_ve": null,
+   "goc": "https://zenodo.org/records/24419896",
+   "tep": "bai/zenodo-24419896.html",
+   "files": 1,
+   "tim": "huong dan dinh am theo phuong phap vba danh muc khac",
    "nhom": "dmk"
   },
   {

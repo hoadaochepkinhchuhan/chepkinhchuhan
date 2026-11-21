@@ -14584,5 +14584,31 @@
 "url": "https://zenodo.org/records/24249890/files/T0156_003.docx?download=1"
 }
 ]
+},
+"24419896": {
+"tieu_de": "Hướng dẫn đính âm theo phương pháp VBA",
+"ngay": "2026-11-21",
+"doi_chung": "10.5281/zenodo.23487973",
+"giay_phep": "cc-by-sa-4.0",
+"files": [
+{
+"ten": "[Hoa Đạo] Danh mục từ có mật chú (Version 3.0).txt",
+"kb": 135,
+"url": "https://zenodo.org/records/24419896/files/%5BHoa%20%C4%90%E1%BA%A1o%5D%20Danh%20m%E1%BB%A5c%20t%E1%BB%AB%20c%C3%B3%20m%E1%BA%ADt%20ch%C3%BA%20%28Version%203.0%29.txt?download=1"
+}
+]
+},
+"24419310": {
+"tieu_de": "Chữ Hán phiên âm mật chú và âm Hán Việt",
+"ngay": "2026-11-21",
+"doi_chung": "10.5281/zenodo.24419309",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "[Hoa Đạo] Chữ Hán phiên âm mật chú và âm Hán Việt (bản số 02).xlsx",
+"kb": 121,
+"url": "https://zenodo.org/records/24419310/files/%5BHoa%20%C4%90%E1%BA%A1o%5D%20Ch%E1%BB%AF%20H%C3%A1n%20phi%C3%AAn%20%C3%A2m%20m%E1%BA%ADt%20ch%C3%BA%20v%C3%A0%20%C3%A2m%20H%C3%A1n%20Vi%E1%BB%87t%20%28b%E1%BA%A3n%20s%E1%BB%91%2002%29.xlsx?download=1"
+}
+]
 }
 }
