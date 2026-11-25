@@ -14610,5 +14610,23 @@
 "url": "https://zenodo.org/records/24419310/files/%5BHoa%20%C4%90%E1%BA%A1o%5D%20Ch%E1%BB%AF%20H%C3%A1n%20phi%C3%AAn%20%C3%A2m%20m%E1%BA%ADt%20ch%C3%BA%20v%C3%A0%20%C3%A2m%20H%C3%A1n%20Vi%E1%BB%87t%20%28b%E1%BA%A3n%20s%E1%BB%91%2002%29.xlsx?download=1"
 }
 ]
+},
+"24523028": {
+"tieu_de": "T14N0439 佛說諸佛經 Phật Thuyết Kinh Chư Phật (01 quyển)",
+"ngay": "2026-11-25",
+"doi_chung": "10.5281/zenodo.24523027",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T14n0439_001 - file âm.docx",
+"kb": 890,
+"url": "https://zenodo.org/records/24523028/files/T14n0439_001%20-%20file%20%C3%A2m.docx?download=1"
+},
+{
+"ten": "T14N0439 佛說諸佛經 Phật Thuyết Kinh Chư Phật (01 quyển).pdf",
+"kb": 791,
+"url": "https://zenodo.org/records/24523028/files/T14N0439%20%E4%BD%9B%E8%AA%AA%E8%AB%B8%E4%BD%9B%E7%B6%93%20Ph%E1%BA%ADt%20Thuy%E1%BA%BFt%20Kinh%20Ch%C6%B0%20Ph%E1%BA%ADt%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+}
+]
 }
 }
