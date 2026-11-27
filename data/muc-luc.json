@@ -1,12 +1,12 @@
 {
  "tong": {
-  "cap_nhat": "2026-11-27T09:50+07:00",
+  "cap_nhat": "2026-11-27T21:27+07:00",
   "so_bai": 628,
-  "so_kinh": 552,
-  "so_quyen": 1776,
-  "so_doi": 585,
+  "so_kinh": 553,
+  "so_quyen": 1777,
+  "so_doi": 586,
   "blog_ok": true,
-  "dau_moc": "2026-11-26T14:56:25.228+07:00"
+  "dau_moc": "2026-11-27T14:19:10.407+07:00"
  },
  "muc": [
   {
@@ -5985,6 +5985,25 @@
    "tim": "t17n0784 四十二章經 kinh tu thap nhi chuong (01 quyen) bo kinh tap",
    "nhom": "T",
    "khong_con_tren_blog": true
+  },
+  {
+   "loai": "zenodo",
+   "tieu_de": "T17N0809 佛說乳光佛經 Phật Thuyết Kinh Nhũ Quang Phật (01 quyển)",
+   "ma": "T17n0809",
+   "han": "佛說乳光佛經",
+   "hv": "Phật Thuyết Kinh Nhũ Quang Phật",
+   "quyen": 1,
+   "ngay": "2026-11-27",
+   "bo": [
+    "Bộ Kinh Tập"
+   ],
+   "doi": "10.5281/zenodo.24580355",
+   "tai_ve": null,
+   "goc": "https://zenodo.org/records/24580355",
+   "tep": "bai/zenodo-24580355.html",
+   "files": 2,
+   "tim": "t17n0809 佛說乳光佛經 phat thuyet kinh nhu quang phat (01 quyen) bo kinh tap",
+   "nhom": "T"
   },
   {
    "loai": "bai",

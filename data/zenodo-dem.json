@@ -14628,5 +14628,23 @@
 "url": "https://zenodo.org/records/24523028/files/T14N0439%20%E4%BD%9B%E8%AA%AA%E8%AB%B8%E4%BD%9B%E7%B6%93%20Ph%E1%BA%ADt%20Thuy%E1%BA%BFt%20Kinh%20Ch%C6%B0%20Ph%E1%BA%ADt%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
 }
 ]
+},
+"24580355": {
+"tieu_de": "T17N0809 佛說乳光佛經 Phật Thuyết Kinh Nhũ Quang Phật (01 quyển)",
+"ngay": "2026-11-27",
+"doi_chung": "10.5281/zenodo.24580354",
+"giay_phep": "cc-by-nc-sa-4.0",
+"files": [
+{
+"ten": "T17N0809 佛說乳光佛經 Phật Thuyết Kinh Nhũ Quang Phật (01 quyển).pdf",
+"kb": 986,
+"url": "https://zenodo.org/records/24580355/files/T17N0809%20%E4%BD%9B%E8%AA%AA%E4%B9%B3%E5%85%89%E4%BD%9B%E7%B6%93%20Ph%E1%BA%ADt%20Thuy%E1%BA%BFt%20Kinh%20Nh%C5%A9%20Quang%20Ph%E1%BA%ADt%20%2801%20quy%E1%BB%83n%29.pdf?download=1"
+},
+{
+"ten": "T17n0809_001 - file âm.docx",
+"kb": 924,
+"url": "https://zenodo.org/records/24580355/files/T17n0809_001%20-%20file%20%C3%A2m.docx?download=1"
+}
+]
 }
 }
